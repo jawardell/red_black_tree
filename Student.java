@@ -10,19 +10,19 @@ public class Student {
 		
 	}
 	
-	public getName(){
+	public String getName(){
 		return name;
 	}
 	
-	public getID(){
+	public long getID(){
 		return id;
 	}
 	
-	public getClassification(){
+	public String getClassification(){
 		return classification;
 	}
 	
-	public getEmail(){
+	public String getEmail(){
 		return email;
 	}
 	
