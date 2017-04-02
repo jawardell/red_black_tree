@@ -6,8 +6,11 @@ public class Student {
 	String classification;
 	String email;
 	
-	public Student(){
-		
+	public Student(String name, long id, String classification, String email){
+		this.name = name;
+		this.id = id;
+		this.classification = classification;
+		this.email = email;
 	}
 	
 	public String getName(){
@@ -26,8 +29,9 @@ public class Student {
 		return email;
 	}
 	
+	//do we want setters? 
+	
 	public String toString(){
-		String s;
-		return s;
+		return "\nStudent\nName: " + name + " ID: " + id + " Classification: " + classification + "Email: " + email;
 	}
 }
