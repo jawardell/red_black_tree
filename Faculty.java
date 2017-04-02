@@ -30,6 +30,6 @@ public class Faculty {
 	}
 	
 	public String toString() {
-		return "\nStudent\nName: " + name + " ID: " + id + " Classification: " + classification + "Email: " + email;
+		return "\nFaculty\nName: " + name + " ID: " + id + " Classification: " + classification + " Email: " + email;
 	}
 }
