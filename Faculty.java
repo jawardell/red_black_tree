@@ -6,28 +6,30 @@ public class Faculty {
 	long cell;
 	String email;
 	
-	public Faculty(){
-		
+	public Faculty(long id, String name, long cell, String email) {
+		this.id = id;
+		this.name = name; 
+		this.cell = cell;
+		this.email = email;
 	}
 	
-	public String getName(){
+	public String getName() {
 		return name;
 	}
 	
-	public long getID(){
+	public long getID() {
 		return id;
 	}
 	
-	public long getCell(){
+	public long getCell() {
 		return cell;
 	}
 	
-	public String getEmail(){
+	public String getEmail() {
 		return email;
 	}
 	
-	public String toString(){
-		String s;
-		return s;
+	public String toString() {
+		return "\nStudent\nName: " + name + " ID: " + id + " Classification: " + classification + "Email: " + email;
 	}
 }
