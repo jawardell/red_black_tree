@@ -2,19 +2,38 @@ package essentials;
 
 public class RedBlackTree{
   
-  //empty tree
-  public RedBlacktree(){
-    
+  protected Node root;
+  protected int size;
+  
+  public RedBlackTree(Node root) {
+    this.root = root;
   }
   
-  //creates tree with root node
-  public RedBlackTree(Object o){
-    
+  public boolean insert(Node node) {
+    //insert the node
+    //order the tree
+    //balance the tree
+    //we could make this void
+    return true;
   }
-                      
-  //creates tree with array of objects
-  public RedBlackTree(Object[] os){
-    
+  
+  public boolean remove(Node node) {
+    //find the node
+    //remove the node
+    //order the tree
+    //balance the tree
+    //we could make this void
+    return true;
   }
+  
+  public void leftRotate() {}
+  
+  public void rightRotate() {}
+  
+  public void traverse() {
+    System.out.print();
+  }
+  
+  
   
 }
