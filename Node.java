@@ -5,17 +5,46 @@ import schooldatabase.Faculty;
 import whocalled.PhoneNumber;
 
 public class Node {
-	
-	public Node(String phoneNumber, PhoneNumber p){
-		
+	private String data;//We could make this a generic type, I chose string because we will be sorting on name (maybe).
+	private Node left, right;
+	private Boolean isRed;
+	public Node(String string) {
+		this.string = string;
 	}
 	
-	public Node(String lastName, Student s){
-		
+	public Node getLeft() {
+		if(!left == null) {
+			return left;
+		}
+		else {
+			return null;
+		}
 	}
 	
-	public Node(String lastName, Faculty f){
-		
+	public Node getRight() {
+		if(!right == null) {
+			return right;
+		}
+		else {
+			return null;
+		}
+	}
+	
+	public Node getRoot() {
+		if(!root == null) {
+			return root;
+		}
+		else {
+			return null;
+		}
+	}
+	
+	public boolean isRed() {
+		return isRed;
+	}
+	
+	public String getData() {
+		return data;
 	}
 	
 }
