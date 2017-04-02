@@ -17,6 +17,7 @@ public class RedBlackTree{
     //insert the node
     //order the tree
     //balance the tree
+    //change the colors of the nodes
     //we could make this void
     return true;
   }
@@ -26,6 +27,7 @@ public class RedBlackTree{
     //remove the node
     //order the tree
     //balance the tree
+    //change the colors of the nodes
     //we could make this void
     return true;
   }
@@ -35,6 +37,7 @@ public class RedBlackTree{
   public void rightRotate() {}
   
   public void traverse() {
+    //print out the tree with some traversal
     System.out.print();
   }
   
