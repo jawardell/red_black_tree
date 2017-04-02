@@ -5,7 +5,7 @@ import schooldatabase.Faculty;
 import whocalled.PhoneNumber;
 
 public class Node {
-	private String data;//We could make this a generic type, I chose string because we will be sorting on name (maybe).
+	private String data;//We could make this a generic type. I chose String because we will be sorting on name (maybe).
 	private Node left, right;
 	private Boolean isRed;
 	public Node(String string) {
