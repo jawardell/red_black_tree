@@ -32,25 +32,23 @@ public class RedBlackTree{
     //we could make this void
     return true;
   }
-  
-  public Node leftRotate(Node n1) {
     
-     Node n2 = n1.left;
-     n1.left = n2.right;
-     n2.right = n1;
-      
-     return n2;
-      
-    
-  }
-  
   private void fix(){
     
   }
   
   public Node rotate(){
     
-  }
+    if(item < parent.element){
+        if(data < parent.left)
+            parent.left = leftRotate(parent.left)
+        else
+            parent.left = rightRotate(parent.left)
+       return parent.left;
+    }
+    
+  }//end of rotate
+  
   
   public Node rightRotate(Node n1) {
       
@@ -59,12 +57,21 @@ public class RedBlackTree{
     n2.left = n1;
     
     return n2;
-  }
+  }//end of rightRotate
+  
+  public Node leftRotate(Node n1) {
+    
+     Node n2 = n1.left;
+     n1.left = n2.right;
+     n2.right = n1;
+      
+     return n2;
+  }//end of leftRotate
   
   public void traverse() {
     //print out the tree with some traversal
     System.out.print();
-  }
+  }//end of traverse
   
   
   
