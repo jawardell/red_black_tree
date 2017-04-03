@@ -3,6 +3,7 @@ package essentials;
 import schooldatabase.Student;
 import schooldatabase.Faculty;
 import whocalled.PhoneNumber;
+import Node.java;
 
 public class RedBlackTree{
   
@@ -32,14 +33,40 @@ public class RedBlackTree{
     return true;
   }
   
-  public void leftRotate() {}
+  public Node leftRotate(Node n1) {
+    
+     Node n2 = n1.left;
+     n1.left = n2.right;
+     n2.right = n1;
+      
+     return n2;
+      
+    
+  }
   
-  public void rightRotate() {}
+  private void fix(){
+    
+  }
+  
+  public Node rotate(){
+    
+  }
+  
+  public Node rightRotate(Node n1) {
+      
+    Node n2 = n1.right;
+    n1.right = n2.left;
+    n2.left = n1;
+    
+    return n2;
+  }
   
   public void traverse() {
     //print out the tree with some traversal
     System.out.print();
   }
+  
+  
   
   
   
