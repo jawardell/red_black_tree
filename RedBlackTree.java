@@ -37,14 +37,23 @@ public class RedBlackTree{
     
   }
   
+  //http://www.sanfoundry.com/java-program-implement-red-black-tree/, method similar to here
   public Node rotate(){
     
-    if(item < parent.element){
+    if(data < parent.element.value){
         if(data < parent.left)
             parent.left = leftRotate(parent.left)
         else
-            parent.left = rightRotate(parent.left)
-       return parent.left;
+            parent.left = rightRotate(parent.left)   
+        return parent.left;
+    }
+    
+    else {
+        if (data< parent.right.value)
+          parent.right = rotateWithLeftChild(parent.right) 
+        else
+          parent.right = rotateWithRightChild(parent.right);
+      return parent.right
     }
     
   }//end of rotate
