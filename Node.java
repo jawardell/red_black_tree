@@ -16,13 +16,13 @@ public class Node {
 	public Node(String key, String[] data, Node left, Node right){
 		this.left = left;
 		this.right = right;
-		isRed = true; //?
+		isRed = false; //inserted node will be black first so initialize as black first
 		this.key = key;
 		this.data = data;
 		
 	}
 	public Node getLeft() {
-		if(!left == null) {
+		if(left != null) {
 			return left;
 		}
 		else {
@@ -31,7 +31,7 @@ public class Node {
 	}
 	
 	public Node getRight() {
-		if(!right == null) {
+		if(right != null) {
 			return right;
 		}
 		else {
@@ -40,7 +40,7 @@ public class Node {
 	}
 	
 	public Node getRoot() {
-		if(!root == null) {
+		if(root != null) {
 			return root;
 		}
 		else {
