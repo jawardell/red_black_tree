@@ -1,12 +1,24 @@
-//http://www.codebytes.in/2014/10/red-black-tree-java-implementation.html
+//http://www.sanfoundry.com/java-program-implement-red-black-tree/
 //tooken from codebytes
 
-public class Node {
+/* Class Node */
+class RedBlackNode
+{
+    RedBlackNode left, right;
+    int element;
+    int color;
 
-	int key = -1, color = BLACK;
-	Node left = nil, right = nil, parent = nil;
-
-	Node(int key) {
-	    this.key = key;
-	} 
+    /* Constructor */
+    public RedBlackNode(int theElement)
+    {
+        this( theElement, null, null );
+    }
+    /* Constructor */
+    public RedBlackNode(int theElement, RedBlackNode lt, RedBlackNode rt)
+    {
+        left = lt;
+        right = rt;
+        element = theElement;
+        color = 1;
+    }
 }
