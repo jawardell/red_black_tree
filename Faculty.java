@@ -1,4 +1,4 @@
-package schooldatabase;
+
 
 public class Faculty {
 	long id;
@@ -30,6 +30,7 @@ public class Faculty {
 	}
 	
 	public String toString() {
-		return "\nFaculty\nName: " + name + " ID: " + id + " Classification: " + classification + " Email: " + email;
+		return "\nFaculty\nName: " + name + " ID: " + id + " Cell: " + cell + " Email: " + email;
 	}
 }
+
