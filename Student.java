@@ -1,6 +1,5 @@
-package schooldatabase;
 
-public class Student {//test
+public class Student {
 	String name;
 	long id;
 	String classification;
