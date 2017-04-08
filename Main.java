@@ -3,6 +3,7 @@ import java.io.*;
 
 class Main {
    public static void main(String[] args) throws Exception {
+      String countryName = "";
       File file = new File("data.txt");
       Scanner scan = new Scanner(file);
       HashMap<Integer, String> names = new HashMap<>();
@@ -19,32 +20,29 @@ class Main {
       scan.close();
       
       Scanner input = new Scanner(System.in);
-      System.out.print("enter phone number: ");
-      int phoneNumRequest = input.nextInt();
+      System.out.print("enter country code: ");
+      String countryCodeStr = input.next();
+      System.out.print("\nenter rest of phone number: ");
+      String restOfNumStr = input.next();
       
-      //get country code
+      int countryCodeInt = Integer.parseInt(countryCodeStr);
+      int goodPhoneNumber = Integer.parseInt((countryCodeStr + restOfNumStr));
       
-      String phoneString = phoneNumRequest+"";
-      String countryString = phoneString.substring(0, 3);
-      int country = Integer.parseInt(countryString);
-      String countryName = "";
-      
-            
-      boolean isThere = tree.search(phoneNumRequest);
+      boolean isThere = tree.search(goodPhoneNumber);
       
       if(isThere) {
       
-         switch (country) {
-         case(001) :
+         switch (countryCodeInt) {
+         case(1) :
             countryName = "America";
             break;
-         case(000) :
+         case(91) :
             countryName = "India";
             break;
-         case(052) :
+         case(52) :
             countryName = "Mexico";
             break;
-         case(061) :
+         case(61) :
             countryName = "Australia";
             break;
          default : 
@@ -53,11 +51,11 @@ class Main {
 
          finalToString += "\n\nSearch Succesful!\nCountry Name: " + countryName + "\n";
       
-         String callerName = names.get(phoneNumRequest);
+         String callerName = names.get(goodPhoneNumber);
       
          finalToString += "Caller Name: " + callerName + "\n";
          
-         finalToString += "Phone Number: " + phoneNumRequest + "\n";
+         finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
 
       } else {
          finalToString += "The search was inconslusive.\nAdd phone number to our database?";
