@@ -5,20 +5,20 @@
 class RedBlackNode
 {
     RedBlackNode left, right;
-    int element;
+    long element;
     int color;
     Student s;
     Faculty f;
     PhoneNumber p;
 
     /* Constructor */
-    public RedBlackNode(int theElement)
+    public RedBlackNode(long theElement)
     {
         this( theElement, null, null );
     }
     
     /* Constructor */
-    public RedBlackNode(int theElement, RedBlackNode lt, RedBlackNode rt)
+    public RedBlackNode(long theElement, RedBlackNode lt, RedBlackNode rt)
     {
         left = lt;
         right = rt;
