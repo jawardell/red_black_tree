@@ -67,7 +67,9 @@ public class NumGen {
       } catch(ArrayIndexOutOfBoundsException e) { System.out.print("Oops: AL.len= " + list.size() + " Bad indx: " + cool);}
       String country = "";
       for(Long i : list) {
+         //Where are these indexes used for?
          int index = (int)(Math.random()*109);
+         //From what I understand, casey selects a random case and assigns the country
          int casey = (int)(Math.random()*6);
          switch(casey) {
             case 0: 
@@ -90,8 +92,22 @@ public class NumGen {
                country = "USA";
                pw.println(country + " 1" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
-
-         
+            case 5:
+               country = "Germany";
+               pw.println(country + " 49" + list.get(list.indexOf(i)) + " " + names[index]);
+               break;
+            case 6:
+               country = "England";
+               pw.println(country + " 44" + list.get(list.indexOf(i)) + " " + names[index]);
+               break;
+            case 7:
+               country = "Japan"
+               pw.println(country + " 81" + list.get(list.indexOf(i)) + " " + names[index]);
+               break;
+            case 8:
+               country = "Brazil";
+               pw.println(country + " 55" + list.get(list.indexOf(i)) + " " + names[index]);
+               break;
          }
          
       }
