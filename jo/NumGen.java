@@ -38,6 +38,7 @@ public class NumGen {
             list2.add(Long.parseLong(numstr.substring(0, numstr.length())));
          }
       }
+      pw2.close();
       
       for(Long i : list2) {
          list.add(list2.get(list2.indexOf(i)));
@@ -53,9 +54,34 @@ public class NumGen {
          }
       }
       } catch(ArrayIndexOutOfBoundsException e) { System.out.print("Oops: AL.len=" + list.size() + "Bad indx: " + cool);}
-      
+      String country = "";
       for(Long i : list) {
-         pw.println(list.get(list.indexOf(i)));
+         int casey = (int)(Math.random()*6);
+         switch(casey) {
+            case 0: 
+               country = "India";
+               pw.println("91" + list.get(list.indexOf(i)) + " " + country);
+               break;
+            case 1: 
+               country = "Australia";
+               pw.println("61" + list.get(list.indexOf(i)) + " " + country);
+               break;
+            case 2:
+               country = "Canada";
+               pw.println("1" + list.get(list.indexOf(i)) + " " + country);
+               break;
+            case 3: 
+               country = "Mexico";
+               pw.println("52" + list.get(list.indexOf(i)) + " " + country);
+               break;
+            case 4: 
+               country = "USA";
+               pw.println("1" + list.get(list.indexOf(i)) + " " + country);
+               break;
+
+         
+         }
+         
       }
       
       boolean repeats = false;
