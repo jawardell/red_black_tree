@@ -5,6 +5,15 @@ public class NumGen {
    public static void main(String[] args) throws FileNotFoundException {
       File file = new File("rands.txt");
       File file2 = new File("log.txt");
+      File file3  = new File("names.txt");
+      Scanner scanner = new Scanner(file3);
+      String[] names = new String[110];
+      for(int i = 0; i < 110; i++) {
+         names[i] = scanner.next();
+      }
+      
+      
+      
       long[] array = new long[1000];
       PrintWriter pw = new PrintWriter(file);
       PrintWriter pw2 = new PrintWriter(file2);
@@ -56,27 +65,28 @@ public class NumGen {
       } catch(ArrayIndexOutOfBoundsException e) { System.out.print("Oops: AL.len=" + list.size() + "Bad indx: " + cool);}
       String country = "";
       for(Long i : list) {
+         int index = (int)(Math.random()*109);
          int casey = (int)(Math.random()*6);
          switch(casey) {
             case 0: 
                country = "India";
-               pw.println("91" + list.get(list.indexOf(i)) + " " + country);
+               pw.println(country + " 91" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
             case 1: 
                country = "Australia";
-               pw.println("61" + list.get(list.indexOf(i)) + " " + country);
+               pw.println(country + " 61" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
             case 2:
                country = "Canada";
-               pw.println("1" + list.get(list.indexOf(i)) + " " + country);
+               pw.println(country + " 1" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
             case 3: 
                country = "Mexico";
-               pw.println("52" + list.get(list.indexOf(i)) + " " + country);
+               pw.println(country + " 52" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
             case 4: 
                country = "USA";
-               pw.println("1" + list.get(list.indexOf(i)) + " " + country);
+               pw.println(country + " 1" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
 
          
@@ -91,7 +101,7 @@ public class NumGen {
             repeats = true;
          }
       }
-      pw.println("Repeats? " + (repeats + ""));
+      pw.println("Repeats? " + repeats);
       pw.close();
    
    }
