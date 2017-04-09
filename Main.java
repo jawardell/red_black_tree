@@ -6,16 +6,15 @@ class Main {
       String countryName = "";
       File file = new File("data.txt");
       Scanner scan = new Scanner(file);
-      HashMap<Integer, String> names = new HashMap<>();
+      HashMap<Long, String> names = new HashMap<>();
       RBTree tree = new RBTree(0);
       String finalToString = "";
       while(scan.hasNext()) {
          String country = scan.next();
-         int phoneNum = scan.nextInt();
+         long phoneNum = scan.nextLong();
          String name = scan.next();
          tree.insert(phoneNum);
-         names.put(phoneNum, name);
-         //scan.nextLine();//go to next line in doc
+         names.put(phoneNum, name);//kd saves the day w/ hm
       }
       scan.close();
       
@@ -26,7 +25,7 @@ class Main {
       String restOfNumStr = input.next();
       
       int countryCodeInt = Integer.parseInt(countryCodeStr);
-      int goodPhoneNumber = Integer.parseInt((countryCodeStr + restOfNumStr));
+      long goodPhoneNumber = Long.parseLong((countryCodeStr + restOfNumStr));
       
       boolean isThere = tree.search(goodPhoneNumber);
       
