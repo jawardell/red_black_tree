@@ -6,7 +6,9 @@ We can delete the log file at some point if we want, it just contains my debuggi
    I was making twice as many adjustments as I needed (I've fixed that though). 
 Feel free to add more names to the text file names.txt, just know that you will have to make adjustments to the array which holds them.
    There are currently 110 lines in names.txt and so the array which holds them has 110 items. We need to add campany names
-   to names.txt.*/
+   to names.txt.
+   
+I think we could easily use this to make the data for the school system.*/
 
 
 import java.util.*;
