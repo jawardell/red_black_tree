@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-
 public class NumGen {
    public static void main(String[] args) throws FileNotFoundException {
       File file = new File("rands.txt");
@@ -11,9 +10,6 @@ public class NumGen {
       for(int i = 0; i < 110; i++) {
          names[i] = scanner.next();
       }
-      
-      
-      
       long[] array = new long[2000];
       PrintWriter pw = new PrintWriter(file);
       PrintWriter pw2 = new PrintWriter(file2);
@@ -42,7 +38,6 @@ public class NumGen {
             for(int j = missing-1; j >= 0; j--) {
                String onerand = ((int)(1+Math.random()*10)) + "";
                numstr = onerand + numstr;
-               
             }
             debug += " post change: " + numstr + "\n";
             pw2.print(debug);
@@ -50,7 +45,6 @@ public class NumGen {
          }
       }
       pw2.close();
-      
       for(Long i : list2) {
          list.add(list2.get(list2.indexOf(i)));
       }
@@ -59,7 +53,6 @@ public class NumGen {
       for(int i = list.size()-1; i > 0; i--) {
          if(i == 0) {continue;}
          if(list.get(i).compareTo(list.get(i)-1) == 0) {
-            
                list.remove(list.indexOf(i)); 
                cool = i;
          }
@@ -111,9 +104,7 @@ public class NumGen {
                pw.println(country + " 55" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
          }
-         
       }
-      
       boolean repeats = false;
       for(Long i : list) {
          if(list.indexOf(i) == 0) {continue;}
@@ -123,6 +114,5 @@ public class NumGen {
       }
       pw.print("Repeats? " + repeats);
       pw.close();
-   
    }
 }
