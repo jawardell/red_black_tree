@@ -67,9 +67,11 @@ public class NumGen {
       } catch(ArrayIndexOutOfBoundsException e) { System.out.print("Oops: AL.len= " + list.size() + " Bad indx: " + cool);}
       String country = "";
       for(Long i : list) {
-         //Where are these indexes used for?
+         //Where are these indexes used for? -KD
+         //they work with an array of 110 names which get printed beside the numbers - Joanne
          int index = (int)(Math.random()*109);
-         //From what I understand, casey selects a random case and assigns the country
+         //From what I understand, casey selects a random case and assigns the country -KD
+         //yes. -Joanne
          int casey = (int)(Math.random()*9);
          switch(casey) {
             case 0: 
