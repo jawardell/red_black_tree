@@ -48,7 +48,7 @@ class Main {
             countryName = "unlisted";
          }
 
-         finalToString += "\n\nSearch Succesful!\nCountry Name: " + countryName + "\n";
+         finalToString += "\n\nSearch Succesful!\nCountry: " + countryName + "\n";
       
          String callerName = names.get(goodPhoneNumber);
       
