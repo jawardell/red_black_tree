@@ -22,7 +22,7 @@ class RBTree
     static final int RED   = 0;
 
     /* Constructor */
-    public RBTree(int negInf)
+    public RBTree(long negInf)
     {
         header = new RedBlackNode(negInf);
         header.left = nullNode;
@@ -39,7 +39,7 @@ class RBTree
         header.right = nullNode;
     }
     /* Function to insert item */
-    public void insert(int item )
+    public void insert(long item )
     {
         current = parent = grand = header;
         nullNode.element = item;
@@ -64,7 +64,7 @@ class RBTree
             parent.right = current;
         handleReorient( item );
     }
-    private void handleReorient(int item)
+    private void handleReorient(long item)
     {
         // Do the color flip
         current.color = RED;
@@ -83,7 +83,7 @@ class RBTree
         // Make root black
         header.right.color = BLACK;
     }
-    private RedBlackNode rotate(int item, RedBlackNode parent)
+    private RedBlackNode rotate(long item, RedBlackNode parent)
     {
         if(item < parent.element)
             return parent.left = item < parent.left.element ? rotateWithLeftChild(parent.left) : rotateWithRightChild(parent.left) ;
@@ -124,16 +124,16 @@ class RBTree
         }
     }
     /* Functions to search for an element */
-    public boolean search(int val)
+    public boolean search(long val)
     {
         return search(header.right, val);
     }
-    private boolean search(RedBlackNode r, int val)
+    private boolean search(RedBlackNode r, long val)
     {
         boolean found = false;
         while ((r != nullNode) && !found)
         {
-            int rval = r.element;
+            long rval = r.element;
             if (val < rval)
                 r = r.left;
             else if (val > rval)
@@ -199,4 +199,3 @@ class RBTree
         }
     }
 }
-
