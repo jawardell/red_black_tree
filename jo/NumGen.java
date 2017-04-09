@@ -14,16 +14,16 @@ public class NumGen {
       
       
       
-      long[] array = new long[1000];
+      long[] array = new long[2000];
       PrintWriter pw = new PrintWriter(file);
       PrintWriter pw2 = new PrintWriter(file2);
-      for(int i = 0; i < 1000; i++) {
+      for(int i = 0; i < 2000; i++) {
          int rand = (int)((0000000000) + Math.random()*Integer.MAX_VALUE);
          long randy = (long)rand;
          array[i] = randy;
       }
       ArrayList<Long> list = new ArrayList<>();
-      for(int i = 0; i < 1000; i++) {
+      for(int i = 0; i < 2000; i++) {
          if(i == 0) {continue;}
          if(array[i-1] == array[i]) {continue;}
          else{list.add(array[i]);}
