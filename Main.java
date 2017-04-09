@@ -57,11 +57,25 @@ class Main {
          finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
 
       } else {
-         finalToString += "The search was inconslusive.\nAdd phone number to our database?";
-         
-         //ask yes or no
-         //if yes, add phone
+         //changed to a print statement because it now serves as a prompt instead of
+         //a final toString
+         System.out.print("The search was inconslusive.\nAdd phone number to our database? (Y/N)");//ask yes or no
+         String addNum = input.next();
+         if(addNum.ignoreCase().equals("y")){
+            //if yes, add phone
+            tree.insert(goodPhoneNumber);
+            System.out.print("The phone number has been added successfully. Thank you for your assistance." +
+                             " Have a great day!");
+         }
+         else if(addNum.ignoreCase().equals("n")){
          //if no, ask to search/add again
+            System.out.println("Would you like to search another number?(Y/N)");
+            String answer = input.next();
+            if(answer.ignoreCase().equals("y")){
+               //this is where we left off   
+            }
+         }
+               
       }
     System.out.println(finalToString);
       
