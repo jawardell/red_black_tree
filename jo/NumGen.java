@@ -64,7 +64,7 @@ public class NumGen {
                cool = i;
          }
       }
-      } catch(ArrayIndexOutOfBoundsException e) { System.out.print("Oops: AL.len=" + list.size() + "Bad indx: " + cool);}
+      } catch(ArrayIndexOutOfBoundsException e) { System.out.print("Oops: AL.len= " + list.size() + " Bad indx: " + cool);}
       String country = "";
       for(Long i : list) {
          int index = (int)(Math.random()*109);
