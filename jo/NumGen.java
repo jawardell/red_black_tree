@@ -38,7 +38,7 @@ public class NumGen {
             int missing = 10 - numstr.length();
             inhere = true; inherenum++; 
             debug += "\nlist[" + list.indexOf(i) + "] , missing: " + missing + " before change: ";
-            debug += numstr + " inherebool¯_(ツ)_/¯: " + inhere + "inherecount " + inherenum +"\n";
+            debug += numstr + " inherebool: " + inhere + " inherecount " + inherenum +"\n";
             for(int j = missing-1; j >= 0; j--) {
                String onerand = ((int)(Math.random()*10)) + "";
                numstr = onerand + numstr;
