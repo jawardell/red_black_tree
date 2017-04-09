@@ -37,15 +37,15 @@ public class NumGen {
          //add digits
          //merge lists
          //remove duplicates again
-      long[] array = new long[2000];//make array for random phone numbers
+      long[] array = new long[2500];//make array for random phone numbers
       
-      for(int i = 0; i < 2000; i++) {//generating random phone numbers
+      for(int i = 0; i < 2500; i++) {//generating random phone numbers
          int rand = (int)((0000000000) + Math.random()*Integer.MAX_VALUE);
          long randy = (long)rand;
          array[i] = randy;//put them in array
       }
       ArrayList<Long> list = new ArrayList<>();//make arraylist for unique numbers
-      for(int i = 0; i < 2000; i++) {
+      for(int i = 0; i < 2500; i++) {
          if(i == 0) {continue;}//avoiding out of bounds -1
          if(array[i-1] == array[i]) {continue;}//if there is a duplicate number, don't add it to the arraylist
          else{list.add(array[i]);}//if the number is unique, add it to the Arraylist
@@ -61,15 +61,15 @@ public class NumGen {
       
       String debug = ""; boolean inhere = false;int inherenum = 0; //keep a log of each number that gets adjusted
       
-      for(Long i : list) {//check each number in the list
-         String numstr = list.get(list.indexOf(i)) + "";//convert to a string for positional access
+      for(int i = list.size()-1; i >= 0; i--) {//check each number in the list
+         String numstr = list.get(i) + "";//convert to a string for positional access
          if(numstr.length() < 10) {//does the number contain less than 10 digits?
             int missing = 10 - numstr.length();//if so, how many more does it need to have 10
             inhere = true; inherenum++; //debug info that goes in the log..
-            debug += "\nlist[" + list.indexOf(i) + "] , missing: " + missing + " before change: ";
+            debug += "\nlist[" + i + "] , missing: " + missing + " before change: ";
             debug += numstr + " inherebool: " + inhere + " inherecount " + inherenum;
             
-            list.remove(list.indexOf(i));//if the number was adjusted, remove it from our original list *****************
+            list.remove(i);//if the number was adjusted, remove it from our original list *****************
             
             for(int j = missing-1; j >= 0; j--) {//add the number of digits the number needs (string concatination)
                String onerand = ((int)(1+Math.random()*10)) + "";//make rand int and convert to string
