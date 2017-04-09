@@ -119,7 +119,7 @@ public class NumGen {
             repeats = true;
          }
       }
-      pw.println("Repeats? " + repeats);
+      pw.print("Repeats? " + repeats);
       pw.close();
    
    }
