@@ -40,7 +40,7 @@ public class NumGen {
             debug += "\nlist[" + list.indexOf(i) + "] , missing: " + missing + " before change: ";
             debug += numstr + " inherebool: " + inhere + " inherecount " + inherenum;
             for(int j = missing-1; j >= 0; j--) {
-               String onerand = ((int)(Math.random()*10)) + "";
+               String onerand = ((int)(1+Math.random()*10)) + "";
                numstr = onerand + numstr;
                
             }
