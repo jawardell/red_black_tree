@@ -19,6 +19,14 @@ class Main {
       scan.close();
       
       Scanner input = new Scanner(System.in);
+      /* The while loop is the concept we should chase.
+      *  We want to keep the command line going until a condition is met
+      *  which means we need a loop.
+      *  The while loop will bring the user back to the top if they 
+      *  specify in the bottom if-statement, that they want to do another search
+      P.S. The braces for the while loop have been placed in their respective location
+      */
+      while(input.next() != "exit"){
       System.out.print("enter country code: ");
       String countryCodeStr = input.next();
       System.out.print("\nenter rest of phone number: ");
@@ -67,18 +75,24 @@ class Main {
             System.out.print("The phone number has been added successfully. Thank you for your assistance." +
                              " Have a great day!");
          }
-         else if(addNum.ignoreCase().equals("n")){
+         else{
          //if no, ask to search/add again
             System.out.println("Would you like to search another number?(Y/N)");
             String answer = input.next();
             if(answer.ignoreCase().equals("y")){
-               //this is where we left off   
+               //leads user to beginning of while loop
+               continue;   
             }
-         }
+            else{
+               finalToString += "GoodBye! \t\t Type 'exit' to end program";
+               break;//hops out of outer-most if-statement
+               //Note: while loop is still running
+            }
                
-      }
+       }
     System.out.println(finalToString);
       
       
+   }//end of while
    }
 }
