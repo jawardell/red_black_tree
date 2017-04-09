@@ -70,7 +70,7 @@ public class NumGen {
          //Where are these indexes used for?
          int index = (int)(Math.random()*109);
          //From what I understand, casey selects a random case and assigns the country
-         int casey = (int)(Math.random()*6);
+         int casey = (int)(Math.random()*9);
          switch(casey) {
             case 0: 
                country = "India";
@@ -101,7 +101,7 @@ public class NumGen {
                pw.println(country + " 44" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
             case 7:
-               country = "Japan"
+               country = "Japan";
                pw.println(country + " 81" + list.get(list.indexOf(i)) + " " + names[index]);
                break;
             case 8:
