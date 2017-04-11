@@ -1,0 +1,2000 @@
+F	75492502	Sophia	Smith	Sophia.Smith@mail.net	(201) 336-5956
+F	53581635	Isabella	Johnson	Isabella.Johnson@mail.net	(202) 580-4946
+S	10095454	Rocco	Quinn	Rocco.Quinn@mail.net	Primary
+S	10100085	Quinton	Skinner	Quinton.Skinner@mail.net	Primary
+S	10107302	Damien	Franklin	Damien.Franklin@mail.net	Hight School
+S	10109798	Dayton	Vance	Dayton.Vance@mail.net	Middle
+S	10187031	Richard	Stevens	Richard.Stevens@mail.net	Hight School
+S	10191456	Salma	Benjamin	Salma.Benjamin@mail.net	Hight School
+S	10256535	Heaven	Guzman	Heaven.Guzman@mail.net	Junior
+S	10258949	Elliott	Vaughn	Elliott.Vaughn@mail.net	Junior
+S	10285536	Cameron	French	Cameron.French@mail.net	Hight School
+S	10315780	Bennett	Romero	Bennett.Romero@mail.net	Primary
+S	10513835	Charli	Hatfield	Charli.Hatfield@mail.net	Pre-Primary
+S	10558696	Kinley	Chavez	Kinley.Chavez@mail.net	Middle
+S	10589241	Jaycee	Roman	Jaycee.Roman@mail.net	Junior
+S	10598993	Mathias	Bartlett	Mathias.Bartlett@mail.net	Primary
+F	10661996	Anabella	Duran	Anabella.Duran@mail.net	(435) 535-4150
+S	10682750	Rosa	Hardin	Rosa.Hardin@mail.net	Primary
+S	10738944	Mya	Wallace	Mya.Wallace@mail.net	Primary
+S	10741250	Marilyn	Heath	Marilyn.Heath@mail.net	Primary
+S	10764001	Giselle	Mills	Giselle.Mills@mail.net	Middle
+S	10775034	Landyn	Patton	Landyn.Patton@mail.net	Pre-Primary
+F	10787591	Kayla	Murphy	Kayla.Murphy@mail.net	(212) 238-1940
+S	10808757	Kyndall	Fuentes	Kyndall.Fuentes@mail.net	Middle
+S	10842512	Armando	Reeves	Armando.Reeves@mail.net	Hight School
+S	10862361	Teagan	Williamson	Teagan.Williamson@mail.net	Middle
+S	10886367	Abdullah	Roach	Abdullah.Roach@mail.net	Hight School
+S	10899351	Dominic	Price	Dominic.Price@mail.net	Primary
+S	10906723	Ximena	Banks	Ximena.Banks@mail.net	Junior
+F	10970924	Katherine	Rivera	Katherine.Rivera@mail.net	(213) 776-8000
+S	10974751	Emmy	Avery	Emmy.Avery@mail.net	Junior
+S	10992348	Keagan	Hoover	Keagan.Hoover@mail.net	Middle
+S	11001954	Mina	Zamora	Mina.Zamora@mail.net	Primary
+S	11080962	Charity	Ewing	Charity.Ewing@mail.net	Middle
+S	11127556	Konnor	Mayo	Konnor.Mayo@mail.net	Middle
+F	11127593	Janiyah	Moody	Janiyah.Moody@mail.net	(331) 778-3639
+S	11253935	Monica	Floyd	Monica.Floyd@mail.net	Primary
+S	11265516	Lillianna	Barr	Lillianna.Barr@mail.net	Hight School
+S	11273584	Aiyana	Ellison	Aiyana.Ellison@mail.net	Primary
+S	11311680	Jabari	Rosales	Jabari.Rosales@mail.net	Primary
+S	11367016	Serenity	Ward	Serenity.Ward@mail.net	Primary
+S	11446908	Zuri	Vaughan	Zuri.Vaughan@mail.net	Middle
+F	11469132	Jagger	Tanner	Jagger.Tanner@mail.net	(737) 979-4590
+S	11482597	Averi	Wilder	Averi.Wilder@mail.net	Primary
+S	11489728	Arlo	Hays	Arlo.Hays@mail.net	Middle
+F	11535732	Esme	Dejesus	Esme.Dejesus@mail.net	(615) 320-1546
+S	11562899	Lara	Slater	Lara.Slater@mail.net	Primary
+S	11577678	Adrien	Weeks	Adrien.Weeks@mail.net	Primary
+F	11608631	Marie	Humphrey	Marie.Humphrey@mail.net	(434) 959-1684
+S	11639679	Marissa	Douglas	Marissa.Douglas@mail.net	Junior
+S	11664211	Guadalupe	Moss	Guadalupe.Moss@mail.net	Middle
+S	11709611	Tara	Michael	Tara.Michael@mail.net	Junior
+S	11713149	Junior	Gillespie	Junior.Gillespie@mail.net	Middle
+F	11734997	Jillian	Morrison	Jillian.Morrison@mail.net	(267) 645-6277
+S	11861162	Tamia	Alford	Tamia.Alford@mail.net	Middle
+S	11874147	Nathaniel	Perry	Nathaniel.Perry@mail.net	Middle
+S	11883937	Morgan	Sanders	Morgan.Sanders@mail.net	Junior
+S	11911741	Tatum	Stevenson	Tatum.Stevenson@mail.net	Primary
+S	11917347	Eli	Bell	Eli.Bell@mail.net	Primary
+F	11919151	Aryanna	Horn	Aryanna.Horn@mail.net	(424) 356-3154
+S	12035302	Nicholas	Perez	Nicholas.Perez@mail.net	Primary
+S	12055247	Ricardo	Johnston	Ricardo.Johnston@mail.net	Junior
+S	12057615	Stanley	Gentry	Stanley.Gentry@mail.net	Primary
+S	12133586	Luka	Kane	Luka.Kane@mail.net	Primary
+S	12225501	Chaim	Mcintyre	Chaim.Mcintyre@mail.net	Primary
+S	12236058	Jazlynn	Glenn	Jazlynn.Glenn@mail.net	Middle
+S	12274063	Jaidyn	Craft	Jaidyn.Craft@mail.net	Primary
+F	12292590	Kennedy	Washington	Kennedy.Washington@mail.net	(217) 247-5273
+F	12349482	Kaitlin	Gillespie	Kaitlin.Gillespie@mail.net	(530) 121-4464
+S	12394529	Lucy	Watson	Lucy.Watson@mail.net	Middle
+S	12395355	Shane	Banks	Shane.Banks@mail.net	Junior
+S	12409079	Anabelle	Bowers	Anabelle.Bowers@mail.net	Middle
+S	12481480	Johann	Ratliff	Johann.Ratliff@mail.net	Hight School
+S	12539936	Waylon	Strickland	Waylon.Strickland@mail.net	Middle
+S	12541950	Emiliano	O'brien	Emiliano.O'brien@mail.net	Middle
+S	12557164	Eden	Aguirre	Eden.Aguirre@mail.net	Hight School
+S	12573324	Jameson	Oliver	Jameson.Oliver@mail.net	Middle
+S	12644055	Maxx	Haney	Maxx.Haney@mail.net	Primary
+F	12646514	Chloe	Taylor	Chloe.Taylor@mail.net	(203) 830-2380
+S	12697597	Aden	Chambers	Aden.Chambers@mail.net	Hight School
+S	12746440	Craig	Mcneil	Craig.Mcneil@mail.net	Junior
+F	12756071	Brooklyn	Clark	Brooklyn.Clark@mail.net	(206) 261-6607
+F	12901523	Selah	Vincent	Selah.Vincent@mail.net	(423) 596-3703
+S	12904290	Walter	Townsend	Walter.Townsend@mail.net	Middle
+S	13061916	Xavier	Bennett	Xavier.Bennett@mail.net	Primary
+F	13075083	Meghan	Mccullough	Meghan.Mccullough@mail.net	(510) 654-1541
+S	13081863	Jaiden	Fox	Jaiden.Fox@mail.net	Primary
+S	13105558	Seamus	Benjamin	Seamus.Benjamin@mail.net	Primary
+S	13203304	Myla	Singleton	Myla.Singleton@mail.net	Primary
+S	13205394	Avery	Garcia	Avery.Garcia@mail.net	Hight School
+S	13283359	Adrianna	Duncan	Adrianna.Duncan@mail.net	Junior
+S	13327115	Patricia	Winters	Patricia.Winters@mail.net	Primary
+F	13370903	Enzo	Cobb	Enzo.Cobb@mail.net	(708) 371-8876
+S	13465042	Kailynn	Barrera	Kailynn.Barrera@mail.net	Hight School
+S	13497319	Corinne	Salas	Corinne.Salas@mail.net	Junior
+S	13606909	Isaias	Molina	Isaias.Molina@mail.net	Primary
+F	13613083	Memphis	Chen	Memphis.Chen@mail.net	(763) 123-4948
+S	13658736	Summer	Ray	Summer.Ray@mail.net	Middle
+S	13690655	Jemma	Stein	Jemma.Stein@mail.net	Middle
+S	13712041	Timothy	Freeman	Timothy.Freeman@mail.net	Junior
+S	13745205	Jade	Fisher	Jade.Fisher@mail.net	Middle
+S	13763241	Austin	Bailey	Austin.Bailey@mail.net	Primary
+S	13828613	Cassius	Guy	Cassius.Guy@mail.net	Primary
+S	13835090	Case	Ellison	Case.Ellison@mail.net	Middle
+S	13967759	Kaylen	Hayden	Kaylen.Hayden@mail.net	Primary
+S	14052748	Mitchell	Sherman	Mitchell.Sherman@mail.net	Primary
+S	14063448	Samiyah	Bentley	Samiyah.Bentley@mail.net	Middle
+F	14076301	Madilyn	Haynes	Madilyn.Haynes@mail.net	(308) 136-4036
+S	14083527	Reagan	Merrill	Reagan.Merrill@mail.net	Primary
+S	14133819	Carley	Valenzuela	Carley.Valenzuela@mail.net	Middle
+S	14155683	Lesly	Bartlett	Lesly.Bartlett@mail.net	Middle
+S	14287474	Londyn	Wheeler	Londyn.Wheeler@mail.net	Primary
+S	14416348	Sadie	Wells	Sadie.Wells@mail.net	Primary
+S	14442701	Felipe	Strong	Felipe.Strong@mail.net	Hight School
+F	14546638	Kylah	Irwin	Kylah.Irwin@mail.net	(606) 604-1630
+S	14562291	Jacoby	Bryan	Jacoby.Bryan@mail.net	Junior
+S	14623236	Philip	Floyd	Philip.Floyd@mail.net	Primary
+F	14637383	Jaylene	Henson	Jaylene.Henson@mail.net	(464) 854-3153
+S	14643042	Amanda	Little	Amanda.Little@mail.net	Primary
+S	14654945	Nicole	Gibson	Nicole.Gibson@mail.net	Junior
+S	14748392	Zoey	Young	Zoey.Young@mail.net	Primary
+S	14805533	Maurice	Jefferson	Maurice.Jefferson@mail.net	Primary
+S	14821426	Cale	Joyner	Cale.Joyner@mail.net	Junior
+S	14828046	Mathew	Guerrero	Mathew.Guerrero@mail.net	Middle
+S	14886340	Natasha	Hogan	Natasha.Hogan@mail.net	Primary
+S	14898134	Zoe	Wright	Zoe.Wright@mail.net	Middle
+S	14987315	Bella	Bailey	Bella.Bailey@mail.net	Hight School
+S	15109440	Azaria	Levy	Azaria.Levy@mail.net	Middle
+S	15110422	Halle	Trevino	Halle.Trevino@mail.net	Junior
+S	15112881	Jaelyn	Fitzgerald	Jaelyn.Fitzgerald@mail.net	Junior
+F	15442774	Jessie	Herring	Jessie.Herring@mail.net	(502) 757-8509
+S	15507135	Rory	Lester	Rory.Lester@mail.net	Hight School
+F	15508609	Lilian	Wong	Lilian.Wong@mail.net	(360) 260-4226
+S	15515432	Kellen	Warner	Kellen.Warner@mail.net	Hight School
+S	15520048	Lyric	Walsh	Lyric.Walsh@mail.net	Primary
+S	15608207	Deandre	Hood	Deandre.Hood@mail.net	Primary
+S	15730252	Zackery	Bright	Zackery.Bright@mail.net	Primary
+F	15763115	Haylee	Fowler	Haylee.Fowler@mail.net	(281) 972-3587
+S	15793577	Brady	Mason	Brady.Mason@mail.net	Primary
+S	15888488	Brisa	Hurley	Brisa.Hurley@mail.net	Primary
+S	15946064	Kyron	Jarvis	Kyron.Jarvis@mail.net	Junior
+F	15967640	Paloma	Bernard	Paloma.Bernard@mail.net	(561) 445-9230
+S	16017256	Mira	Cantu	Mira.Cantu@mail.net	Primary
+S	16070117	Daniela	Berry	Daniela.Berry@mail.net	Primary
+S	16104982	Isaac	Green	Isaac.Green@mail.net	Hight School
+S	16142511	Rosemary	Conway	Rosemary.Conway@mail.net	Middle
+S	16177588	Finnegan	Harrington	Finnegan.Harrington@mail.net	Primary
+F	16224088	Haven	Larsen	Haven.Larsen@mail.net	(419) 517-1560
+S	16246279	Ty	Keller	Ty.Keller@mail.net	Middle
+S	16267530	Arian	Clements	Arian.Clements@mail.net	Junior
+S	16317483	Kimora	Beard	Kimora.Beard@mail.net	Primary
+S	16322807	Melany	Patrick	Melany.Patrick@mail.net	Primary
+S	16331943	Mariana	Pena	Mariana.Pena@mail.net	Hight School
+S	16360655	Giancarlo	Bentley	Giancarlo.Bentley@mail.net	Junior
+S	16387914	Alexia	Barnett	Alexia.Barnett@mail.net	Junior
+S	16565653	Gemma	Mcgee	Gemma.Mcgee@mail.net	Junior
+S	16589073	Madden	Bruce	Madden.Bruce@mail.net	Junior
+S	16603836	Kassidy	Underwood	Kassidy.Underwood@mail.net	Primary
+S	16621891	Blakely	Sharpe	Blakely.Sharpe@mail.net	Junior
+S	16647816	Zeke	Rasmussen	Zeke.Rasmussen@mail.net	Middle
+S	16720190	Rayan	Mcintosh	Rayan.Mcintosh@mail.net	Middle
+S	16765438	Ari	Davenport	Ari.Davenport@mail.net	Pre-Primary
+S	16843100	Haiden	Nieves	Haiden.Nieves@mail.net	Primary
+S	16907214	Neveah	Mayer	Neveah.Mayer@mail.net	Middle
+S	16983894	Trenton	Meyer	Trenton.Meyer@mail.net	Hight School
+S	17024648	Calvin	Chapman	Calvin.Chapman@mail.net	Middle
+S	17097203	Vincenzo	Mcmillan	Vincenzo.Mcmillan@mail.net	Junior
+S	17106470	Nola	Odom	Nola.Odom@mail.net	Primary
+S	17124662	Lennon	Mejia	Lennon.Mejia@mail.net	Pre-Primary
+S	17128693	Davis	Klein	Davis.Klein@mail.net	Hight School
+S	17151450	Aron	Sweeney	Aron.Sweeney@mail.net	Junior
+S	17219408	Ansley	York	Ansley.York@mail.net	Middle
+F	17232615	Susan	Cardenas	Susan.Cardenas@mail.net	(520) 301-6838
+S	17283668	Reece	Mclaughlin	Reece.Mclaughlin@mail.net	Primary
+S	17295980	Marquis	Walls	Marquis.Walls@mail.net	Primary
+S	17315297	Darwin	Chan	Darwin.Chan@mail.net	Primary
+S	17354645	Jasiah	Browning	Jasiah.Browning@mail.net	Junior
+S	17386026	Zane	Alvarez	Zane.Alvarez@mail.net	Primary
+S	17389351	Jaydan	Finch	Jaydan.Finch@mail.net	Hight School
+S	17410210	Alan	Spencer	Alan.Spencer@mail.net	Hight School
+S	17414303	Dario	Riggs	Dario.Riggs@mail.net	Junior
+S	17415419	Kimberly	Torres	Kimberly.Torres@mail.net	Primary
+S	17420297	Roman	Stone	Roman.Stone@mail.net	Junior
+S	17562148	Colt	Lyons	Colt.Lyons@mail.net	Hight School
+S	17585820	Edison	Faulkner	Edison.Faulkner@mail.net	Primary
+S	17910866	Zander	Terry	Zander.Terry@mail.net	Middle
+F	17999828	Howard	England	Howard.England@mail.net	(806) 780-4247
+S	18067504	Justice	Whitaker	Justice.Whitaker@mail.net	Primary
+S	18071280	Giovani	Nash	Giovani.Nash@mail.net	Primary
+S	18228930	Rylee	Ford	Rylee.Ford@mail.net	Hight School
+S	18298069	Kylie	Bell	Kylie.Bell@mail.net	Hight School
+S	18480144	Livia	Valentine	Livia.Valentine@mail.net	Middle
+S	18483879	Benjamin	Martinez	Benjamin.Martinez@mail.net	Hight School
+S	18493048	Ivy	Herrera	Ivy.Herrera@mail.net	Primary
+S	18539132	Melissa	Ruiz	Melissa.Ruiz@mail.net	Primary
+S	18645054	Aydin	Hurst	Aydin.Hurst@mail.net	Primary
+S	18716298	Chaya	Livingston	Chaya.Livingston@mail.net	Junior
+S	18729154	Royce	O'connor	Royce.O'connor@mail.net	Primary
+S	18794676	Helena	Kemp	Helena.Kemp@mail.net	Primary
+S	18798104	Angeline	Russo	Angeline.Russo@mail.net	Middle
+S	18875742	Santiago	Hicks	Santiago.Hicks@mail.net	Primary
+S	18911315	Sloane	Gates	Sloane.Gates@mail.net	Middle
+S	18946883	River	Gill	River.Gill@mail.net	Primary
+S	18959405	Vanessa	Cruz	Vanessa.Cruz@mail.net	Hight School
+S	18971876	Ali	Blair	Ali.Blair@mail.net	Primary
+S	18998815	Maverick	Alvarado	Maverick.Alvarado@mail.net	Primary
+S	19007219	Jesse	Reyes	Jesse.Reyes@mail.net	Junior
+S	19095691	Kael	Dejesus	Kael.Dejesus@mail.net	Pre-Primary
+S	19155588	Sara	Hicks	Sara.Hicks@mail.net	Middle
+S	19183734	Izaiah	Erickson	Izaiah.Erickson@mail.net	Middle
+S	19203846	Paityn	Noble	Paityn.Noble@mail.net	Middle
+S	19205281	Damarion	Pickett	Damarion.Pickett@mail.net	Primary
+S	19213090	Eddie	Underwood	Eddie.Underwood@mail.net	Hight School
+S	19241029	Alana	Fox	Alana.Fox@mail.net	Primary
+S	19394563	Galilea	Velazquez	Galilea.Velazquez@mail.net	Junior
+S	19432363	Quincy	Humphrey	Quincy.Humphrey@mail.net	Hight School
+S	19514342	Maddison	Chandler	Maddison.Chandler@mail.net	Hight School
+S	19611235	Kelsie	Cash	Kelsie.Cash@mail.net	Primary
+S	19635436	Iris	Mendez	Iris.Mendez@mail.net	Pre-Primary
+S	19666787	Maliah	Raymond	Maliah.Raymond@mail.net	Pre-Primary
+S	19713877	Misael	Fuentes	Misael.Fuentes@mail.net	Middle
+S	19754829	Esther	Dean	Esther.Dean@mail.net	Junior
+S	19766875	Michaela	Mccarthy	Michaela.Mccarthy@mail.net	Primary
+S	19799844	Jaeden	Sears	Jaeden.Sears@mail.net	Middle
+S	19810886	Harmony	Garza	Harmony.Garza@mail.net	Primary
+S	19822462	Jonathan	Wright	Jonathan.Wright@mail.net	Junior
+S	19865118	Tinley	Mccray	Tinley.Mccray@mail.net	Hight School
+S	19998694	Abbie	Sanford	Abbie.Sanford@mail.net	Middle
+S	20020426	Nixon	Reilly	Nixon.Reilly@mail.net	Middle
+S	20076949	Anastasia	Ingram	Anastasia.Ingram@mail.net	Middle
+F	20146330	Justice	Clay	Justice.Clay@mail.net	(718) 847-7632
+S	20253685	Roy	Wyatt	Roy.Wyatt@mail.net	Primary
+S	20355325	Duncan	Gamble	Duncan.Gamble@mail.net	Pre-Primary
+S	20416887	Jordan	Campbell	Jordan.Campbell@mail.net	Middle
+F	20450571	Makenzie	Dixon	Makenzie.Dixon@mail.net	(229) 614-3756
+S	20484851	Karissa	Stout	Karissa.Stout@mail.net	Hight School
+S	20504259	Kimber	Guthrie	Kimber.Guthrie@mail.net	Primary
+S	20518650	Boston	Melton	Boston.Melton@mail.net	Junior
+S	20571535	Ellis	Harding	Ellis.Harding@mail.net	Hight School
+S	20590729	Miriam	Salazar	Miriam.Salazar@mail.net	Hight School
+S	20618355	Kane	Burnett	Kane.Burnett@mail.net	Junior
+S	20665991	Remington	Casey	Remington.Casey@mail.net	Primary
+S	20757555	Joey	Bullock	Joey.Bullock@mail.net	Primary
+F	20847792	Mario	Garza	Mario.Garza@mail.net	(661) 543-7878
+S	20981279	Alec	Saunders	Alec.Saunders@mail.net	Primary
+S	20997762	Matthias	Gay	Matthias.Gay@mail.net	Middle
+S	21050013	Jaxen	Cline	Jaxen.Cline@mail.net	Junior
+S	21096612	Krystal	Mcknight	Krystal.Mcknight@mail.net	Middle
+F	21177795	Maliyah	Garner	Maliyah.Garner@mail.net	(316) 798-8915
+S	21193508	Payten	Langley	Payten.Langley@mail.net	Middle
+S	21231494	Toby	Barry	Toby.Barry@mail.net	Middle
+S	21270614	Curtis	Briggs	Curtis.Briggs@mail.net	Primary
+S	21363919	Jordan	Austin	Jordan.Austin@mail.net	Junior
+S	21408624	Libby	Clements	Libby.Clements@mail.net	Hight School
+S	21460255	Marco	Barrett	Marco.Barrett@mail.net	Primary
+S	21559088	Grant	Palmer	Grant.Palmer@mail.net	Primary
+F	21587245	Muhammad	Boone	Muhammad.Boone@mail.net	(716) 891-3254
+S	21607328	Rachael	Dillon	Rachael.Dillon@mail.net	Primary
+S	21610602	Heather	Dodson	Heather.Dodson@mail.net	Primary
+F	21683894	Saniyah	Pruitt	Saniyah.Pruitt@mail.net	(443) 623-4115
+S	21702004	Kamren	Langley	Kamren.Langley@mail.net	Junior
+S	21786616	Shannon	Rush	Shannon.Rush@mail.net	Primary
+S	21908375	Cayden	Daniels	Cayden.Daniels@mail.net	Primary
+S	21919210	Dallas	Ramsey	Dallas.Ramsey@mail.net	Hight School
+S	22017995	Israel	Morrison	Israel.Morrison@mail.net	Primary
+S	22026906	Cooper	Coleman	Cooper.Coleman@mail.net	Middle
+S	22048786	Eve	Hancock	Eve.Hancock@mail.net	Primary
+S	22101902	Avery	Fields	Avery.Fields@mail.net	Pre-Primary
+S	22205252	Ashtyn	Beach	Ashtyn.Beach@mail.net	Primary
+F	22358901	Melody	Fields	Melody.Fields@mail.net	(256) 169-2721
+S	22377965	Celeste	Frank	Celeste.Frank@mail.net	Middle
+S	22390819	Camdyn	Alston	Camdyn.Alston@mail.net	Middle
+F	22473680	Scarlet	Higgins	Scarlet.Higgins@mail.net	(319) 981-3712
+S	22500286	Kayden	Sullivan	Kayden.Sullivan@mail.net	Junior
+S	22558915	Brennan	Fletcher	Brennan.Fletcher@mail.net	Primary
+S	22560577	Lamar	Kerr	Lamar.Kerr@mail.net	Junior
+S	22591424	Jamie	Battle	Jamie.Battle@mail.net	Primary
+S	22591952	Skye	Tran	Skye.Tran@mail.net	Junior
+S	22660074	Lisa	Bradshaw	Lisa.Bradshaw@mail.net	Pre-Primary
+S	22671830	Irene	Sellers	Irene.Sellers@mail.net	Primary
+S	22691343	Jadyn	Acevedo	Jadyn.Acevedo@mail.net	Junior
+F	22693176	Hendrix	Foreman	Hendrix.Foreman@mail.net	(808) 179-3099
+S	22738496	Tucker	Austin	Tucker.Austin@mail.net	Junior
+S	22834925	Milagros	Huber	Milagros.Huber@mail.net	Primary
+S	22873931	Damaris	Vang	Damaris.Vang@mail.net	Hight School
+S	22894738	John	Allen	John.Allen@mail.net	Middle
+S	23021614	Dawson	Barker	Dawson.Barker@mail.net	Primary
+S	23043543	Deon	Vinson	Deon.Vinson@mail.net	Hight School
+F	23085028	Jenna	Arnold	Jenna.Arnold@mail.net	(248) 614-1634
+S	23095873	Jovanni	Rowland	Jovanni.Rowland@mail.net	Primary
+S	23119486	Ingrid	Cotton	Ingrid.Cotton@mail.net	Junior
+F	23228125	Thalia	Mcmahon	Thalia.Mcmahon@mail.net	(616) 168-9835
+S	23298664	Lukas	Medina	Lukas.Medina@mail.net	Junior
+S	23322473	Lilyanna	Mccarty	Lilyanna.Mccarty@mail.net	Middle
+S	23414587	Mauricio	French	Mauricio.French@mail.net	Primary
+S	23456829	Romeo	Vega	Romeo.Vega@mail.net	Junior
+S	23479641	Johanna	Flynn	Johanna.Flynn@mail.net	Hight School
+S	23516186	Sean	Webb	Sean.Webb@mail.net	Hight School
+S	23521103	Eileen	Joyce	Eileen.Joyce@mail.net	Primary
+S	23537841	Eliseo	Sargent	Eliseo.Sargent@mail.net	Primary
+F	23576589	Alicia	Jensen	Alicia.Jensen@mail.net	(283) 572-4635
+S	23595791	Bryn	Mejia	Bryn.Mejia@mail.net	Primary
+S	23632075	Jaylyn	Lindsay	Jaylyn.Lindsay@mail.net	Middle
+S	23670850	Olivia	Jones	Olivia.Jones@mail.net	Primary
+S	23725153	Ezekiel	Sims	Ezekiel.Sims@mail.net	Junior
+S	23726675	Antonio	Cruz	Antonio.Cruz@mail.net	Middle
+S	23793119	Desiree	Eaton	Desiree.Eaton@mail.net	Middle
+S	23805168	Lydia	Alexander	Lydia.Alexander@mail.net	Junior
+S	23844168	Aniya	Gibbs	Aniya.Gibbs@mail.net	Middle
+S	23851000	August	Hammond	August.Hammond@mail.net	Hight School
+S	23894814	Bradley	Hart	Bradley.Hart@mail.net	Junior
+S	23900516	Michael	Davis	Michael.Davis@mail.net	Primary
+S	23901437	Adriana	Crawford	Adriana.Crawford@mail.net	Middle
+F	23909477	Finn	Bush	Finn.Bush@mail.net	(701) 373-2053
+S	23940206	Kameron	Neal	Kameron.Neal@mail.net	Hight School
+S	24009334	Miah	Schroeder	Miah.Schroeder@mail.net	Primary
+S	24035690	Luis	Hughes	Luis.Hughes@mail.net	Junior
+S	24052228	Gunner	Bowen	Gunner.Bowen@mail.net	Primary
+S	24124237	Gracie	Morales	Gracie.Morales@mail.net	Junior
+S	24248670	Izabella	Ramos	Izabella.Ramos@mail.net	Hight School
+S	24381086	Isis	Orr	Isis.Orr@mail.net	Junior
+S	24384278	Drew	Mckinney	Drew.Mckinney@mail.net	Junior
+S	24403094	Caden	Morales	Caden.Morales@mail.net	Middle
+S	24449620	Mariano	Dale	Mariano.Dale@mail.net	Junior
+S	24477787	Gloria	Hoover	Gloria.Hoover@mail.net	Middle
+S	24554513	Trevon	Berg	Trevon.Berg@mail.net	Junior
+S	24597617	Skyler	Bass	Skyler.Bass@mail.net	Junior
+S	24597841	Sam	Wilkins	Sam.Wilkins@mail.net	Junior
+S	24602968	Aniyah	Peters	Aniyah.Peters@mail.net	Junior
+S	24631493	Tristin	Branch	Tristin.Branch@mail.net	Middle
+S	24646596	Keenan	Hopper	Keenan.Hopper@mail.net	Middle
+S	24671969	Donald	Potter	Donald.Potter@mail.net	Junior
+F	24736165	Regina	Cameron	Regina.Cameron@mail.net	(417) 360-3203
+S	24752058	Braden	Jensen	Braden.Jensen@mail.net	Primary
+S	24758190	Jedidiah	Chaney	Jedidiah.Chaney@mail.net	Hight School
+S	24764815	Leilani	Hanson	Leilani.Hanson@mail.net	Primary
+F	24769930	Camden	Dunn	Camden.Dunn@mail.net	(646) 819-9366
+S	24825708	Dillon	Stevenson	Dillon.Stevenson@mail.net	Hight School
+S	24838166	Kara	Valdez	Kara.Valdez@mail.net	Hight School
+S	24844190	Nathaly	Cherry	Nathaly.Cherry@mail.net	Hight School
+S	24894126	Phoenix	Rojas	Phoenix.Rojas@mail.net	Primary
+S	24895653	Ruth	Manning	Ruth.Manning@mail.net	Hight School
+S	24898790	Bruce	Lloyd	Bruce.Lloyd@mail.net	Hight School
+S	24904477	Zaire	Baird	Zaire.Baird@mail.net	Primary
+S	24918769	Cortez	Velazquez	Cortez.Velazquez@mail.net	Hight School
+S	24924853	Daisy	Payne	Daisy.Payne@mail.net	Primary
+S	24976880	Corey	Steele	Corey.Steele@mail.net	Primary
+S	25020243	Sawyer	Willis	Sawyer.Willis@mail.net	Middle
+S	25036538	Erick	Reid	Erick.Reid@mail.net	Junior
+S	25060165	Marc	Petersen	Marc.Petersen@mail.net	Middle
+S	25061223	Lacey	Mclaughlin	Lacey.Mclaughlin@mail.net	Hight School
+S	25182037	David	Garcia	David.Garcia@mail.net	Hight School
+S	25285796	Marcel	Franco	Marcel.Franco@mail.net	Primary
+F	25504151	Lylah	Knox	Lylah.Knox@mail.net	(470) 306-8009
+S	25535159	Joyce	Nieves	Joyce.Nieves@mail.net	Primary
+S	25557998	Lena	Vega	Lena.Vega@mail.net	Hight School
+S	25626495	Lionel	Donaldson	Lionel.Donaldson@mail.net	Primary
+S	25631526	Deegan	Potts	Deegan.Potts@mail.net	Junior
+F	25698688	Jonah	Shaw	Jonah.Shaw@mail.net	(641) 574-1675
+S	25743340	Abbigail	Ayala	Abbigail.Ayala@mail.net	Middle
+S	25790624	Jack	Phillips	Jack.Phillips@mail.net	Middle
+S	25826128	Leighton	Kirk	Leighton.Kirk@mail.net	Primary
+S	25880889	Jamarion	Mueller	Jamarion.Mueller@mail.net	Primary
+S	25922515	Sullivan	Wolf	Sullivan.Wolf@mail.net	Hight School
+S	25976408	Annabelle	Owens	Annabelle.Owens@mail.net	Middle
+S	26005852	Briana	Fuller	Briana.Fuller@mail.net	Middle
+S	26087770	Elsa	Garrison	Elsa.Garrison@mail.net	Hight School
+F	26100221	Coleman	Stanton	Coleman.Stanton@mail.net	(803) 156-1414
+S	26114393	Peyton	Payne	Peyton.Payne@mail.net	Primary
+S	26127143	Kourtney	Roth	Kourtney.Roth@mail.net	Junior
+S	26152107	Kendra	Fletcher	Kendra.Fletcher@mail.net	Middle
+S	26167997	Emilee	Nash	Emilee.Nash@mail.net	Hight School
+S	26218958	Nova	Jarvis	Nova.Jarvis@mail.net	Primary
+S	26259322	Lyric	Stark	Lyric.Stark@mail.net	Primary
+S	26277803	Brody	Jenkins	Brody.Jenkins@mail.net	Middle
+S	26283993	Aubrey	Robinson	Aubrey.Robinson@mail.net	Hight School
+S	26366227	Jakayla	Daugherty	Jakayla.Daugherty@mail.net	Hight School
+S	26438076	Jaylynn	Shaffer	Jaylynn.Shaffer@mail.net	Primary
+S	26473590	Kamron	Holman	Kamron.Holman@mail.net	Primary
+S	26476174	Whitney	Hodge	Whitney.Hodge@mail.net	Hight School
+S	26480078	Cedric	Valentine	Cedric.Valentine@mail.net	Primary
+S	26657783	Rolando	Peck	Rolando.Peck@mail.net	Junior
+S	26719962	Lindsey	Jefferson	Lindsey.Jefferson@mail.net	Hight School
+S	26728639	Ayleen	Church	Ayleen.Church@mail.net	Pre-Primary
+S	26736353	Eduardo	Ruiz	Eduardo.Ruiz@mail.net	Primary
+S	26743354	Omar	Elliott	Omar.Elliott@mail.net	Middle
+S	26744982	Marisol	Petersen	Marisol.Petersen@mail.net	Middle
+S	26775496	Madalyn	Sherman	Madalyn.Sherman@mail.net	Hight School
+S	26786069	Tomas	Atkinson	Tomas.Atkinson@mail.net	Hight School
+S	26851195	Kiana	Stafford	Kiana.Stafford@mail.net	Primary
+S	26872003	Brett	Chase	Brett.Chase@mail.net	Hight School
+F	26887508	Eden	Bradley	Eden.Bradley@mail.net	(252) 654-5493
+F	26905158	Jaylah	Espinoza	Jaylah.Espinoza@mail.net	(409) 264-4856
+S	26913940	Rosalie	Gaines	Rosalie.Gaines@mail.net	Primary
+S	26961083	Alejandro	Hunter	Alejandro.Hunter@mail.net	Primary
+S	26967974	Keaton	Robbins	Keaton.Robbins@mail.net	Primary
+S	26973648	Albert	Rios	Albert.Rios@mail.net	Middle
+S	27007293	Isabell	Bird	Isabell.Bird@mail.net	Middle
+S	27074483	Vincent	Myers	Vincent.Myers@mail.net	Middle
+S	27080370	Isabelle	Ellis	Isabelle.Ellis@mail.net	Middle
+S	27120084	Houston	Whitfield	Houston.Whitfield@mail.net	Middle
+S	27177487	Hana	Franco	Hana.Franco@mail.net	Junior
+S	27328770	Jaylin	Morse	Jaylin.Morse@mail.net	Primary
+S	27431262	Hezekiah	Michael	Hezekiah.Michael@mail.net	Primary
+S	27487152	Theodore	Jacobs	Theodore.Jacobs@mail.net	Junior
+S	27506533	Ronan	Drake	Ronan.Drake@mail.net	Primary
+S	27545441	Urijah	Conway	Urijah.Conway@mail.net	Pre-Primary
+S	27604884	Brayan	Padilla	Brayan.Padilla@mail.net	Middle
+S	27613415	Kamille	Wooten	Kamille.Wooten@mail.net	Primary
+S	27808131	Sariyah	Forbes	Sariyah.Forbes@mail.net	Pre-Primary
+S	27824700	Hayley	Simon	Hayley.Simon@mail.net	Primary
+S	27853487	Alyvia	Mercer	Alyvia.Mercer@mail.net	Junior
+S	27971542	Donovan	Silva	Donovan.Silva@mail.net	Hight School
+S	27999379	Emma	Williams	Emma.Williams@mail.net	Pre-Primary
+S	28139898	Alianna	Valencia	Alianna.Valencia@mail.net	Junior
+S	28169526	Kaylin	Sandoval	Kaylin.Sandoval@mail.net	Middle
+S	28172875	Major	Barlow	Major.Barlow@mail.net	Middle
+S	28183307	Chace	Yang	Chace.Yang@mail.net	Middle
+S	28189795	Trinity	Bennett	Trinity.Bennett@mail.net	Junior
+S	28312407	Alyson	Lamb	Alyson.Lamb@mail.net	Junior
+S	28354452	Gwendolyn	Beasley	Gwendolyn.Beasley@mail.net	Middle
+F	28357023	Jordyn	Gomez	Jordyn.Gomez@mail.net	(227) 426-1157
+S	28443471	Tristen	Moss	Tristen.Moss@mail.net	Primary
+S	28484309	Rylee	Nolan	Rylee.Nolan@mail.net	Junior
+S	28588688	Maria	Simmons	Maria.Simmons@mail.net	Middle
+S	28736200	Draven	Giles	Draven.Giles@mail.net	Primary
+S	28907355	Luke	Nelson	Luke.Nelson@mail.net	Primary
+S	28919498	Audrina	Page	Audrina.Page@mail.net	Hight School
+S	28922884	Hamza	Richmond	Hamza.Richmond@mail.net	Primary
+S	28928336	Jasmine	Kelly	Jasmine.Kelly@mail.net	Middle
+S	28951509	Angelina	Graham	Angelina.Graham@mail.net	Primary
+S	28999474	Dylan	Luna	Dylan.Luna@mail.net	Middle
+S	29085806	Natalia	Cole	Natalia.Cole@mail.net	Primary
+S	29093380	Laura	Lowe	Laura.Lowe@mail.net	Middle
+S	29118920	Gianni	Roman	Gianni.Roman@mail.net	Primary
+S	29154202	Steven	Wells	Steven.Wells@mail.net	Junior
+S	29169258	Steve	Bradshaw	Steve.Bradshaw@mail.net	Junior
+S	29182804	Natalya	Galloway	Natalya.Galloway@mail.net	Primary
+S	29192753	Russell	Maxwell	Russell.Maxwell@mail.net	Primary
+F	29232101	Emmalee	Kerr	Emmalee.Kerr@mail.net	(508) 932-8725
+S	29329061	Rodrigo	Wise	Rodrigo.Wise@mail.net	Primary
+S	29415298	Abram	Moran	Abram.Moran@mail.net	Middle
+S	29418611	Osvaldo	Lowery	Osvaldo.Lowery@mail.net	Primary
+F	29533548	Harlow	Callahan	Harlow.Callahan@mail.net	(445) 761-1560
+F	29546217	Andrea	Henderson	Andrea.Henderson@mail.net	(216) 927-1656
+F	29557959	Kamden	Brady	Kamden.Brady@mail.net	(714) 224-4548
+S	29575548	Arya	Weeks	Arya.Weeks@mail.net	Middle
+S	29593805	Yoselin	Pollard	Yoselin.Pollard@mail.net	Primary
+S	29673222	Amara	Mueller	Amara.Mueller@mail.net	Primary
+S	29718278	Emilio	Mendez	Emilio.Mendez@mail.net	Junior
+S	29726317	Carl	Patel	Carl.Patel@mail.net	Middle
+S	29768890	Viviana	Morton	Viviana.Morton@mail.net	Hight School
+S	29823874	Aarav	Larsen	Aarav.Larsen@mail.net	Primary
+S	29829621	Raphael	Randolph	Raphael.Randolph@mail.net	Hight School
+S	29881527	Triston	Wilkinson	Triston.Wilkinson@mail.net	Junior
+S	29890933	Ben	Leach	Ben.Leach@mail.net	Junior
+S	29952755	Noemi	Velasquez	Noemi.Velasquez@mail.net	Primary
+S	29986825	Logan	Robinson	Logan.Robinson@mail.net	Pre-Primary
+S	30066197	Christina	Neal	Christina.Neal@mail.net	Middle
+S	30107646	Kiley	Colon	Kiley.Colon@mail.net	Pre-Primary
+S	30126960	Ruby	West	Ruby.West@mail.net	Primary
+F	30208583	Karlie	Kinney	Karlie.Kinney@mail.net	(603) 402-4173
+S	30246030	Elsie	Boone	Elsie.Boone@mail.net	Hight School
+F	30269091	Moises	Schwartz	Moises.Schwartz@mail.net	(713) 299-6342
+S	30293637	Janelle	Becker	Janelle.Becker@mail.net	Primary
+S	30328640	Harley	Klein	Harley.Klein@mail.net	Junior
+S	30357949	Lillie	Huff	Lillie.Huff@mail.net	Primary
+S	30402619	Antoine	Frederick	Antoine.Frederick@mail.net	Middle
+S	30521981	Ryan	Whitehead	Ryan.Whitehead@mail.net	Junior
+S	30523403	Garrett	Weaver	Garrett.Weaver@mail.net	Middle
+S	30534084	Emery	Dodson	Emery.Dodson@mail.net	Hight School
+S	30574132	Genesis	Coleman	Genesis.Coleman@mail.net	Hight School
+S	30586367	Dwayne	Bean	Dwayne.Bean@mail.net	Primary
+S	30669617	Nyla	Schultz	Nyla.Schultz@mail.net	Junior
+S	30680483	Billy	Rich	Billy.Rich@mail.net	Middle
+S	30687339	Taraji	Peck	Taraji.Peck@mail.net	Junior
+S	30696179	Willow	Gutierrez	Willow.Gutierrez@mail.net	Hight School
+S	30699993	Layne	Vincent	Layne.Vincent@mail.net	Hight School
+F	30775894	Kristen	Nixon	Kristen.Nixon@mail.net	(479) 327-8212
+S	30951327	Matteo	Francis	Matteo.Francis@mail.net	Primary
+S	30963826	Joel	Henry	Joel.Henry@mail.net	Primary
+F	31031490	Elin	Lowery	Elin.Lowery@mail.net	(478) 848-8591
+S	31094979	Leland	Schneider	Leland.Schneider@mail.net	Primary
+S	31125510	Kody	Stafford	Kody.Stafford@mail.net	Middle
+S	31173868	Serena	Brady	Serena.Brady@mail.net	Primary
+S	31232372	Harper	Beard	Harper.Beard@mail.net	Middle
+S	31258455	Maxton	Mcfadden	Maxton.Mcfadden@mail.net	Primary
+F	31325798	Ishaan	Dickson	Ishaan.Dickson@mail.net	(774) 156-8115
+F	31349630	Rowen	Wilder	Rowen.Wilder@mail.net	(785) 320-3622
+S	31375360	Alexander	Wilson	Alexander.Wilson@mail.net	Primary
+S	31484381	Jefferson	Everett	Jefferson.Everett@mail.net	Junior
+S	31527571	Maia	Hull	Maia.Hull@mail.net	Hight School
+S	31535568	Kate	Olson	Kate.Olson@mail.net	Junior
+S	31635994	Lucas	Hernandez	Lucas.Hernandez@mail.net	Middle
+S	31754785	Arthur	Baldwin	Arthur.Baldwin@mail.net	Middle
+S	31764133	Adalynn	Ramsey	Adalynn.Ramsey@mail.net	Primary
+S	31829620	Lewis	Merritt	Lewis.Merritt@mail.net	Hight School
+S	31842235	Kenzie	Santiago	Kenzie.Santiago@mail.net	Primary
+S	31845519	Broderick	Sosa	Broderick.Sosa@mail.net	Primary
+F	31845655	Rayne	Yang	Rayne.Yang@mail.net	(551) 922-5270
+S	31934558	Marcos	Griffith	Marcos.Griffith@mail.net	Middle
+S	31952355	Dane	Massey	Dane.Massey@mail.net	Junior
+S	31988890	Sylvia	Fischer	Sylvia.Fischer@mail.net	Middle
+S	31993437	Aydan	Hull	Aydan.Hull@mail.net	Middle
+S	32098490	Cory	Glass	Cory.Glass@mail.net	Middle
+S	32131588	Cristian	Carpenter	Cristian.Carpenter@mail.net	Primary
+S	32151887	Raymond	Fuller	Raymond.Fuller@mail.net	Hight School
+F	32307798	Piper	Jordan	Piper.Jordan@mail.net	(224) 859-8472
+S	32393637	Aliza	Emerson	Aliza.Emerson@mail.net	Primary
+S	32425807	Collin	Ray	Collin.Ray@mail.net	Middle
+S	32446928	Kristina	Prince	Kristina.Prince@mail.net	Middle
+S	32464616	Quinn	Rhodes	Quinn.Rhodes@mail.net	Primary
+S	32506023	Gavyn	Kline	Gavyn.Kline@mail.net	Primary
+S	32513055	Greyson	Lawson	Greyson.Lawson@mail.net	Hight School
+S	32779046	Asia	Farrell	Asia.Farrell@mail.net	Hight School
+S	32820306	Braylin	Holden	Braylin.Holden@mail.net	Middle
+S	32909541	Yehuda	Mcmahon	Yehuda.Mcmahon@mail.net	Middle
+F	33005805	Savannah	Mitchell	Savannah.Mitchell@mail.net	(209) 555-2659
+S	33052489	Reagan	Murray	Reagan.Murray@mail.net	Hight School
+F	33054659	Ivan	Tucker	Ivan.Tucker@mail.net	(636) 651-8441
+S	33065378	Blaise	Lancaster	Blaise.Lancaster@mail.net	Primary
+S	33121651	Jaelynn	Marquez	Jaelynn.Marquez@mail.net	Primary
+S	33148582	Brooks	Burgess	Brooks.Burgess@mail.net	Pre-Primary
+S	33162359	Bridget	Carson	Bridget.Carson@mail.net	Middle
+S	33451433	Dakota	Curry	Dakota.Curry@mail.net	Primary
+S	33469982	Brendon	Mccullough	Brendon.Mccullough@mail.net	Junior
+S	33506211	Farrah	Kramer	Farrah.Kramer@mail.net	Primary
+S	33521171	Zariyah	Bender	Zariyah.Bender@mail.net	Junior
+S	33682525	Mercedes	Crosby	Mercedes.Crosby@mail.net	Hight School
+S	33726919	Tiana	Maldonado	Tiana.Maldonado@mail.net	Primary
+F	33730458	Kyleigh	Curtis	Kyleigh.Curtis@mail.net	(302) 842-6943
+S	33736178	Robert	Rivera	Robert.Rivera@mail.net	Primary
+S	33742099	Jalen	Flowers	Jalen.Flowers@mail.net	Hight School
+S	33742228	Gael	Osborne	Gael.Osborne@mail.net	Primary
+S	33762323	Kaden	Marshall	Kaden.Marshall@mail.net	Middle
+S	33765534	Luna	Horton	Luna.Horton@mail.net	Hight School
+S	33775715	Sherlyn	Lynn	Sherlyn.Lynn@mail.net	Hight School
+S	33817359	Alena	Brennan	Alena.Brennan@mail.net	Primary
+S	33857083	Killian	Moon	Killian.Moon@mail.net	Middle
+S	33917928	Blake	Brooks	Blake.Brooks@mail.net	Hight School
+S	33960904	Abrielle	Hendrix	Abrielle.Hendrix@mail.net	Primary
+S	33973992	Shelby	Mccoy	Shelby.Mccoy@mail.net	Hight School
+S	33977044	Ethan	Miller	Ethan.Miller@mail.net	Primary
+S	33998766	Jaime	Ortega	Jaime.Ortega@mail.net	Hight School
+S	34023018	Chana	Bonner	Chana.Bonner@mail.net	Junior
+S	34081202	Cheyenne	Jennings	Cheyenne.Jennings@mail.net	Middle
+S	34109181	Kaydence	Davidson	Kaydence.Davidson@mail.net	Hight School
+F	34153772	Dangelo	Rocha	Dangelo.Rocha@mail.net	(810) 777-9072
+S	34284467	Ezequiel	Small	Ezequiel.Small@mail.net	Middle
+F	34322086	Jenny	Mays	Jenny.Mays@mail.net	(516) 512-9760
+S	34398778	Clinton	Castaneda	Clinton.Castaneda@mail.net	Hight School
+S	34514523	Addyson	Chapman	Addyson.Chapman@mail.net	Primary
+S	34517461	Chance	Mccoy	Chance.Mccoy@mail.net	Hight School
+S	34563448	Griffin	Stanley	Griffin.Stanley@mail.net	Middle
+S	34643487	Giuliana	Weber	Giuliana.Weber@mail.net	Pre-Primary
+S	34714075	Asher	Fisher	Asher.Fisher@mail.net	Primary
+S	34746447	Hope	Jacobs	Hope.Jacobs@mail.net	Middle
+S	34749675	Yadiel	Mayer	Yadiel.Mayer@mail.net	Primary
+F	34907650	Aspen	Acosta	Aspen.Acosta@mail.net	(408) 340-5188
+S	34917534	Kayden	Skinner	Kayden.Skinner@mail.net	Middle
+F	34978893	Kason	Gross	Kason.Gross@mail.net	(712) 296-3889
+S	35057616	Raelyn	Olsen	Raelyn.Olsen@mail.net	Pre-Primary
+S	35159085	Mae	Cabrera	Mae.Cabrera@mail.net	Pre-Primary
+S	35165155	Blaze	Dillon	Blaze.Dillon@mail.net	Middle
+S	35246558	Jaylon	Clemons	Jaylon.Clemons@mail.net	Pre-Primary
+S	35259758	Valentino	Mays	Valentino.Mays@mail.net	Hight School
+S	35275276	Joy	Cochran	Joy.Cochran@mail.net	Primary
+S	35278392	Alaina	Knight	Alaina.Knight@mail.net	Junior
+S	35300767	Nash	Acosta	Nash.Acosta@mail.net	Middle
+S	35303999	Sienna	Harvey	Sienna.Harvey@mail.net	Primary
+S	35346544	Javier	Chavez	Javier.Chavez@mail.net	Middle
+F	35377070	Wayne	Pugh	Wayne.Pugh@mail.net	(760) 221-9402
+S	35389885	Maxwell	Boyd	Maxwell.Boyd@mail.net	Primary
+F	35407177	Kirsten	Coffey	Kirsten.Coffey@mail.net	(564) 726-8881
+S	35508484	Casey	Moses	Casey.Moses@mail.net	Hight School
+F	35581245	Kailyn	Flowers	Kailyn.Flowers@mail.net	(330) 363-6614
+S	35634084	Caiden	Lucas	Caiden.Lucas@mail.net	Junior
+S	35664014	Sarahi	Dale	Sarahi.Dale@mail.net	Junior
+S	35766874	Jonathon	Blackwell	Jonathon.Blackwell@mail.net	Junior
+S	35785022	Kolten	Meadows	Kolten.Meadows@mail.net	Primary
+S	35786677	Salvador	Ware	Salvador.Ware@mail.net	Primary
+S	35807014	Lizbeth	O'neal	Lizbeth.O'neal@mail.net	Hight School
+S	35807331	Allyson	May	Allyson.May@mail.net	Primary
+S	35830979	Jaydin	Gilliam	Jaydin.Gilliam@mail.net	Primary
+S	35842330	Francis	Campos	Francis.Campos@mail.net	Pre-Primary
+S	35843191	Yaritza	Lancaster	Yaritza.Lancaster@mail.net	Middle
+S	35864335	Davian	Ochoa	Davian.Ochoa@mail.net	Middle
+S	35981365	Edith	Barry	Edith.Barry@mail.net	Middle
+S	35989214	Emmanuel	Robertson	Emmanuel.Robertson@mail.net	Pre-Primary
+S	36112326	Darien	Burch	Darien.Burch@mail.net	Junior
+S	36150319	Branden	Noble	Branden.Noble@mail.net	Pre-Primary
+S	36181256	Mohammad	Avila	Mohammad.Avila@mail.net	Middle
+S	36215791	Carolina	Waters	Carolina.Waters@mail.net	Primary
+S	36335042	Alissa	Parrish	Alissa.Parrish@mail.net	Hight School
+S	36390574	Zariah	Massey	Zariah.Massey@mail.net	Primary
+F	36479230	Briley	Sweeney	Briley.Sweeney@mail.net	(475) 180-9623
+S	36540379	Isai	Duke	Isai.Duke@mail.net	Primary
+S	36570674	Ember	Boyer	Ember.Boyer@mail.net	Middle
+S	36589151	Claudia	Avila	Claudia.Avila@mail.net	Primary
+S	36653383	Adelaide	Osborne	Adelaide.Osborne@mail.net	Primary
+F	36835297	Alden	Calderon	Alden.Calderon@mail.net	(786) 912-9726
+F	36949705	Miranda	Franklin	Miranda.Franklin@mail.net	(254) 218-8710
+S	37091182	Kristian	Gallagher	Kristian.Gallagher@mail.net	Primary
+S	37102628	Kali	Phelps	Kali.Phelps@mail.net	Middle
+F	37136595	Haleigh	Hebert	Haleigh.Hebert@mail.net	(518) 387-3387
+S	37181780	Cael	Cabrera	Cael.Cabrera@mail.net	Primary
+S	37228582	Cain	Travis	Cain.Travis@mail.net	Primary
+S	37328797	Nikolai	Knox	Nikolai.Knox@mail.net	Primary
+S	37341940	Emanuel	Byrd	Emanuel.Byrd@mail.net	Primary
+S	37368087	Morgan	Dominguez	Morgan.Dominguez@mail.net	Junior
+S	37373536	Leigha	Haney	Leigha.Haney@mail.net	Primary
+S	37399748	Phoenix	Yates	Phoenix.Yates@mail.net	Primary
+S	37406469	Kai	Gutierrez	Kai.Gutierrez@mail.net	Primary
+S	37411570	Jayde	Leach	Jayde.Leach@mail.net	Primary
+S	37517584	Ean	Spence	Ean.Spence@mail.net	Middle
+S	37520247	Harrison	Peters	Harrison.Peters@mail.net	Junior
+F	37530304	Jovani	O'neill	Jovani.O'neill@mail.net	(772) 342-8888
+F	37557509	Brenna	Hood	Brenna.Hood@mail.net	(407) 152-5878
+S	37696353	Rudy	Woodward	Rudy.Woodward@mail.net	Primary
+S	37697761	Reuben	Mccray	Reuben.Mccray@mail.net	Hight School
+S	37714783	Cecelia	Walter	Cecelia.Walter@mail.net	Junior
+S	37824865	Esteban	Hampton	Esteban.Hampton@mail.net	Hight School
+S	37866660	Francisco	Montgomery	Francisco.Montgomery@mail.net	Middle
+S	37972684	Dennis	Sandoval	Dennis.Sandoval@mail.net	Junior
+S	38045342	Victoria	Lewis	Victoria.Lewis@mail.net	Pre-Primary
+S	38111618	Hugh	Good	Hugh.Good@mail.net	Primary
+S	38150152	Itzel	Pope	Itzel.Pope@mail.net	Primary
+S	38154727	Adyson	Lott	Adyson.Lott@mail.net	Pre-Primary
+S	38288186	Alia	Pennington	Alia.Pennington@mail.net	Middle
+S	38294237	Cannon	Hodge	Cannon.Hodge@mail.net	Middle
+S	38409885	Bruno	Galloway	Bruno.Galloway@mail.net	Middle
+S	38486459	Roselyn	Duke	Roselyn.Duke@mail.net	Middle
+S	38545852	Nolan	Foster	Nolan.Foster@mail.net	Primary
+S	38609308	Freddy	Mcgowan	Freddy.Mcgowan@mail.net	Hight School
+S	38639302	Averie	Small	Averie.Small@mail.net	Junior
+S	38682504	Gabriela	Stephens	Gabriela.Stephens@mail.net	Primary
+F	38695444	Cohen	Cummings	Cohen.Cummings@mail.net	(703) 711-3277
+S	38704857	Elian	Franks	Elian.Franks@mail.net	Primary
+S	38783109	Adeline	Craig	Adeline.Craig@mail.net	Primary
+F	38785955	Carleigh	Holcomb	Carleigh.Holcomb@mail.net	(609) 940-1136
+S	38871915	Daniel	Taylor	Daniel.Taylor@mail.net	Middle
+S	38873664	Ethen	Vang	Ethen.Vang@mail.net	Primary
+F	38879852	Perla	Preston	Perla.Preston@mail.net	(469) 886-2032
+S	38972584	Cristopher	Montoya	Cristopher.Montoya@mail.net	Primary
+S	38982579	Arturo	Ballard	Arturo.Ballard@mail.net	Junior
+S	39039678	Denise	Hess	Denise.Hess@mail.net	Pre-Primary
+F	39069846	Sterling	Koch	Sterling.Koch@mail.net	(765) 636-2694
+S	39196258	Maci	Cunningham	Maci.Cunningham@mail.net	Hight School
+S	39215408	Julianne	O'neill	Julianne.O'neill@mail.net	Primary
+S	39266435	Darius	Swanson	Darius.Swanson@mail.net	Primary
+S	39286935	Danika	Robles	Danika.Robles@mail.net	Primary
+S	39306564	Skylar	Kirby	Skylar.Kirby@mail.net	Primary
+S	39338618	Joaquin	Wolfe	Joaquin.Wolfe@mail.net	Pre-Primary
+S	39436991	Felicity	Juarez	Felicity.Juarez@mail.net	Primary
+S	39471717	Moriah	Aguirre	Moriah.Aguirre@mail.net	Middle
+S	39503898	Cade	Santos	Cade.Santos@mail.net	Primary
+S	39513579	Malcolm	Summers	Malcolm.Summers@mail.net	Middle
+S	39559341	Liliana	Harrison	Liliana.Harrison@mail.net	Junior
+S	39582170	Delilah	Willis	Delilah.Willis@mail.net	Middle
+S	39598121	Zachery	Sampson	Zachery.Sampson@mail.net	Hight School
+S	39606874	Dominick	Walters	Dominick.Walters@mail.net	Junior
+S	39631541	Kingsley	Huber	Kingsley.Huber@mail.net	Primary
+S	39690923	Lana	Cain	Lana.Cain@mail.net	Primary
+S	39716705	Ryan	Walker	Ryan.Walker@mail.net	Primary
+S	39759835	Ray	Velasquez	Ray.Velasquez@mail.net	Junior
+S	39950140	Pearl	Petty	Pearl.Petty@mail.net	Middle
+S	39984612	Jeffery	Dorsey	Jeffery.Dorsey@mail.net	Primary
+S	40032132	Davon	Delacruz	Davon.Delacruz@mail.net	Hight School
+S	40061073	Jazmin	Mcdaniel	Jazmin.Mcdaniel@mail.net	Hight School
+S	40109989	Amari	Sawyer	Amari.Sawyer@mail.net	Middle
+S	40263987	Ignacio	Byers	Ignacio.Byers@mail.net	Middle
+S	40279512	Karis	Compton	Karis.Compton@mail.net	Hight School
+S	40322259	Dominik	Kirk	Dominik.Kirk@mail.net	Hight School
+S	40375662	Crew	Madden	Crew.Madden@mail.net	Hight School
+S	40389226	Bryant	Roy	Bryant.Roy@mail.net	Middle
+F	40424416	Brynn	Weaver	Brynn.Weaver@mail.net	(253) 115-9646
+S	40526083	Justus	Holder	Justus.Holder@mail.net	Primary
+S	40564055	Phillip	Walton	Phillip.Walton@mail.net	Junior
+S	40629553	Martha	Ochoa	Martha.Ochoa@mail.net	Middle
+F	40652359	Jocelyn	Ramirez	Jocelyn.Ramirez@mail.net	(214) 836-3310
+F	40681358	Mckenna	Romero	Mckenna.Romero@mail.net	(270) 795-4381
+S	40692339	Mariyah	Villarreal	Mariyah.Villarreal@mail.net	Middle
+S	40729343	Ella	Thomas	Ella.Thomas@mail.net	Middle
+S	40802233	Seth	Harper	Seth.Harper@mail.net	Primary
+S	40957985	Casey	Colon	Casey.Colon@mail.net	Primary
+S	40959954	Kenneth	Arnold	Kenneth.Arnold@mail.net	Primary
+S	41051869	Blake	Gould	Blake.Gould@mail.net	Junior
+F	41086543	Dana	Vance	Dana.Vance@mail.net	(440) 200-1031
+F	41147352	Bailee	Short	Bailee.Short@mail.net	(414) 605-7563
+F	41175925	Sidney	Acevedo	Sidney.Acevedo@mail.net	(802) 985-1204
+S	41192784	Eliana	Ferguson	Eliana.Ferguson@mail.net	Junior
+S	41207935	Carissa	Rutledge	Carissa.Rutledge@mail.net	Hight School
+S	41299400	Joslyn	Wilkinson	Joslyn.Wilkinson@mail.net	Middle
+S	41389712	Alvaro	Bray	Alvaro.Bray@mail.net	Primary
+F	41410716	Wyatt	Evans	Wyatt.Evans@mail.net	(620) 921-5495
+S	41414484	Kaiden	Perkins	Kaiden.Perkins@mail.net	Junior
+S	41464923	Carson	Powell	Carson.Powell@mail.net	Middle
+S	41485948	Abby	Hale	Abby.Hale@mail.net	Junior
+F	41625860	Lilia	Ferrell	Lilia.Ferrell@mail.net	(567) 296-2956
+S	41833631	Saanvi	Sears	Saanvi.Sears@mail.net	Primary
+S	41854541	Chandler	Zimmerman	Chandler.Zimmerman@mail.net	Primary
+S	41939839	Maritza	Burch	Maritza.Burch@mail.net	Primary
+S	41994849	Kyan	Guthrie	Kyan.Guthrie@mail.net	Primary
+S	42032641	Kellan	Cohen	Kellan.Cohen@mail.net	Hight School
+S	42044127	Wilson	Hess	Wilson.Hess@mail.net	Primary
+S	42046861	Gilbert	Mullen	Gilbert.Mullen@mail.net	Hight School
+S	42048409	Valerie	Stone	Valerie.Stone@mail.net	Hight School
+S	42128634	Aria	Rose	Aria.Rose@mail.net	Junior
+F	42233839	Maeve	Booth	Maeve.Booth@mail.net	(425) 716-2243
+S	42306320	Mike	Riddle	Mike.Riddle@mail.net	Hight School
+F	42330236	Gabrielle	Marshall	Gabrielle.Marshall@mail.net	(225) 823-4837
+S	42491696	Cameron	Morris	Cameron.Morris@mail.net	Hight School
+S	42562279	Spencer	Burton	Spencer.Burton@mail.net	Middle
+F	42627303	Reese	Hunter	Reese.Hunter@mail.net	(228) 651-7646
+S	42641689	Nikolas	Bowers	Nikolas.Bowers@mail.net	Pre-Primary
+F	42716831	Abraham	Lawrence	Abraham.Lawrence@mail.net	(651) 446-7245
+S	42788166	Jairo	Solomon	Jairo.Solomon@mail.net	Middle
+S	42813970	Rowan	Norris	Rowan.Norris@mail.net	Hight School
+S	42872609	Desmond	Delgado	Desmond.Delgado@mail.net	Junior
+S	42875859	Kensley	Melendez	Kensley.Melendez@mail.net	Primary
+S	42880521	Lawrence	Logan	Lawrence.Logan@mail.net	Hight School
+S	42883720	Emilia	Leonard	Emilia.Leonard@mail.net	Primary
+F	42964067	Kinsey	Sykes	Kinsey.Sykes@mail.net	(562) 946-2331
+S	42988730	Yandel	Tillman	Yandel.Tillman@mail.net	Middle
+S	43038705	Matthew	Thomas	Matthew.Thomas@mail.net	Middle
+S	43312667	Alice	Burns	Alice.Burns@mail.net	Hight School
+S	43345963	Alexis	Hall	Alexis.Hall@mail.net	Primary
+S	43396748	Harry	Morse	Harry.Morse@mail.net	Pre-Primary
+S	43416555	Kaitlynn	Frost	Kaitlynn.Frost@mail.net	Primary
+S	43495152	Nehemiah	Cross	Nehemiah.Cross@mail.net	Primary
+S	43505296	Jayden	Lambert	Jayden.Lambert@mail.net	Middle
+S	43511350	Dominique	Hurley	Dominique.Hurley@mail.net	Middle
+S	43544086	Maddox	Matthews	Maddox.Matthews@mail.net	Primary
+S	43641353	Britney	Clemons	Britney.Clemons@mail.net	Primary
+S	43686503	Wade	Shaffer	Wade.Shaffer@mail.net	Primary
+S	43696843	Enrique	Thornton	Enrique.Thornton@mail.net	Middle
+S	43910094	Sidney	Lara	Sidney.Lara@mail.net	Hight School
+S	43918406	Heath	Cotton	Heath.Cotton@mail.net	Primary
+S	43939014	Jaiden	Guy	Jaiden.Guy@mail.net	Junior
+S	43974641	Adelina	Frye	Adelina.Frye@mail.net	Primary
+S	43994055	Laurel	Conrad	Laurel.Conrad@mail.net	Primary
+S	43994123	Joe	Collier	Joe.Collier@mail.net	Pre-Primary
+S	44044861	Frederick	O'neal	Frederick.O'neal@mail.net	Junior
+S	44104798	Franco	Carney	Franco.Carney@mail.net	Junior
+S	44130072	Bentley	Sanders	Bentley.Sanders@mail.net	Primary
+S	44186098	Micah	Stanton	Micah.Stanton@mail.net	Middle
+S	44192451	Celia	Mcintosh	Celia.Mcintosh@mail.net	Junior
+S	44240048	Margaret	Riley	Margaret.Riley@mail.net	Primary
+S	44356378	Aleah	Hodges	Aleah.Hodges@mail.net	Middle
+S	44405618	Talon	Vazquez	Talon.Vazquez@mail.net	Primary
+S	44430262	Deven	Duffy	Deven.Duffy@mail.net	Hight School
+S	44446268	Diego	Diaz	Diego.Diaz@mail.net	Primary
+S	44448367	Ramon	Conley	Ramon.Conley@mail.net	Junior
+S	44450544	Khloe	Edwards	Khloe.Edwards@mail.net	Primary
+S	44452016	Damari	Valencia	Damari.Valencia@mail.net	Junior
+S	44493358	Bryanna	Carrillo	Bryanna.Carrillo@mail.net	Junior
+S	44524807	Blaine	Glenn	Blaine.Glenn@mail.net	Middle
+S	44639606	Leandro	Mercer	Leandro.Mercer@mail.net	Hight School
+S	44657779	Amina	Maddox	Amina.Maddox@mail.net	Middle
+S	44675985	Makayla	Cook	Makayla.Cook@mail.net	Junior
+S	44710384	Cheyanne	Riddle	Cheyanne.Riddle@mail.net	Middle
+S	44776875	Lilyana	Figueroa	Lilyana.Figueroa@mail.net	Middle
+S	44806216	Tabitha	Kent	Tabitha.Kent@mail.net	Junior
+F	44815389	Jase	Dyer	Jase.Dyer@mail.net	(724) 250-9250
+S	44870924	Cullen	Figueroa	Cullen.Figueroa@mail.net	Hight School
+S	44944727	Jolene	Bright	Jolene.Bright@mail.net	Junior
+S	45052996	Johnny	Sutton	Johnny.Sutton@mail.net	Middle
+S	45113811	Chad	Mosley	Chad.Mosley@mail.net	Primary
+S	45129938	Fabian	Holt	Fabian.Holt@mail.net	Hight School
+S	45204238	Kymani	Dotson	Kymani.Dotson@mail.net	Hight School
+S	45213235	Elliana	Daniel	Elliana.Daniel@mail.net	Middle
+S	45326666	Brandon	Parker	Brandon.Parker@mail.net	Middle
+S	45341083	Jerimiah	Alford	Jerimiah.Alford@mail.net	Primary
+F	45354982	Darryl	Kaufman	Darryl.Kaufman@mail.net	(805) 304-4052
+S	45392494	Maggie	Stanley	Maggie.Stanley@mail.net	Primary
+S	45393406	Declan	Duncan	Declan.Duncan@mail.net	Junior
+S	45421425	Renee	Osborn	Renee.Osborn@mail.net	Middle
+F	45512805	Cali	Erickson	Cali.Erickson@mail.net	(323) 748-8862
+S	45620116	Priscilla	Bryan	Priscilla.Bryan@mail.net	Primary
+S	45630828	Tyree	Mcleod	Tyree.Mcleod@mail.net	Junior
+S	45650607	Destinee	Chen	Destinee.Chen@mail.net	Hight School
+S	45650757	Andre	Larson	Andre.Larson@mail.net	Primary
+S	45728042	Axel	Crawford	Axel.Crawford@mail.net	Primary
+F	45830791	Ellen	Mckee	Ellen.Mckee@mail.net	(503) 923-1886
+S	45899324	Brecken	Head	Brecken.Head@mail.net	Hight School
+S	45926933	Beckett	Mullins	Beckett.Mullins@mail.net	Primary
+S	45933212	Xavi	Hinton	Xavi.Hinton@mail.net	Primary
+S	46064641	Leonard	Velez	Leonard.Velez@mail.net	Junior
+S	46135062	Arnav	Coffey	Arnav.Coffey@mail.net	Junior
+S	46242492	Jamal	Ayers	Jamal.Ayers@mail.net	Primary
+S	46400889	Finley	Gates	Finley.Gates@mail.net	Primary
+F	46416343	Avah	Fitzpatrick	Avah.Fitzpatrick@mail.net	(580) 289-7460
+S	46447501	Aubrianna	Hooper	Aubrianna.Hooper@mail.net	Primary
+S	46461473	Rogelio	Jacobson	Rogelio.Jacobson@mail.net	Middle
+F	46465219	Raegan	Hubbard	Raegan.Hubbard@mail.net	(315) 794-9553
+S	46593609	Landry	Cardenas	Landry.Cardenas@mail.net	Pre-Primary
+S	46593971	Jayden	Jones	Jayden.Jones@mail.net	Primary
+S	46601801	Lyla	Stevens	Lyla.Stevens@mail.net	Primary
+S	46616530	Amirah	Holman	Amirah.Holman@mail.net	Primary
+S	46684199	Emelia	Moon	Emelia.Moon@mail.net	Junior
+S	46750721	Trevor	Cunningham	Trevor.Cunningham@mail.net	Hight School
+S	46804686	Bristol	Houston	Bristol.Houston@mail.net	Middle
+S	46866690	Ulises	Nixon	Ulises.Nixon@mail.net	Primary
+F	46871864	Dexter	Joseph	Dexter.Joseph@mail.net	(707) 738-4604
+S	46881915	Ashlynn	Mendoza	Ashlynn.Mendoza@mail.net	Primary
+S	46887983	Keith	Newton	Keith.Newton@mail.net	Primary
+S	46944248	Ariel	Guerra	Ariel.Guerra@mail.net	Primary
+S	46989091	Sandra	Johns	Sandra.Johns@mail.net	Middle
+S	47037578	Paris	Baldwin	Paris.Baldwin@mail.net	Hight School
+S	47049598	Kade	Lindsey	Kade.Lindsey@mail.net	Middle
+S	47083053	Aimee	Sexton	Aimee.Sexton@mail.net	Hight School
+S	47111706	Briella	Wilkerson	Briella.Wilkerson@mail.net	Junior
+S	47122138	Grayson	Russell	Grayson.Russell@mail.net	Primary
+S	47125246	Madelynn	Blake	Madelynn.Blake@mail.net	Pre-Primary
+F	47180161	Aubrie	Mullins	Aubrie.Mullins@mail.net	(313) 780-6354
+S	47282782	Guillermo	Parrish	Guillermo.Parrish@mail.net	Pre-Primary
+S	47298395	Bryce	Ellis	Bryce.Ellis@mail.net	Primary
+S	47379542	Gage	Grant	Gage.Grant@mail.net	Middle
+S	47405516	Tyrell	Compton	Tyrell.Compton@mail.net	Junior
+S	47441750	Lina	Holder	Lina.Holder@mail.net	Junior
+S	47460395	Tyson	Brewer	Tyson.Brewer@mail.net	Junior
+S	47472962	Elijah	Jackson	Elijah.Jackson@mail.net	Junior
+S	47499801	Leonidas	Odom	Leonidas.Odom@mail.net	Hight School
+S	47513587	Delaney	Lynch	Delaney.Lynch@mail.net	Junior
+S	47524630	Rachel	Mcdonald	Rachel.Mcdonald@mail.net	Junior
+S	47545124	Elena	Dunn	Elena.Dunn@mail.net	Hight School
+S	47594165	Hattie	Puckett	Hattie.Puckett@mail.net	Middle
+S	47724549	Elianna	Solis	Elianna.Solis@mail.net	Primary
+S	47806986	Maya	Cox	Maya.Cox@mail.net	Primary
+S	47860090	Theo	Hooper	Theo.Hooper@mail.net	Junior
+S	47921627	Deangelo	Rollins	Deangelo.Rollins@mail.net	Hight School
+S	48010856	Bradyn	Gould	Bradyn.Gould@mail.net	Hight School
+S	48011607	Brian	Murray	Brian.Murray@mail.net	Junior
+F	48049775	Samara	Bond	Samara.Bond@mail.net	(415) 118-7888
+S	48058994	Khalil	Norton	Khalil.Norton@mail.net	Middle
+S	48066106	Alina	Terry	Alina.Terry@mail.net	Primary
+S	48067252	Hailey	Lopez	Hailey.Lopez@mail.net	Middle
+S	48097202	Princess	Rosa	Princess.Rosa@mail.net	Primary
+S	48163074	Alexandra	Price	Alexandra.Price@mail.net	Junior
+S	48282175	Jaden	Hyde	Jaden.Hyde@mail.net	Hight School
+S	48303760	Arianna	Sanchez	Arianna.Sanchez@mail.net	Middle
+S	48422789	Anaya	Barton	Anaya.Barton@mail.net	Junior
+S	48429365	Joselyn	Blair	Joselyn.Blair@mail.net	Primary
+S	48488343	Myah	Keith	Myah.Keith@mail.net	Junior
+F	48584487	Bobby	House	Bobby.House@mail.net	(757) 983-3326
+S	48701345	Randy	Dennis	Randy.Dennis@mail.net	Middle
+S	48730919	Kelly	Cummings	Kelly.Cummings@mail.net	Junior
+S	48797720	Graham	Pearson	Graham.Pearson@mail.net	Pre-Primary
+S	48805440	Aisha	Merritt	Aisha.Merritt@mail.net	Middle
+S	48850471	Rihanna	Giles	Rihanna.Giles@mail.net	Primary
+F	48888344	Judah	Craig	Judah.Craig@mail.net	(682) 724-9228
+S	48904772	Karen	Miles	Karen.Miles@mail.net	Primary
+F	48922434	Andrew	Martin	Andrew.Martin@mail.net	(618) 926-4269
+S	49030026	Aurora	Andrews	Aurora.Andrews@mail.net	Pre-Primary
+F	49110567	June	Lloyd	June.Lloyd@mail.net	(386) 171-2916
+S	49168660	Jaxson	Ramos	Jaxson.Ramos@mail.net	Junior
+S	49222572	Aleena	Lang	Aleena.Lang@mail.net	Hight School
+S	49255947	Caylee	Moran	Caylee.Moran@mail.net	Primary
+S	49274875	Parker	Barnes	Parker.Barnes@mail.net	Primary
+S	49282103	Jaycob	Cash	Jaycob.Cash@mail.net	Primary
+S	49290004	Thaddeus	Nielsen	Thaddeus.Nielsen@mail.net	Primary
+S	49422606	Annie	Goodman	Annie.Goodman@mail.net	Primary
+S	49480430	Beatrice	Estes	Beatrice.Estes@mail.net	Primary
+S	49534350	Hazel	Montgomery	Hazel.Montgomery@mail.net	Middle
+S	49542780	Liana	Sparks	Liana.Sparks@mail.net	Primary
+S	49566239	Cassidy	Sutton	Cassidy.Sutton@mail.net	Pre-Primary
+S	49726057	Porter	Holloway	Porter.Holloway@mail.net	Junior
+S	49751532	Tenley	Gill	Tenley.Gill@mail.net	Primary
+S	49760153	Mariam	Mccall	Mariam.Mccall@mail.net	Middle
+S	49768480	Lane	Curtis	Lane.Curtis@mail.net	Hight School
+F	49805194	Nahla	Fulton	Nahla.Fulton@mail.net	(570) 208-8718
+S	49827307	Jayce	Fernandez	Jayce.Fernandez@mail.net	Primary
+S	49836594	Miley	Barker	Miley.Barker@mail.net	Junior
+S	49919056	Tessa	Nguyen	Tessa.Nguyen@mail.net	Primary
+S	49930028	Aidan	Woods	Aidan.Woods@mail.net	Hight School
+F	50061159	Josiah	Ross	Josiah.Ross@mail.net	(626) 720-3529
+S	50074172	Hayleigh	Potts	Hayleigh.Potts@mail.net	Primary
+S	50113569	Raiden	Huffman	Raiden.Huffman@mail.net	Middle
+S	50150859	Audrey	Roberts	Audrey.Roberts@mail.net	Pre-Primary
+S	50163479	Jaylee	Deleon	Jaylee.Deleon@mail.net	Primary
+S	50185324	Manuel	George	Manuel.George@mail.net	Middle
+S	50220956	Liberty	Mosley	Liberty.Mosley@mail.net	Primary
+S	50229287	Carlie	Mckay	Carlie.Mckay@mail.net	Primary
+S	50302907	Taryn	Bauer	Taryn.Bauer@mail.net	Hight School
+S	50419256	Lucille	Owen	Lucille.Owen@mail.net	Junior
+S	50456359	Miguel	Simpson	Miguel.Simpson@mail.net	Hight School
+S	50505484	Baylee	Maxwell	Baylee.Maxwell@mail.net	Primary
+S	50509665	Bentlee	Booker	Bentlee.Booker@mail.net	Junior
+S	50537878	Kaia	Bullock	Kaia.Bullock@mail.net	Primary
+S	50617099	Gracelyn	Clarke	Gracelyn.Clarke@mail.net	Hight School
+S	50636936	Conor	Lang	Conor.Lang@mail.net	Hight School
+S	50659930	Braylee	Key	Braylee.Key@mail.net	Junior
+S	50667306	Bo	Church	Bo.Church@mail.net	Pre-Primary
+S	50799632	Patience	Crane	Patience.Crane@mail.net	Pre-Primary
+S	50813363	Adan	Daniel	Adan.Daniel@mail.net	Primary
+S	50874993	Angel	Meyer	Angel.Meyer@mail.net	Junior
+S	50896587	Nathan	Young	Nathan.Young@mail.net	Middle
+S	50921555	Kira	Bowen	Kira.Bowen@mail.net	Middle
+S	50924496	Wesley	Ferguson	Wesley.Ferguson@mail.net	Middle
+S	50951759	Lila	Spencer	Lila.Spencer@mail.net	Pre-Primary
+S	50966427	Corban	Wooten	Corban.Wooten@mail.net	Primary
+S	51005945	Landen	Harvey	Landen.Harvey@mail.net	Primary
+S	51033044	Geraldine	England	Geraldine.England@mail.net	Hight School
+S	51122254	Jett	Benson	Jett.Benson@mail.net	Primary
+S	51310088	Olive	Gross	Olive.Gross@mail.net	Junior
+S	51310346	Rory	Cote	Rory.Cote@mail.net	Hight School
+S	51310578	Veronica	Gregory	Veronica.Gregory@mail.net	Primary
+S	51314121	Miles	Harrison	Miles.Harrison@mail.net	Primary
+S	51399936	Alma	Britt	Alma.Britt@mail.net	Hight School
+F	51416157	Clare	Shannon	Clare.Shannon@mail.net	(484) 379-2785
+S	51469669	Camren	Leblanc	Camren.Leblanc@mail.net	Middle
+S	51476747	Maximilian	Mcbride	Maximilian.Mcbride@mail.net	Junior
+S	51522984	Hunter	Reed	Hunter.Reed@mail.net	Hight School
+S	51564516	Trystan	Kidd	Trystan.Kidd@mail.net	Middle
+S	51565833	Alexis	Frazier	Alexis.Frazier@mail.net	Primary
+S	51630970	Adele	Carey	Adele.Carey@mail.net	Primary
+S	51631701	Journee	Branch	Journee.Branch@mail.net	Hight School
+S	51714955	Princeton	O'neil	Princeton.O'neil@mail.net	Hight School
+F	51752070	Simon	Holland	Simon.Holland@mail.net	(667) 693-3852
+S	51763603	Rose	Holt	Rose.Holt@mail.net	Middle
+S	51806520	Troy	Hanson	Troy.Hanson@mail.net	Primary
+S	51844530	Luciano	English	Luciano.English@mail.net	Junior
+S	51862965	Juan	Flores	Juan.Flores@mail.net	Hight School
+S	51910133	Makai	Mclean	Makai.Mclean@mail.net	Junior
+S	51965139	Genevieve	Reid	Genevieve.Reid@mail.net	Middle
+S	51994226	Clara	Palmer	Clara.Palmer@mail.net	Middle
+S	52179055	Mark	Hawkins	Mark.Hawkins@mail.net	Junior
+S	52192173	Emersyn	Pugh	Emersyn.Pugh@mail.net	Primary
+S	52196738	Trey	Leonard	Trey.Leonard@mail.net	Junior
+S	52242538	Julia	Morgan	Julia.Morgan@mail.net	Junior
+S	52301244	Hailee	Grimes	Hailee.Grimes@mail.net	Hight School
+F	52357124	Brittany	Doyle	Brittany.Doyle@mail.net	(336) 589-3733
+S	52412784	Nevaeh	Green	Nevaeh.Green@mail.net	Junior
+S	52467563	Nicolas	Berry	Nicolas.Berry@mail.net	Primary
+S	52489492	Luciana	Wyatt	Luciana.Wyatt@mail.net	Primary
+S	52522786	Jaxton	Harrell	Jaxton.Harrell@mail.net	Hight School
+S	52523238	Colby	Powers	Colby.Powers@mail.net	Primary
+S	52524508	Naomi	Foster	Naomi.Foster@mail.net	Middle
+S	52546253	Myra	Tillman	Myra.Tillman@mail.net	Middle
+S	52558501	Preston	Kennedy	Preston.Kennedy@mail.net	Middle
+S	52563430	Karly	Barlow	Karly.Barlow@mail.net	Primary
+S	52588427	Sierra	Jimenez	Sierra.Jimenez@mail.net	Junior
+S	52734545	Emmett	Hansen	Emmett.Hansen@mail.net	Primary
+S	52855568	Kendall	Robles	Kendall.Robles@mail.net	Primary
+S	52926355	Kiara	Ball	Kiara.Ball@mail.net	Hight School
+S	52951912	Aleigha	Kirkland	Aleigha.Kirkland@mail.net	Middle
+S	53109427	Yazmin	Wynn	Yazmin.Wynn@mail.net	Primary
+S	53116039	Rayna	Mullen	Rayna.Mullen@mail.net	Primary
+S	53125269	William	Williams	William.Williams@mail.net	Primary
+F	53126814	Selena	Keller	Selena.Keller@mail.net	(312) 861-9289
+S	53150354	Alexandria	Carr	Alexandria.Carr@mail.net	Primary
+S	53153563	Mayson	Suarez	Mayson.Suarez@mail.net	Junior
+S	53198810	Sophie	Stewart	Sophie.Stewart@mail.net	Middle
+S	53216996	Leia	Whitney	Leia.Whitney@mail.net	Pre-Primary
+S	53261681	Isla	Soto	Isla.Soto@mail.net	Primary
+S	53320205	Jaida	Spears	Jaida.Spears@mail.net	Junior
+S	53414255	Ernest	Mccarty	Ernest.Mccarty@mail.net	Hight School
+F	53451025	Izayah	Mcfarland	Izayah.Mcfarland@mail.net	(775) 799-4349
+S	53504780	Angelo	Pena	Angelo.Pena@mail.net	Primary
+S	53538466	Kailee	Mclean	Kailee.Mclean@mail.net	Primary
+S	53549811	Martin	Davidson	Martin.Davidson@mail.net	Primary
+S	53564872	Jazmine	Rodriquez	Jazmine.Rodriquez@mail.net	Primary
+S	53734563	Skyla	Dickerson	Skyla.Dickerson@mail.net	Junior
+S	53873626	Demarcus	Craft	Demarcus.Craft@mail.net	Hight School
+S	53921327	Nathalie	Nicholson	Nathalie.Nicholson@mail.net	Hight School
+S	53950670	Payton	Malone	Payton.Malone@mail.net	Hight School
+S	53980126	Virginia	Meyers	Virginia.Meyers@mail.net	Junior
+S	53989452	Semaj	Henson	Semaj.Henson@mail.net	Junior
+S	53989957	Stacy	Gilliam	Stacy.Gilliam@mail.net	Primary
+F	53991511	Channing	Villarreal	Channing.Villarreal@mail.net	(754) 312-4238
+S	53993133	Raven	Patel	Raven.Patel@mail.net	Middle
+S	54056431	Jayda	Norris	Jayda.Norris@mail.net	Primary
+S	54100343	Ariana	Perry	Ariana.Perry@mail.net	Primary
+S	54108934	Amalia	Rocha	Amalia.Rocha@mail.net	Middle
+S	54158877	Juliet	Hoffman	Juliet.Hoffman@mail.net	Middle
+S	54166810	Elisabeth	Dorsey	Elisabeth.Dorsey@mail.net	Primary
+S	54183243	Caroline	Patterson	Caroline.Patterson@mail.net	Primary
+S	54192276	Rene	Rojas	Rene.Rojas@mail.net	Middle
+S	54200116	Gavin	Adams	Gavin.Adams@mail.net	Hight School
+S	54204627	Hayden	Washington	Hayden.Washington@mail.net	Hight School
+S	54407582	Gibson	Wynn	Gibson.Wynn@mail.net	Primary
+S	54421166	Xzavier	Mathews	Xzavier.Mathews@mail.net	Primary
+S	54477164	Noe	Booth	Noe.Booth@mail.net	Middle
+S	54496094	Cyrus	Sawyer	Cyrus.Sawyer@mail.net	Primary
+S	54507511	Kelsey	Silva	Kelsey.Silva@mail.net	Middle
+S	54507763	Kolby	Rush	Kolby.Rush@mail.net	Hight School
+F	54579634	Cynthia	Nunez	Cynthia.Nunez@mail.net	(339) 929-4133
+S	54767470	Karsyn	Leblanc	Karsyn.Leblanc@mail.net	Pre-Primary
+S	54790361	Tate	Adkins	Tate.Adkins@mail.net	Junior
+S	54821398	Kylan	Hickman	Kylan.Hickman@mail.net	Junior
+F	54876701	Madelyn	Barnes	Madelyn.Barnes@mail.net	(215) 378-3262
+S	54898676	Jamie	Pratt	Jamie.Pratt@mail.net	Junior
+S	54936803	Atticus	Morton	Atticus.Morton@mail.net	Middle
+S	54974787	Ally	Gentry	Ally.Gentry@mail.net	Middle
+S	54994318	Callen	Wiley	Callen.Wiley@mail.net	Middle
+S	55040653	Ashlyn	Wagner	Ashlyn.Wagner@mail.net	Middle
+S	55048783	Laney	Monroe	Laney.Monroe@mail.net	Pre-Primary
+S	55068417	Branson	William	Branson.William@mail.net	Primary
+S	55069633	Janae	Barron	Janae.Barron@mail.net	Middle
+S	55277509	Lilianna	Marks	Lilianna.Marks@mail.net	Primary
+S	55282721	Gerardo	Mcgee	Gerardo.Mcgee@mail.net	Middle
+F	55292149	Amelia	King	Amelia.King@mail.net	(207) 254-2752
+S	55356994	Corbin	Castillo	Corbin.Castillo@mail.net	Primary
+S	55359870	Julius	Salazar	Julius.Salazar@mail.net	Junior
+S	55405525	Everett	Douglas	Everett.Douglas@mail.net	Primary
+S	55483782	Jorge	Armstrong	Jorge.Armstrong@mail.net	Primary
+S	55532968	Mollie	Hickman	Mollie.Hickman@mail.net	Primary
+F	55626298	Eleanor	Daniels	Eleanor.Daniels@mail.net	(234) 762-6576
+S	55627871	Penelope	Matthews	Penelope.Matthews@mail.net	Primary
+S	55639466	Demetrius	Horn	Demetrius.Horn@mail.net	Hight School
+S	55658701	Giovanni	Mcdonald	Giovanni.Mcdonald@mail.net	Primary
+S	55832207	Ada	Mcguire	Ada.Mcguire@mail.net	Middle
+S	55835111	Justin	Murphy	Justin.Murphy@mail.net	Primary
+S	55898058	Randall	Bonner	Randall.Bonner@mail.net	Primary
+S	55941720	Braelynn	Velez	Braelynn.Velez@mail.net	Primary
+S	56067626	Frank	Santiago	Frank.Santiago@mail.net	Hight School
+F	56090165	Yosef	Waller	Yosef.Waller@mail.net	(773) 567-6772
+S	56160112	Kobe	Lamb	Kobe.Lamb@mail.net	Primary
+S	56183402	Cristiano	Le	Cristiano.Le@mail.net	Junior
+S	56193923	Kamari	Garrison	Kamari.Garrison@mail.net	Junior
+S	56203339	Alannah	Rosales	Alannah.Rosales@mail.net	Middle
+S	56206819	Kaylyn	Gay	Kaylyn.Gay@mail.net	Middle
+F	56219537	Luz	Fry	Luz.Fry@mail.net	(571) 891-2400
+S	56254827	Enoch	Justice	Enoch.Justice@mail.net	Primary
+S	56257588	Rylan	Rice	Rylan.Rice@mail.net	Hight School
+S	56273084	Bria	Strong	Bria.Strong@mail.net	Middle
+S	56323053	Jennifer	Boyd	Jennifer.Boyd@mail.net	Middle
+S	56343982	Ashley	Perez	Ashley.Perez@mail.net	Hight School
+S	56349688	Jackson	Lewis	Jackson.Lewis@mail.net	Primary
+F	56402181	Leila	George	Leila.George@mail.net	(269) 619-2790
+S	56419052	Jaron	Forbes	Jaron.Forbes@mail.net	Primary
+S	56423038	Emilie	Camacho	Emilie.Camacho@mail.net	Middle
+S	56440915	Grady	Mcdaniel	Grady.Mcdaniel@mail.net	Middle
+S	56568758	Holly	Greer	Holly.Greer@mail.net	Primary
+S	56639433	Brodie	Charles	Brodie.Charles@mail.net	Middle
+S	56710524	Ayden	Ramirez	Ayden.Ramirez@mail.net	Junior
+S	56761805	Clayton	Fleming	Clayton.Fleming@mail.net	Primary
+S	56900782	Melanie	Flores	Melanie.Flores@mail.net	Primary
+S	56907384	Quinten	Emerson	Quinten.Emerson@mail.net	Pre-Primary
+S	56957104	Santos	Donovan	Santos.Donovan@mail.net	Primary
+S	57111776	Angela	Carpenter	Angela.Carpenter@mail.net	Primary
+S	57124997	Myles	Garrett	Myles.Garrett@mail.net	Primary
+S	57130468	Iliana	Durham	Iliana.Durham@mail.net	Junior
+S	57187234	Kailey	Thornton	Kailey.Thornton@mail.net	Middle
+S	57457584	London	Gonzales	London.Gonzales@mail.net	Middle
+S	57572338	Zain	Finley	Zain.Finley@mail.net	Middle
+S	57615213	Pamela	Franks	Pamela.Franks@mail.net	Primary
+S	57632021	Hadley	Snyder	Hadley.Snyder@mail.net	Hight School
+S	57661573	Alivia	Greene	Alivia.Greene@mail.net	Middle
+S	57682432	Brice	Sharpe	Brice.Sharpe@mail.net	Middle
+S	57686438	Daniella	Barrett	Daniella.Barrett@mail.net	Hight School
+S	57702164	Ronald	Hubbard	Ronald.Hubbard@mail.net	Junior
+S	57705713	Deshawn	Joyce	Deshawn.Joyce@mail.net	Primary
+S	57737313	Carla	Benton	Carla.Benton@mail.net	Primary
+S	57758175	Karlee	Decker	Karlee.Decker@mail.net	Junior
+S	57798743	Jax	Munoz	Jax.Munoz@mail.net	Middle
+S	57904862	Holden	Beck	Holden.Beck@mail.net	Middle
+F	57930629	Zachary	Cox	Zachary.Cox@mail.net	(623) 459-3945
+S	57957103	Julio	Manning	Julio.Manning@mail.net	Hight School
+S	57979387	Renata	Mcmillan	Renata.Mcmillan@mail.net	Junior
+S	58002995	Kaelyn	Francis	Kaelyn.Francis@mail.net	Primary
+S	58043535	Leonel	Wong	Leonel.Wong@mail.net	Primary
+S	58045699	Charleigh	Shepard	Charleigh.Shepard@mail.net	Hight School
+S	58060574	Ralph	Kirkland	Ralph.Kirkland@mail.net	Middle
+S	58245357	Vivian	Grant	Vivian.Grant@mail.net	Middle
+F	58302045	Paulina	Berg	Paulina.Berg@mail.net	(515) 682-4227
+S	58339962	Camilo	Cooke	Camilo.Cooke@mail.net	Hight School
+S	58361687	Yasmin	Weiss	Yasmin.Weiss@mail.net	Hight School
+S	58404241	Ayana	Riggs	Ayana.Riggs@mail.net	Primary
+F	58454449	Kendyl	Delacruz	Kendyl.Delacruz@mail.net	(614) 861-3623
+S	58468318	Solomon	Mccormick	Solomon.Mccormick@mail.net	Junior
+S	58529405	Audriana	Jacobson	Audriana.Jacobson@mail.net	Middle
+S	58533744	Edwin	Lynch	Edwin.Lynch@mail.net	Hight School
+S	58556833	Julian	Edwards	Julian.Edwards@mail.net	Middle
+S	58584782	Malia	Powers	Malia.Powers@mail.net	Middle
+S	58646568	Zoie	Hensley	Zoie.Hensley@mail.net	Hight School
+S	58652900	Zara	Stephenson	Zara.Stephenson@mail.net	Pre-Primary
+S	58695063	Soren	Sexton	Soren.Sexton@mail.net	Middle
+S	58819695	Zion	Day	Zion.Day@mail.net	Middle
+S	58918231	Maxim	Mcconnell	Maxim.Mcconnell@mail.net	Junior
+S	58963304	Adam	Henderson	Adam.Henderson@mail.net	Primary
+S	58997868	George	Stephens	George.Stephens@mail.net	Pre-Primary
+S	59035862	Skylar	Holmes	Skylar.Holmes@mail.net	Primary
+S	59041671	Liam	Harris	Liam.Harris@mail.net	Junior
+S	59048583	Shania	Cleveland	Shania.Cleveland@mail.net	Primary
+S	59057728	Melina	Shields	Melina.Shields@mail.net	Hight School
+S	59087897	Ryker	Wade	Ryker.Wade@mail.net	Junior
+S	59132531	Karson	Harmon	Karson.Harmon@mail.net	Pre-Primary
+S	59143193	Alonzo	Wall	Alonzo.Wall@mail.net	Middle
+F	59180925	Aubree	Diaz	Aubree.Diaz@mail.net	(218) 704-5839
+S	59257865	Tess	Hahn	Tess.Hahn@mail.net	Primary
+S	59270421	Esmeralda	Sharp	Esmeralda.Sharp@mail.net	Middle
+S	59288122	Jeremy	Mills	Jeremy.Mills@mail.net	Primary
+S	59299098	Sonny	Valenzuela	Sonny.Valenzuela@mail.net	Primary
+S	59387115	Lexi	Carlson	Lexi.Carlson@mail.net	Middle
+S	59423151	Kolton	Blake	Kolton.Blake@mail.net	Primary
+S	59479477	Allen	Page	Allen.Page@mail.net	Middle
+S	59523823	Chelsea	Hansen	Chelsea.Hansen@mail.net	Hight School
+S	59578890	Taylor	Turner	Taylor.Turner@mail.net	Primary
+S	59588425	Samson	O'donnell	Samson.O'donnell@mail.net	Primary
+S	59601668	Riya	Head	Riya.Head@mail.net	Hight School
+S	59625362	River	Snider	River.Snider@mail.net	Middle
+F	59678056	Erica	Cortez	Erica.Cortez@mail.net	(402) 157-9959
+S	59699164	Valeria	Webb	Valeria.Webb@mail.net	Primary
+S	59714596	Prince	Cortez	Prince.Cortez@mail.net	Middle
+S	59768359	Kyndal	Burris	Kyndal.Burris@mail.net	Hight School
+S	59806762	Dalton	Graves	Dalton.Graves@mail.net	Primary
+F	59851009	Temperance	Ratliff	Temperance.Ratliff@mail.net	(607) 305-8535
+S	59992806	Jonas	Phelps	Jonas.Phelps@mail.net	Primary
+S	59993758	Kairi	Byers	Kairi.Byers@mail.net	Middle
+S	60036270	Lexie	Roberson	Lexie.Roberson@mail.net	Middle
+S	60038555	Stella	Brooks	Stella.Brooks@mail.net	Middle
+S	60061106	Jakob	Barber	Jakob.Barber@mail.net	Middle
+S	60107664	Tatum	Solis	Tatum.Solis@mail.net	Hight School
+S	60160214	Kiersten	Dillard	Kiersten.Dillard@mail.net	Hight School
+S	60216398	Shawn	Bowman	Shawn.Bowman@mail.net	Middle
+S	60239542	Mackenzie	Peterson	Mackenzie.Peterson@mail.net	Primary
+S	60353954	Tori	Mcdowell	Tori.Mcdowell@mail.net	Primary
+S	60357536	Derick	Petty	Derick.Petty@mail.net	Hight School
+S	60435065	Jazlyn	Cobb	Jazlyn.Cobb@mail.net	Hight School
+S	60454208	Todd	Levy	Todd.Levy@mail.net	Pre-Primary
+S	60461820	Roland	Buckley	Roland.Buckley@mail.net	Primary
+S	60472012	Titus	Rodgers	Titus.Rodgers@mail.net	Primary
+S	60586688	Alejandra	Warner	Alejandra.Warner@mail.net	Primary
+S	60614883	Legend	Slater	Legend.Slater@mail.net	Hight School
+S	60616382	Brinley	Morrow	Brinley.Morrow@mail.net	Primary
+S	60656872	Andy	Barnett	Andy.Barnett@mail.net	Primary
+S	60693083	Addilyn	Terrell	Addilyn.Terrell@mail.net	Primary
+F	60693764	Madeleine	Munoz	Madeleine.Munoz@mail.net	(310) 369-2097
+S	60738741	Gilberto	Ewing	Gilberto.Ewing@mail.net	Hight School
+S	60781368	Julie	Norman	Julie.Norman@mail.net	Junior
+S	60791290	Charlie	Dean	Charlie.Dean@mail.net	Hight School
+S	60795416	Noelle	Farmer	Noelle.Farmer@mail.net	Junior
+S	60799698	Rayden	Bernard	Rayden.Bernard@mail.net	Junior
+S	60858781	Mohammed	Grimes	Mohammed.Grimes@mail.net	Hight School
+S	60868964	Connor	Rogers	Connor.Rogers@mail.net	Hight School
+S	60877836	Layla	Hill	Layla.Hill@mail.net	Middle
+F	60912465	Jakobe	Burks	Jakobe.Burks@mail.net	(804) 192-6757
+S	60935701	Tristan	Patterson	Tristan.Patterson@mail.net	Junior
+S	60946769	Stephanie	Rice	Stephanie.Rice@mail.net	Primary
+S	60961285	Camille	Welch	Camille.Welch@mail.net	Hight School
+S	60963606	Brysen	Cote	Brysen.Cote@mail.net	Middle
+S	60971278	Jamison	Allison	Jamison.Allison@mail.net	Primary
+S	61001221	Lawson	Savage	Lawson.Savage@mail.net	Pre-Primary
+S	61053129	Nora	Kennedy	Nora.Kennedy@mail.net	Junior
+S	61079574	Teresa	Charles	Teresa.Charles@mail.net	Junior
+S	61147249	Yamilet	Hays	Yamilet.Hays@mail.net	Hight School
+S	61150502	Sky	Vinson	Sky.Vinson@mail.net	Hight School
+F	61182985	Yesenia	Berger	Yesenia.Berger@mail.net	(574) 361-1793
+S	61211669	Jadon	Blankenship	Jadon.Blankenship@mail.net	Hight School
+S	61245985	Niko	Russo	Niko.Russo@mail.net	Middle
+S	61320234	Aryana	Farley	Aryana.Farley@mail.net	Primary
+S	61324170	Annabel	Bradford	Annabel.Bradford@mail.net	Junior
+S	61410794	Brooklynn	Porter	Brooklynn.Porter@mail.net	Primary
+S	61427008	Angel	Sanchez	Angel.Sanchez@mail.net	Junior
+S	61553547	Terrence	Serrano	Terrence.Serrano@mail.net	Middle
+F	61718677	Nancy	Bruce	Nancy.Bruce@mail.net	(413) 735-6691
+S	61771764	Jesus	Simmons	Jesus.Simmons@mail.net	Pre-Primary
+F	61830200	Amiyah	Glover	Amiyah.Glover@mail.net	(318) 222-4511
+S	61868413	Madeline	Powell	Madeline.Powell@mail.net	Primary
+S	61872107	Marley	Fleming	Marley.Fleming@mail.net	Hight School
+S	61889222	Thomas	Richardson	Thomas.Richardson@mail.net	Middle
+F	61952416	Andres	Carroll	Andres.Carroll@mail.net	(650) 368-4030
+F	61964130	Sofia	Martinez	Sofia.Martinez@mail.net	(205) 165-8663
+S	62010732	Vihaan	Sweet	Vihaan.Sweet@mail.net	Primary
+S	62029843	Kaylynn	Woodard	Kaylynn.Woodard@mail.net	Primary
+S	62092063	Benson	Blevins	Benson.Blevins@mail.net	Middle
+S	62116462	Kynlee	Blanchard	Kynlee.Blanchard@mail.net	Hight School
+S	62119373	Kylee	Warren	Kylee.Warren@mail.net	Hight School
+S	62130489	Samuel	Hall	Samuel.Hall@mail.net	Primary
+S	62156663	Giana	Shepherd	Giana.Shepherd@mail.net	Primary
+S	62159613	Katelyn	Sullivan	Katelyn.Sullivan@mail.net	Primary
+S	62171971	Adelyn	Newman	Adelyn.Newman@mail.net	Hight School
+S	62227075	Tegan	Horne	Tegan.Horne@mail.net	Junior
+S	62245621	Caitlin	Rios	Caitlin.Rios@mail.net	Middle
+S	62252544	Sharon	Hester	Sharon.Hester@mail.net	Pre-Primary
+S	62322468	Dalia	Workman	Dalia.Workman@mail.net	Junior
+S	62417061	Kyra	Yates	Kyra.Yates@mail.net	Primary
+S	62483800	Lilliana	Love	Lilliana.Love@mail.net	Middle
+S	62488282	Haylie	Hinton	Haylie.Hinton@mail.net	Primary
+S	62544285	Alondra	Bowman	Alondra.Bowman@mail.net	Primary
+S	62639039	Jaylen	Vasquez	Jaylen.Vasquez@mail.net	Primary
+S	62644900	Allison	Carter	Allison.Carter@mail.net	Hight School
+S	62675972	Emmalyn	Wiggins	Emmalyn.Wiggins@mail.net	Middle
+S	62727032	Georgia	Vaughn	Georgia.Vaughn@mail.net	Primary
+S	62778646	Vicente	Barr	Vicente.Barr@mail.net	Middle
+S	62814031	Leanna	House	Leanna.House@mail.net	Primary
+S	62831904	Charley	Montoya	Charley.Montoya@mail.net	Pre-Primary
+S	62834422	Dylan	Hill	Dylan.Hill@mail.net	Junior
+S	62847606	Isabela	Hurst	Isabela.Hurst@mail.net	Hight School
+S	62849719	Hallie	Hutchinson	Hallie.Hutchinson@mail.net	Hight School
+S	62856155	Derrick	Haynes	Derrick.Haynes@mail.net	Middle
+S	62892982	Dante	Soto	Dante.Soto@mail.net	Junior
+S	62928853	Brent	Avery	Brent.Avery@mail.net	Junior
+S	62983317	Natalee	Baxter	Natalee.Baxter@mail.net	Primary
+S	62989135	Cailyn	Calderon	Cailyn.Calderon@mail.net	Primary
+S	62994906	Dax	Camacho	Dax.Camacho@mail.net	Primary
+S	63069047	Alessandro	Hobbs	Alessandro.Hobbs@mail.net	Primary
+S	63215323	Leo	Pierce	Leo.Pierce@mail.net	Primary
+S	63244763	Giovanna	Donaldson	Giovanna.Donaldson@mail.net	Primary
+S	63322304	Cara	Blankenship	Cara.Blankenship@mail.net	Junior
+S	63388811	Ana	Garrett	Ana.Garrett@mail.net	Hight School
+S	63481314	Samiya	Burt	Samiya.Burt@mail.net	Pre-Primary
+S	63486199	Chris	Park	Chris.Park@mail.net	Primary
+S	63516424	Arabella	Barber	Arabella.Barber@mail.net	Junior
+S	63525098	Jolie	Kane	Jolie.Kane@mail.net	Primary
+S	63530575	Zavier	Haley	Zavier.Haley@mail.net	Primary
+S	63533425	Aryan	Pace	Aryan.Pace@mail.net	Middle
+S	63618736	Trace	Keith	Trace.Keith@mail.net	Junior
+S	63624021	Finley	Harmon	Finley.Harmon@mail.net	Primary
+S	63667358	Clarissa	Harrell	Clarissa.Harrell@mail.net	Junior
+S	63696917	Alvin	Mcclain	Alvin.Mcclain@mail.net	Middle
+F	63712589	Reyna	Blackburn	Reyna.Blackburn@mail.net	(509) 268-8892
+S	63736680	Belen	Mooney	Belen.Mooney@mail.net	Primary
+S	63756634	Zechariah	Livingston	Zechariah.Livingston@mail.net	Primary
+S	63767369	Keyla	Buckley	Keyla.Buckley@mail.net	Primary
+S	63789432	Harley	Marks	Harley.Marks@mail.net	Middle
+S	63849980	Brenden	Abbott	Brenden.Abbott@mail.net	Middle
+S	63852968	Hayes	Hendricks	Hayes.Hendricks@mail.net	Junior
+S	63901356	Amya	Miranda	Amya.Miranda@mail.net	Middle
+S	63914276	Carter	Mitchell	Carter.Mitchell@mail.net	Primary
+S	64036690	Marvin	Clayton	Marvin.Clayton@mail.net	Junior
+F	64073246	Jasmin	Saunders	Jasmin.Saunders@mail.net	(337) 351-2878
+S	64129441	Jean	Bolton	Jean.Bolton@mail.net	Primary
+S	64168929	Kenley	Collier	Kenley.Collier@mail.net	Middle
+S	64225192	Sanaa	Donovan	Sanaa.Donovan@mail.net	Junior
+F	64249159	Regan	Pate	Regan.Pate@mail.net	(605) 154-6202
+S	64325123	Jessica	Ortiz	Jessica.Ortiz@mail.net	Hight School
+S	64371605	Bronson	Terrell	Bronson.Terrell@mail.net	Primary
+S	64407567	Nasir	Hensley	Nasir.Hensley@mail.net	Junior
+S	64424400	Arjun	Monroe	Arjun.Monroe@mail.net	Junior
+S	64454424	Omari	Pacheco	Omari.Pacheco@mail.net	Primary
+S	64461805	Isaiah	Roberts	Isaiah.Roberts@mail.net	Primary
+S	64508331	Raelynn	Bridges	Raelynn.Bridges@mail.net	Junior
+S	64532788	Derek	Bradley	Derek.Bradley@mail.net	Hight School
+S	64575685	Leon	Pope	Leon.Pope@mail.net	Primary
+S	64591902	Allie	Kelley	Allie.Kelley@mail.net	Hight School
+S	64629813	Tyrone	Zamora	Tyrone.Zamora@mail.net	Middle
+S	64653439	Danna	Rodgers	Danna.Rodgers@mail.net	Primary
+S	64690763	Journey	Reese	Journey.Reese@mail.net	Middle
+S	64690975	Karina	Hines	Karina.Hines@mail.net	Junior
+S	64730186	Kieran	Barton	Kieran.Barton@mail.net	Primary
+S	64763797	Louis	Sharp	Louis.Sharp@mail.net	Primary
+F	64771360	Taliyah	Sheppard	Taliyah.Sheppard@mail.net	(505) 317-2075
+F	64863065	Aliana	Leon	Aliana.Leon@mail.net	(480) 557-1916
+S	65003522	Jacey	David	Jacey.David@mail.net	Middle
+S	65018670	Fisher	Vaughan	Fisher.Vaughan@mail.net	Pre-Primary
+S	65039656	Colin	Ortiz	Colin.Ortiz@mail.net	Middle
+F	65088994	Nia	Mckenzie	Nia.Mckenzie@mail.net	(404) 785-6752
+S	65126509	Ian	Watson	Ian.Watson@mail.net	Hight School
+S	65156718	Juliette	Goodwin	Juliette.Goodwin@mail.net	Junior
+S	65170445	Johan	Wilkerson	Johan.Wilkerson@mail.net	Primary
+S	65191401	Rex	Salinas	Rex.Salinas@mail.net	Hight School
+S	65199353	Hugo	Parsons	Hugo.Parsons@mail.net	Primary
+S	65241947	Zaiden	Hogan	Zaiden.Hogan@mail.net	Hight School
+S	65461935	Mattie	Justice	Mattie.Justice@mail.net	Middle
+S	65509490	Makhi	Britt	Makhi.Britt@mail.net	Primary
+S	65525809	Christian	King	Christian.King@mail.net	Middle
+S	65585164	Braylen	Schultz	Braylen.Schultz@mail.net	Primary
+S	65619674	Jada	Pierce	Jada.Pierce@mail.net	Primary
+S	65628983	Frankie	Fulton	Frankie.Fulton@mail.net	Middle
+S	65634874	Beau	Garner	Beau.Garner@mail.net	Primary
+F	65640311	Julianna	Hart	Julianna.Hart@mail.net	(251) 264-3786
+S	65703768	Elizabeth	Anderson	Elizabeth.Anderson@mail.net	Middle
+S	65797133	Jon	Chang	Jon.Chang@mail.net	Hight School
+S	65800296	Lincoln	Snyder	Lincoln.Snyder@mail.net	Junior
+S	65839060	Yamileth	Mcleod	Yamileth.Mcleod@mail.net	Hight School
+F	65897369	Korbin	Anthony	Korbin.Anthony@mail.net	(719) 318-3945
+S	65939969	Bryan	Jordan	Bryan.Jordan@mail.net	Pre-Primary
+F	65978965	Elaina	Aguilar	Elaina.Aguilar@mail.net	(317) 934-8602
+S	66055863	Jayla	Black	Jayla.Black@mail.net	Primary
+S	66075640	Rhett	Contreras	Rhett.Contreras@mail.net	Hight School
+S	66077579	Malaki	Noel	Malaki.Noel@mail.net	Pre-Primary
+S	66093283	Cason	Cochran	Cason.Cochran@mail.net	Hight School
+S	66106638	Kevin	Torres	Kevin.Torres@mail.net	Middle
+S	66121678	Armani	Herman	Armani.Herman@mail.net	Primary
+F	66215811	Aubri	Nielsen	Aubri.Nielsen@mail.net	(601) 539-1334
+F	66238130	Izabelle	Finch	Izabelle.Finch@mail.net	(610) 557-1530
+F	66248271	Reed	Todd	Reed.Todd@mail.net	(706) 634-3668
+S	66291590	Devin	Rose	Devin.Rose@mail.net	Middle
+S	66477335	Evangeline	Lucas	Evangeline.Lucas@mail.net	Primary
+S	66527579	Cristina	Mayo	Cristina.Mayo@mail.net	Primary
+S	66551936	Ahmed	Randall	Ahmed.Randall@mail.net	Pre-Primary
+S	66625124	Gauge	Mcknight	Gauge.Mcknight@mail.net	Middle
+S	66660188	Davin	Shannon	Davin.Shannon@mail.net	Primary
+S	66662852	Lilah	Parks	Lilah.Parks@mail.net	Primary
+S	66689496	Pierce	Roberson	Pierce.Roberson@mail.net	Primary
+S	66719827	Eugene	Farley	Eugene.Farley@mail.net	Middle
+S	66737354	Greta	Browning	Greta.Browning@mail.net	Primary
+S	66741284	Imani	Conner	Imani.Conner@mail.net	Middle
+S	66748743	Natalie	White	Natalie.White@mail.net	Middle
+S	66768314	Julissa	Hammond	Julissa.Hammond@mail.net	Hight School
+S	66848048	Marcelo	Melendez	Marcelo.Melendez@mail.net	Primary
+S	66999933	Madison	Wilson	Madison.Wilson@mail.net	Primary
+S	67006816	Grace	Martin	Grace.Martin@mail.net	Junior
+S	67024154	Joanna	Lyons	Joanna.Lyons@mail.net	Primary
+F	67114573	Caleb	Lopez	Caleb.Lopez@mail.net	(619) 533-6802
+S	67146703	Devan	Workman	Devan.Workman@mail.net	Middle
+F	67179684	Sarah	Nelson	Sarah.Nelson@mail.net	(208) 132-6945
+S	67230472	Reid	Hale	Reid.Hale@mail.net	Primary
+S	67256896	Mara	Pickett	Mara.Pickett@mail.net	Hight School
+S	67314002	Milana	Whitley	Milana.Whitley@mail.net	Hight School
+S	67339739	Armani	Atkins	Armani.Atkins@mail.net	Middle
+S	67391494	Raul	Aguilar	Raul.Aguilar@mail.net	Junior
+S	67418111	Paisley	Sims	Paisley.Sims@mail.net	Junior
+S	67450302	Julien	Hancock	Julien.Hancock@mail.net	Pre-Primary
+S	67457018	Kale	Deleon	Kale.Deleon@mail.net	Middle
+S	67543616	Zayden	Lambert	Zayden.Lambert@mail.net	Pre-Primary
+S	67549125	Miracle	Allison	Miracle.Allison@mail.net	Junior
+S	67570367	Elise	Hudson	Elise.Hudson@mail.net	Hight School
+F	67639569	Sabrina	Byrd	Sabrina.Byrd@mail.net	(301) 578-5007
+S	67649904	Fletcher	Fitzpatrick	Fletcher.Fitzpatrick@mail.net	Pre-Primary
+S	67698109	Annabell	Sosa	Annabell.Sosa@mail.net	Primary
+S	67847889	Camron	Dickerson	Camron.Dickerson@mail.net	Middle
+S	67868259	Kyle	Gomez	Kyle.Gomez@mail.net	Middle
+S	67929643	Adonis	Mercado	Adonis.Mercado@mail.net	Primary
+S	67944925	King	Becker	King.Becker@mail.net	Primary
+S	67957193	Rafael	Jennings	Rafael.Jennings@mail.net	Pre-Primary
+S	67964140	Jaden	Hayes	Jaden.Hayes@mail.net	Middle
+S	67967440	Sergio	Horton	Sergio.Horton@mail.net	Primary
+S	68073753	Irvin	Cooley	Irvin.Cooley@mail.net	Hight School
+S	68078807	Kaelynn	Burks	Kaelynn.Burks@mail.net	Primary
+S	68080306	Sebastian	Peterson	Sebastian.Peterson@mail.net	Junior
+S	68133665	Zackary	Brock	Zackary.Brock@mail.net	Junior
+S	68294877	Alison	Medina	Alison.Medina@mail.net	Primary
+S	68296454	Bianca	Castro	Bianca.Castro@mail.net	Hight School
+S	68310572	Mikaela	Poole	Mikaela.Poole@mail.net	Middle
+S	68356638	Rodney	Gaines	Rodney.Gaines@mail.net	Primary
+S	68445964	Graysen	Burris	Graysen.Burris@mail.net	Junior
+S	68565657	Lilith	Castaneda	Lilith.Castaneda@mail.net	Pre-Primary
+S	68571950	Melvin	Golden	Melvin.Golden@mail.net	Primary
+S	68652733	Crystal	Reeves	Crystal.Reeves@mail.net	Pre-Primary
+S	68737539	Knox	Houston	Knox.Houston@mail.net	Hight School
+S	68970246	Brycen	Guzman	Brycen.Guzman@mail.net	Middle
+S	69020139	Kiera	Mathis	Kiera.Mathis@mail.net	Pre-Primary
+F	69136788	Daphne	Holloway	Daphne.Holloway@mail.net	(352) 656-3165
+S	69165677	Willie	Johns	Willie.Johns@mail.net	Junior
+S	69211403	Alijah	Bass	Alijah.Bass@mail.net	Primary
+S	69235815	Josephine	Lane	Josephine.Lane@mail.net	Hight School
+S	69241967	Emerson	Maldonado	Emerson.Maldonado@mail.net	Primary
+S	69301070	Cesar	Bishop	Cesar.Bishop@mail.net	Hight School
+S	69357535	Mustafa	Conrad	Mustafa.Conrad@mail.net	Primary
+S	69400098	Marina	Campos	Marina.Campos@mail.net	Hight School
+S	69691404	Franklin	Marquez	Franklin.Marquez@mail.net	Junior
+S	69717604	Terry	Bradford	Terry.Bradford@mail.net	Middle
+S	69758910	Sariah	Hartman	Sariah.Hartman@mail.net	Primary
+S	69815072	Drake	Howell	Drake.Howell@mail.net	Pre-Primary
+S	69979097	Quintin	Case	Quintin.Case@mail.net	Junior
+S	70029683	Tiffany	Santos	Tiffany.Santos@mail.net	Primary
+S	70030285	Lucian	Navarro	Lucian.Navarro@mail.net	Junior
+S	70078089	Issac	Waters	Issac.Waters@mail.net	Middle
+S	70205661	Orlando	Clarke	Orlando.Clarke@mail.net	Middle
+S	70245448	Savanna	Burgess	Savanna.Burgess@mail.net	Primary
+F	70330372	Camryn	Stein	Camryn.Stein@mail.net	(781) 614-8673
+S	70359245	Jeremiah	Stewart	Jeremiah.Stewart@mail.net	Junior
+S	70364151	Jace	Wallace	Jace.Wallace@mail.net	Junior
+S	70366059	Kassandra	Golden	Kassandra.Golden@mail.net	Hight School
+S	70375780	Tyrese	Downs	Tyrese.Downs@mail.net	Middle
+F	70383679	Darnell	Daugherty	Darnell.Daugherty@mail.net	(801) 492-7544
+S	70450803	Simone	English	Simone.English@mail.net	Primary
+S	70485886	Faith	James	Faith.James@mail.net	Middle
+S	70509644	Ellie	Russell	Ellie.Russell@mail.net	Junior
+S	70524836	Blair	Hewitt	Blair.Hewitt@mail.net	Middle
+F	70582016	Esperanza	Frederick	Esperanza.Frederick@mail.net	(573) 427-4122
+S	70687312	Rohan	Whitehead	Rohan.Whitehead@mail.net	Junior
+S	70737239	Mekhi	Singleton	Mekhi.Singleton@mail.net	Middle
+F	70781275	Saniya	Haley	Saniya.Haley@mail.net	(513) 963-5678
+S	70821663	Marcus	Holmes	Marcus.Holmes@mail.net	Hight School
+F	70834333	Janiya	Dominguez	Janiya.Dominguez@mail.net	(412) 997-4616
+S	70884105	Gracelynn	Mercado	Gracelynn.Mercado@mail.net	Middle
+S	71011898	Amos	Cantrell	Amos.Cantrell@mail.net	Primary
+S	71054516	Mariah	Griffin	Mariah.Griffin@mail.net	Hight School
+S	71315670	Ivanna	Mcconnell	Ivanna.Mcconnell@mail.net	Hight School
+S	71384881	Aaden	Salas	Aaden.Salas@mail.net	Hight School
+F	71386816	Lorelei	Summers	Lorelei.Summers@mail.net	(405) 528-2338
+S	71420571	Kyson	Brennan	Kyson.Brennan@mail.net	Hight School
+S	71483372	Jermaine	Christian	Jermaine.Christian@mail.net	Pre-Primary
+S	71540594	Kaleigh	Foley	Kaleigh.Foley@mail.net	Middle
+S	71730009	Leah	Hernandez	Leah.Hernandez@mail.net	Primary
+S	71731289	Elvis	Mooney	Elvis.Mooney@mail.net	Junior
+S	71764247	Oliver	Wood	Oliver.Wood@mail.net	Primary
+S	71773440	Cora	Schmidt	Cora.Schmidt@mail.net	Primary
+S	71830387	Kendall	Freeman	Kendall.Freeman@mail.net	Pre-Primary
+S	71922103	Jared	Herrera	Jared.Herrera@mail.net	Middle
+S	71939815	Walker	Fitzgerald	Walker.Fitzgerald@mail.net	Hight School
+S	72000893	Pierre	Boyle	Pierre.Boyle@mail.net	Middle
+S	72021953	Ace	Snow	Ace.Snow@mail.net	Primary
+F	72031620	Sage	Park	Sage.Park@mail.net	(361) 139-2697
+S	72166478	Kelvin	Heath	Kelvin.Heath@mail.net	Hight School
+F	72205008	Brenda	O'connor	Brenda.O'connor@mail.net	(410) 448-1979
+F	72273347	Amaya	Oliver	Amaya.Oliver@mail.net	(260) 668-5348
+S	72354198	Quinn	Armstrong	Quinn.Armstrong@mail.net	Primary
+S	72432033	Alexzander	Frost	Alexzander.Frost@mail.net	Primary
+S	72568075	Westin	Carver	Westin.Carver@mail.net	Pre-Primary
+S	72591231	Maksim	Hewitt	Maksim.Hewitt@mail.net	Middle
+S	72614458	Gabriel	Lee	Gabriel.Lee@mail.net	Primary
+S	72670537	Moses	Nicholson	Moses.Nicholson@mail.net	Junior
+S	72695228	Francesca	Atkins	Francesca.Atkins@mail.net	Hight School
+S	72772705	Jason	James	Jason.James@mail.net	Hight School
+S	72802053	Carmelo	Shields	Carmelo.Shields@mail.net	Hight School
+S	72926570	Noel	Owen	Noel.Owen@mail.net	Pre-Primary
+S	72998265	Tripp	Leon	Tripp.Leon@mail.net	Hight School
+S	73015689	Frances	Morin	Frances.Morin@mail.net	Primary
+S	73108589	Mckinley	Brock	Mckinley.Brock@mail.net	Middle
+F	73133545	Juniper	Downs	Juniper.Downs@mail.net	(612) 730-7136
+S	73216676	Amare	Greer	Amare.Greer@mail.net	Middle
+S	73220313	Angelique	Hampton	Angelique.Hampton@mail.net	Hight School
+S	73238165	Helen	Padilla	Helen.Padilla@mail.net	Primary
+S	73252089	Hanna	Logan	Hanna.Logan@mail.net	Middle
+S	73270041	Christopher	Clark	Christopher.Clark@mail.net	Primary
+S	73351591	Gaige	Cleveland	Gaige.Cleveland@mail.net	Hight School
+S	73401678	Clay	Herman	Clay.Herman@mail.net	Pre-Primary
+S	73452166	Dustin	Ingram	Dustin.Ingram@mail.net	Primary
+S	73544157	Aliyah	Henry	Aliyah.Henry@mail.net	Middle
+S	73550610	Harvey	Lynn	Harvey.Lynn@mail.net	Middle
+S	73640972	Rebekah	Briggs	Rebekah.Briggs@mail.net	Hight School
+S	73663081	Ernesto	Mckenzie	Ernesto.Mckenzie@mail.net	Hight School
+S	73791325	Owen	Turner	Owen.Turner@mail.net	Primary
+S	73803215	Lia	Walton	Lia.Walton@mail.net	Hight School
+S	73873708	Trent	Cannon	Trent.Cannon@mail.net	Middle
+S	73877717	Sincere	Stephenson	Sincere.Stephenson@mail.net	Primary
+S	73896428	Milo	Glover	Milo.Glover@mail.net	Hight School
+S	73898783	Brayden	Baker	Brayden.Baker@mail.net	Hight School
+S	73928020	Kingston	Little	Kingston.Little@mail.net	Primary
+S	73975859	Macy	Bates	Macy.Bates@mail.net	Junior
+S	73982582	Pedro	Parks	Pedro.Parks@mail.net	Junior
+F	73991579	Diya	Albert	Diya.Albert@mail.net	(585) 623-3074
+S	74028791	Dayana	Roy	Dayana.Roy@mail.net	Primary
+S	74032184	James	Thompson	James.Thompson@mail.net	Hight School
+S	74074974	Marlon	Miranda	Marlon.Miranda@mail.net	Hight School
+S	74079798	Joshua	White	Joshua.White@mail.net	Junior
+S	74184281	Brielle	Simpson	Brielle.Simpson@mail.net	Primary
+S	74312862	Ismael	Goodwin	Ismael.Goodwin@mail.net	Junior
+S	74328236	Terrell	Callahan	Terrell.Callahan@mail.net	Primary
+S	74345666	Aviana	Roach	Aviana.Roach@mail.net	Hight School
+S	74345676	Bryson	Griffin	Bryson.Griffin@mail.net	Primary
+S	74427587	Gideon	Estrada	Gideon.Estrada@mail.net	Junior
+S	74443346	Crosby	Benton	Crosby.Benton@mail.net	Primary
+S	74448621	Presley	Burton	Presley.Burton@mail.net	Primary
+S	74450718	Bentley	Mcgowan	Bentley.Mcgowan@mail.net	Primary
+F	74460943	Kaiya	Gamble	Kaiya.Gamble@mail.net	(540) 487-2175
+F	74473803	Analia	Levine	Analia.Levine@mail.net	(608) 670-1876
+S	74490500	Rodolfo	Sykes	Rodolfo.Sykes@mail.net	Primary
+S	74546153	Jayson	Mann	Jayson.Mann@mail.net	Primary
+F	74576758	Paula	Macdonald	Paula.Macdonald@mail.net	(559) 518-8600
+S	74587728	Hayden	Harper	Hayden.Harper@mail.net	Primary
+S	74755349	Peter	Kelley	Peter.Kelley@mail.net	Hight School
+S	74763790	Hank	Foley	Hank.Foley@mail.net	Primary
+F	74763864	Jaydon	Calhoun	Jaydon.Calhoun@mail.net	(731) 742-7672
+S	74810068	Ariel	Alvarez	Ariel.Alvarez@mail.net	Hight School
+S	74827419	Eliza	Pearson	Eliza.Pearson@mail.net	Junior
+S	74858863	Saige	Kaufman	Saige.Kaufman@mail.net	Primary
+S	74868812	Kole	Boyer	Kole.Boyer@mail.net	Hight School
+S	74870919	Mikayla	Vasquez	Mikayla.Vasquez@mail.net	Primary
+S	74929402	Shaun	Kemp	Shaun.Kemp@mail.net	Primary
+S	75124304	Bridger	Holcomb	Bridger.Holcomb@mail.net	Hight School
+S	75235176	Jair	Dunlap	Jair.Dunlap@mail.net	Middle
+S	75323408	Cambria	Mcfadden	Cambria.Mcfadden@mail.net	Primary
+S	75413576	Danielle	Castillo	Danielle.Castillo@mail.net	Primary
+S	75435163	Cassandra	Lindsey	Cassandra.Lindsey@mail.net	Middle
+S	75557855	Iker	Rowe	Iker.Rowe@mail.net	Hight School
+S	75620168	Kaya	Ashley	Kaya.Ashley@mail.net	Primary
+S	75702075	Autumn	Gray	Autumn.Gray@mail.net	Primary
+F	75817799	Haley	Hawkins	Haley.Hawkins@mail.net	(239) 232-7586
+S	75856351	Elle	Estrada	Elle.Estrada@mail.net	Middle
+S	75862381	Aiden	Moore	Aiden.Moore@mail.net	Middle
+S	75869153	Lillian	Rodriguez	Lillian.Rodriguez@mail.net	Hight School
+S	75956534	Aditya	Barrera	Aditya.Barrera@mail.net	Middle
+S	75987944	Masen	Ferrell	Masen.Ferrell@mail.net	Primary
+S	76058057	Lainey	Kirby	Lainey.Kirby@mail.net	Middle
+S	76082236	Mohamed	Simon	Mohamed.Simon@mail.net	Middle
+S	76114887	Damian	Warren	Damian.Warren@mail.net	Middle
+S	76175026	Annalise	Wall	Annalise.Wall@mail.net	Junior
+S	76208623	Micah	Graham	Micah.Graham@mail.net	Junior
+S	76253861	Bailey	Hughes	Bailey.Hughes@mail.net	Primary
+F	76257841	Catherine	Perkins	Catherine.Perkins@mail.net	(240) 747-1326
+S	76264505	Deacon	Weiss	Deacon.Weiss@mail.net	Middle
+S	76274263	Gianna	Richardson	Gianna.Richardson@mail.net	Pre-Primary
+S	76289364	Carly	Brewer	Carly.Brewer@mail.net	Middle
+S	76304781	Kaitlyn	Hayes	Kaitlyn.Hayes@mail.net	Hight School
+S	76426175	Milania	Case	Milania.Case@mail.net	Middle
+S	76433367	Amari	Dawson	Amari.Dawson@mail.net	Hight School
+S	76497121	Brock	Walsh	Brock.Walsh@mail.net	Hight School
+S	76598205	Allan	Carrillo	Allan.Carrillo@mail.net	Primary
+S	76624403	Madilynn	Mathews	Madilynn.Mathews@mail.net	Middle
+S	76662622	Adrienne	Randolph	Adrienne.Randolph@mail.net	Primary
+S	76686866	Ainsley	Cohen	Ainsley.Cohen@mail.net	Pre-Primary
+S	76778827	Alfonso	Sanford	Alfonso.Sanford@mail.net	Junior
+S	76788109	Archer	Pittman	Archer.Pittman@mail.net	Middle
+S	76882373	Moshe	Shepherd	Moshe.Shepherd@mail.net	Primary
+S	77055164	Erik	Jimenez	Erik.Jimenez@mail.net	Primary
+S	77192723	Ronin	Howe	Ronin.Howe@mail.net	Primary
+F	77226376	Fatima	O'brien	Fatima.O'brien@mail.net	(304) 265-4815
+S	77334330	Orion	Carson	Orion.Carson@mail.net	Hight School
+S	77450994	Harold	Crane	Harold.Crane@mail.net	Middle
+S	77480287	Patrick	Gordon	Patrick.Gordon@mail.net	Hight School
+S	77599777	Donte	Beach	Donte.Beach@mail.net	Pre-Primary
+S	77663305	Cash	May	Cash.May@mail.net	Middle
+S	77724770	Dean	Gregory	Dean.Gregory@mail.net	Middle
+S	77750332	Brenton	Albert	Brenton.Albert@mail.net	Middle
+S	77766696	Douglas	Ayala	Douglas.Ayala@mail.net	Primary
+S	77825514	Uriah	Schroeder	Uriah.Schroeder@mail.net	Primary
+S	77916605	Turner	Kinney	Turner.Kinney@mail.net	Junior
+S	77931976	Evelyn	Lee	Evelyn.Lee@mail.net	Primary
+S	78085683	Maximiliano	Rodriquez	Maximiliano.Rodriquez@mail.net	Hight School
+S	78168307	Catalina	Serrano	Catalina.Serrano@mail.net	Primary
+S	78192959	Elaine	Walls	Elaine.Walls@mail.net	Junior
+S	78195669	Akira	Madden	Akira.Madden@mail.net	Pre-Primary
+S	78229434	Carlee	Rivas	Carlee.Rivas@mail.net	Pre-Primary
+S	78244456	Shiloh	Guerra	Shiloh.Guerra@mail.net	Primary
+S	78265773	Eva	Jenkins	Eva.Jenkins@mail.net	Pre-Primary
+S	78282881	Alfred	Stuart	Alfred.Stuart@mail.net	Middle
+S	78289836	Kathryn	Gilbert	Kathryn.Gilbert@mail.net	Junior
+S	78350769	Kareem	Dudley	Kareem.Dudley@mail.net	Junior
+S	78376149	Marlene	Alston	Marlene.Alston@mail.net	Pre-Primary
+S	78382456	Paxton	Lowe	Paxton.Lowe@mail.net	Hight School
+S	78449710	Conner	Watkins	Conner.Watkins@mail.net	Middle
+S	78452520	Anderson	Watts	Anderson.Watts@mail.net	Primary
+S	78513164	Kendrick	Espinoza	Kendrick.Espinoza@mail.net	Junior
+S	78555014	Malaya	Baird	Malaya.Baird@mail.net	Middle
+S	78584615	Jessie	Durham	Jessie.Durham@mail.net	Primary
+S	78619578	Courtney	Stokes	Courtney.Stokes@mail.net	Hight School
+S	78627847	Kaeden	Buck	Kaeden.Buck@mail.net	Middle
+S	78684305	Joseph	Rodriguez	Joseph.Rodriguez@mail.net	Primary
+S	78749665	Tyler	Gonzalez	Tyler.Gonzalez@mail.net	Pre-Primary
+S	78750445	Alberto	Doyle	Alberto.Doyle@mail.net	Pre-Primary
+S	78755890	Heidi	Benson	Heidi.Benson@mail.net	Middle
+S	78772530	Will	Juarez	Will.Juarez@mail.net	Junior
+F	78784029	Layton	Hardin	Layton.Hardin@mail.net	(734) 805-1171
+S	78800446	Levi	Ward	Levi.Ward@mail.net	Middle
+S	78828512	Camilla	Drake	Camilla.Drake@mail.net	Hight School
+S	78908814	Terrance	Hartman	Terrance.Hartman@mail.net	Primary
+S	78934330	Jaxon	Long	Jaxon.Long@mail.net	Junior
+S	79034142	Emmitt	Cherry	Emmitt.Cherry@mail.net	Hight School
+S	79081436	Jordynn	Waller	Jordynn.Waller@mail.net	Primary
+S	79089669	Stephen	Nguyen	Stephen.Nguyen@mail.net	Middle
+S	79180839	Lilly	Hamilton	Lilly.Hamilton@mail.net	Pre-Primary
+S	79204137	Braylon	Kim	Braylon.Kim@mail.net	Junior
+S	79247944	Callum	Hayden	Callum.Hayden@mail.net	Junior
+S	79259736	Colton	Kelly	Colton.Kelly@mail.net	Pre-Primary
+S	79261793	Nylah	Marsh	Nylah.Marsh@mail.net	Junior
+S	79267048	Jamir	Shepard	Jamir.Shepard@mail.net	Hight School
+S	79303451	Riley	Parker	Riley.Parker@mail.net	Primary
+F	79318210	Brynlee	Rowe	Brynlee.Rowe@mail.net	(320) 871-5869
+S	79347034	Rashad	Sheppard	Rashad.Sheppard@mail.net	Primary
+S	79404504	Winston	Blanchard	Winston.Blanchard@mail.net	Hight School
+S	79439972	Gary	Mcguire	Gary.Mcguire@mail.net	Primary
+S	79489745	Johnathon	Rosario	Johnathon.Rosario@mail.net	Primary
+S	79589719	Jaidyn	David	Jaidyn.David@mail.net	Primary
+S	79596369	Raylan	Rivers	Raylan.Rivers@mail.net	Middle
+S	79645775	Vaughn	Raymond	Vaughn.Raymond@mail.net	Junior
+S	79668887	Emily	Davis	Emily.Davis@mail.net	Primary
+S	79676352	Ava	Brown	Ava.Brown@mail.net	Primary
+S	79708387	Ciara	Anthony	Ciara.Anthony@mail.net	Primary
+S	79755509	Anabel	Knowles	Anabel.Knowles@mail.net	Junior
+S	79764161	Abdiel	Key	Abdiel.Key@mail.net	Hight School
+S	79843410	Amber	Vargas	Amber.Vargas@mail.net	Hight School
+S	79910072	Siena	Rich	Siena.Rich@mail.net	Middle
+S	79923764	Hannah	Walker	Hannah.Walker@mail.net	Primary
+S	80013631	Amani	Dyer	Amani.Dyer@mail.net	Hight School
+S	80120665	Carlos	Butler	Carlos.Butler@mail.net	Hight School
+S	80185601	Avianna	Joyner	Avianna.Joyner@mail.net	Middle
+S	80242975	Nayeli	Patton	Nayeli.Patton@mail.net	Hight School
+S	80276367	Asa	Fischer	Asa.Fischer@mail.net	Middle
+S	80320095	Tia	Stuart	Tia.Stuart@mail.net	Junior
+S	80339088	Keira	Carroll	Keira.Carroll@mail.net	Junior
+S	80394130	Micheal	Eaton	Micheal.Eaton@mail.net	Junior
+S	80583285	Jay	Moody	Jay.Moody@mail.net	Pre-Primary
+S	80592758	Juliana	Robertson	Juliana.Robertson@mail.net	Primary
+S	80705269	Yareli	Melton	Yareli.Melton@mail.net	Junior
+S	80765742	Emely	Newton	Emely.Newton@mail.net	Primary
+S	80796552	Elyse	Lester	Elyse.Lester@mail.net	Hight School
+S	80841679	Brylee	Paul	Brylee.Paul@mail.net	Primary
+S	80852627	Linda	Calhoun	Linda.Calhoun@mail.net	Middle
+F	80908732	Caitlyn	Griffith	Caitlyn.Griffith@mail.net	(314) 273-6962
+S	81120379	Annabella	Wolfe	Annabella.Wolfe@mail.net	Primary
+S	81139932	Logan	Wolf	Logan.Wolf@mail.net	Primary
+S	81192178	Vera	Clay	Vera.Clay@mail.net	Middle
+S	81218145	Madyson	Pitts	Madyson.Pitts@mail.net	Hight School
+S	81257317	Lucia	Frazier	Lucia.Frazier@mail.net	Hight School
+S	81265051	Joziah	Burt	Joziah.Burt@mail.net	Pre-Primary
+S	81407247	Malakai	Moses	Malakai.Moses@mail.net	Primary
+S	81458099	Alex	Bryant	Alex.Bryant@mail.net	Primary
+S	81496161	Tommy	Decker	Tommy.Decker@mail.net	Primary
+S	81552288	Darrell	Sellers	Darrell.Sellers@mail.net	Hight School
+S	81592579	Angie	Harrington	Angie.Harrington@mail.net	Hight School
+S	81611779	Gustavo	Pratt	Gustavo.Pratt@mail.net	Pre-Primary
+S	81645503	Ariella	Gallegos	Ariella.Gallegos@mail.net	Primary
+S	81673867	Ross	Tyson	Ross.Tyson@mail.net	Middle
+S	81775918	Kaylie	Quinn	Kaylie.Quinn@mail.net	Hight School
+S	81860670	Conrad	Cervantes	Conrad.Cervantes@mail.net	Primary
+S	81887581	Marisa	Cantrell	Marisa.Cantrell@mail.net	Hight School
+S	81926375	Emery	Caldwell	Emery.Caldwell@mail.net	Middle
+S	81966388	Emerson	Graves	Emerson.Graves@mail.net	Junior
+F	81986562	Jaliyah	Zimmerman	Jaliyah.Zimmerman@mail.net	(351) 470-2978
+S	82050854	Lily	Harris	Lily.Harris@mail.net	Junior
+S	82167284	Barrett	Christensen	Barrett.Christensen@mail.net	Hight School
+S	82220799	Hector	Moreno	Hector.Moreno@mail.net	Middle
+S	82241631	Dorothy	Talley	Dorothy.Talley@mail.net	Junior
+F	82241661	Mallory	Chambers	Mallory.Chambers@mail.net	(305) 665-5508
+S	82340781	Reese	Combs	Reese.Combs@mail.net	Hight School
+S	82396555	Van	Cantu	Van.Cantu@mail.net	Primary
+S	82480864	Kallie	Chang	Kallie.Chang@mail.net	Primary
+S	82650848	Kaliyah	Combs	Kaliyah.Combs@mail.net	Pre-Primary
+S	82708950	Jayleen	Adkins	Jayleen.Adkins@mail.net	Middle
+S	82775640	Chanel	Hopper	Chanel.Hopper@mail.net	Primary
+S	83000355	Danica	Abbott	Danica.Abbott@mail.net	Pre-Primary
+S	83051318	Valentina	Nichols	Valentina.Nichols@mail.net	Middle
+S	83058674	Cruz	Newman	Cruz.Newman@mail.net	Middle
+F	83084919	Charlee	Parsons	Charlee.Parsons@mail.net	(347) 401-8643
+S	83177690	Roberto	Bates	Roberto.Bates@mail.net	Primary
+S	83184967	Callie	Richards	Callie.Richards@mail.net	Middle
+S	83188434	Jacob	Smith	Jacob.Smith@mail.net	Hight School
+S	83252379	Larry	Webster	Larry.Webster@mail.net	Junior
+F	83374650	Johnathan	Welch	Johnathan.Welch@mail.net	(662) 901-3884
+S	83384284	Easton	Ford	Easton.Ford@mail.net	Middle
+S	83396203	Katie	Lawrence	Katie.Lawrence@mail.net	Middle
+S	83402900	Jorden	Lara	Jorden.Lara@mail.net	Primary
+S	83426559	Fiona	Wade	Fiona.Wade@mail.net	Primary
+S	83453331	Cayson	Buckner	Cayson.Buckner@mail.net	Middle
+S	83621389	Audrianna	Tyson	Audrianna.Tyson@mail.net	Middle
+S	83639421	Lennox	Hester	Lennox.Hester@mail.net	Primary
+S	83646985	Samantha	Thompson	Samantha.Thompson@mail.net	Junior
+S	83686985	Mckayla	Finley	Mckayla.Finley@mail.net	Middle
+S	83688315	Dimitri	Hyde	Dimitri.Hyde@mail.net	Primary
+S	83704947	Jamari	Buchanan	Jamari.Buchanan@mail.net	Primary
+S	83740058	Yusuf	Middleton	Yusuf.Middleton@mail.net	Middle
+S	83751047	Ruben	Weber	Ruben.Weber@mail.net	Junior
+S	83808340	Adriel	Poole	Adriel.Poole@mail.net	Hight School
+S	83818550	Bethany	Mack	Bethany.Mack@mail.net	Middle
+S	83911290	Kian	Hutchinson	Kian.Hutchinson@mail.net	Primary
+S	83916380	Luca	Vargas	Luca.Vargas@mail.net	Primary
+S	84141165	Matilda	Knapp	Matilda.Knapp@mail.net	Primary
+S	84144371	Zayne	Mckee	Zayne.Mckee@mail.net	Middle
+S	84196042	Janet	Good	Janet.Good@mail.net	Middle
+S	84224299	Marlee	Randall	Marlee.Randall@mail.net	Primary
+F	84239454	Arielle	Wilcox	Arielle.Wilcox@mail.net	(406) 612-6676
+S	84269611	Arely	Contreras	Arely.Contreras@mail.net	Pre-Primary
+S	84346321	Ann	Cooke	Ann.Cooke@mail.net	Junior
+S	84366080	Maximo	Santana	Maximo.Santana@mail.net	Primary
+S	84387596	Beckham	Walter	Beckham.Walter@mail.net	Primary
+S	84450104	Jewel	Goff	Jewel.Goff@mail.net	Primary
+S	84477994	Roger	Whitaker	Roger.Whitaker@mail.net	Primary
+S	84567721	Valentin	Hendrix	Valentin.Hendrix@mail.net	Primary
+S	84584581	Estrella	Mcbride	Estrella.Mcbride@mail.net	Middle
+S	84637751	Karma	Boyle	Karma.Boyle@mail.net	Primary
+S	84727963	Jose	Howard	Jose.Howard@mail.net	Middle
+S	84831064	April	Webster	April.Webster@mail.net	Junior
+S	84868872	Breanna	Dawson	Breanna.Dawson@mail.net	Primary
+S	84877163	Darren	Tyler	Darren.Tyler@mail.net	Hight School
+F	84923458	Demi	Bray	Demi.Bray@mail.net	(557) 877-5868
+F	84928767	Cadence	Shelton	Cadence.Shelton@mail.net	(303) 782-5475
+S	84979767	Diana	Ryan	Diana.Ryan@mail.net	Pre-Primary
+S	84983645	Reginald	Prince	Reginald.Prince@mail.net	Hight School
+S	85003281	Darian	Landry	Darian.Landry@mail.net	Primary
+S	85104083	Kinsley	Bishop	Kinsley.Bishop@mail.net	Junior
+F	85112318	Bently	Meyers	Bently.Meyers@mail.net	(727) 828-5204
+S	85130334	Wendy	Ayers	Wendy.Ayers@mail.net	Junior
+S	85133538	Landon	Scott	Landon.Scott@mail.net	Junior
+F	85171159	Violet	Myers	Violet.Myers@mail.net	(219) 821-8309
+S	85263654	Oscar	Hudson	Oscar.Hudson@mail.net	Hight School
+S	85276409	Stefan	Dillard	Stefan.Dillard@mail.net	Middle
+S	85276874	Jamar	Osborn	Jamar.Osborn@mail.net	Hight School
+S	85310145	Matias	Baxter	Matias.Baxter@mail.net	Primary
+F	85318015	Hudson	Reynolds	Hudson.Reynolds@mail.net	(631) 485-4603
+S	85364207	Miller	Hahn	Miller.Hahn@mail.net	Hight School
+S	85407254	Cody	Olson	Cody.Olson@mail.net	Middle
+S	85412617	Shaniya	Witt	Shaniya.Witt@mail.net	Junior
+S	85439762	Meadow	Merrill	Meadow.Merrill@mail.net	Middle
+S	85448727	Sage	Bender	Sage.Bender@mail.net	Pre-Primary
+F	85488531	Katelynn	Ortega	Katelynn.Ortega@mail.net	(321) 793-2525
+S	85490619	Millie	Mcfarland	Millie.Mcfarland@mail.net	Junior
+F	85499141	Carolyn	Nolan	Carolyn.Nolan@mail.net	(512) 755-8016
+S	85558992	Santino	Mccall	Santino.Mccall@mail.net	Pre-Primary
+F	85686092	Bryleigh	Holden	Bryleigh.Holden@mail.net	(602) 867-9546
+S	85740033	Kathleen	Booker	Kathleen.Booker@mail.net	Middle
+S	85751645	Miya	Bolton	Miya.Bolton@mail.net	Primary
+S	85766986	Bree	Kidd	Bree.Kidd@mail.net	Middle
+S	85815361	Rylen	Mckay	Rylen.Mckay@mail.net	Junior
+S	85826866	Kenya	Santana	Kenya.Santana@mail.net	Hight School
+S	85875212	Evelynn	Christian	Evelynn.Christian@mail.net	Primary
+S	85938296	Kamryn	Steele	Kamryn.Steele@mail.net	Middle
+S	86064498	Brennen	Best	Brennen.Best@mail.net	Middle
+S	86121148	Malik	Chandler	Malik.Chandler@mail.net	Junior
+S	86203801	Lathan	Delaney	Lathan.Delaney@mail.net	Primary
+S	86229600	Michelle	Shaw	Michelle.Shaw@mail.net	Primary
+S	86248146	Charlie	Potter	Charlie.Potter@mail.net	Junior
+S	86261700	Lola	Burke	Lola.Burke@mail.net	Pre-Primary
+F	86301800	Abbey	Reilly	Abbey.Reilly@mail.net	(586) 326-3492
+S	86334630	Vivienne	Swanson	Vivienne.Swanson@mail.net	Pre-Primary
+S	86344474	Jimmy	Stokes	Jimmy.Stokes@mail.net	Hight School
+S	86569161	Damion	Hebert	Damion.Hebert@mail.net	Hight School
+S	86571873	Salvatore	Pollard	Salvatore.Pollard@mail.net	Junior
+S	86590274	Mila	Watkins	Mila.Watkins@mail.net	Middle
+S	86602987	Mary	Reynolds	Mary.Reynolds@mail.net	Middle
+S	86644020	Xander	Carr	Xander.Carr@mail.net	Primary
+S	86669289	Ayaan	Estes	Ayaan.Estes@mail.net	Hight School
+S	86670894	Sarai	Buchanan	Sarai.Buchanan@mail.net	Pre-Primary
+S	86672780	Aaron	Collins	Aaron.Collins@mail.net	Junior
+S	86712670	Kamila	Wise	Kamila.Wise@mail.net	Hight School
+S	86737909	Kadence	Clayton	Kadence.Clayton@mail.net	Primary
+S	86745301	Campbell	Whitfield	Campbell.Whitfield@mail.net	Junior
+S	86814747	Brendan	Hopkins	Brendan.Hopkins@mail.net	Middle
+F	86904235	Phoebe	Hardy	Phoebe.Hardy@mail.net	(309) 604-6007
+S	86945262	Agustin	Witt	Agustin.Witt@mail.net	Middle
+S	86961981	Augustus	Knapp	Augustus.Knapp@mail.net	Primary
+S	87065885	Kenny	Bauer	Kenny.Bauer@mail.net	Middle
+S	87071970	Kristopher	Luna	Kristopher.Luna@mail.net	Primary
+S	87232880	Dahlia	Gilmore	Dahlia.Gilmore@mail.net	Hight School
+S	87273795	Amelie	Landry	Amelie.Landry@mail.net	Junior
+S	87444907	Alayna	Fernandez	Alayna.Fernandez@mail.net	Pre-Primary
+S	87450503	Destiny	Butler	Destiny.Butler@mail.net	Middle
+S	87477091	Keegan	Hoffman	Keegan.Hoffman@mail.net	Hight School
+S	87525926	Megan	Gardner	Megan.Gardner@mail.net	Primary
+S	87542410	Keyon	Whitley	Keyon.Whitley@mail.net	Hight School
+F	87551703	Gia	Beck	Gia.Beck@mail.net	(307) 180-3081
+S	87583516	Ryleigh	Elliott	Ryleigh.Elliott@mail.net	Middle
+S	87587224	Ayla	Tate	Ayla.Tate@mail.net	Primary
+S	87625734	Maximus	Richards	Maximus.Richards@mail.net	Middle
+S	87646081	Alexa	Reed	Alexa.Reed@mail.net	Junior
+F	87682757	Devon	Mack	Devon.Mack@mail.net	(704) 477-4683
+S	87857596	Flynn	Goff	Flynn.Goff@mail.net	Primary
+S	87892731	Silas	Andrews	Silas.Andrews@mail.net	Pre-Primary
+S	87900918	Anika	Snow	Anika.Snow@mail.net	Primary
+S	87947943	Hassan	Rosa	Hassan.Rosa@mail.net	Middle
+S	87994100	Mason	Johnson	Mason.Johnson@mail.net	Pre-Primary
+S	88094843	Karter	Hodges	Karter.Hodges@mail.net	Middle
+S	88099408	Gisselle	Rosario	Gisselle.Rosario@mail.net	Hight School
+S	88170439	Lorenzo	Hardy	Lorenzo.Hardy@mail.net	Pre-Primary
+F	88208732	Nico	Bridges	Nico.Bridges@mail.net	(717) 403-3906
+S	88339181	Roderick	Snider	Roderick.Snider@mail.net	Primary
+S	88418878	Jake	Porter	Jake.Porter@mail.net	Pre-Primary
+S	88463637	Rhys	Cain	Rhys.Cain@mail.net	Junior
+F	88608393	Jordyn	Roth	Jordyn.Roth@mail.net	(740) 345-3309
+S	88692933	Kyler	Carlson	Kyler.Carlson@mail.net	Hight School
+S	88694794	Daxton	Sloan	Daxton.Sloan@mail.net	Middle
+S	88737397	Brooke	Long	Brooke.Long@mail.net	Primary
+F	88752684	Jensen	Dalton	Jensen.Dalton@mail.net	(732) 421-3295
+S	88777319	Abel	Gilbert	Abel.Gilbert@mail.net	Pre-Primary
+S	88959540	Pablo	Farmer	Pablo.Farmer@mail.net	Middle
+S	89044688	Diamond	Dotson	Diamond.Dotson@mail.net	Hight School
+S	89092912	Elliot	O'donnell	Elliot.O'donnell@mail.net	Junior
+S	89125433	Hadassah	Cervantes	Hadassah.Cervantes@mail.net	Primary
+S	89201719	Amira	Conley	Amira.Conley@mail.net	Pre-Primary
+S	89217186	Keon	Bird	Keon.Bird@mail.net	Middle
+S	89281181	Tobias	Gilmore	Tobias.Gilmore@mail.net	Middle
+S	89289854	Alisson	Howe	Alisson.Howe@mail.net	Primary
+S	89307338	Riley	Owens	Riley.Owens@mail.net	Primary
+S	89397287	Camryn	Watts	Camryn.Watts@mail.net	Middle
+S	89454081	Karla	Mann	Karla.Mann@mail.net	Middle
+S	89475241	Rylan	Everett	Rylan.Everett@mail.net	Hight School
+S	89518634	Charlotte	Allen	Charlotte.Allen@mail.net	Primary
+S	89522219	Anna	Gonzalez	Anna.Gonzalez@mail.net	Hight School
+S	89586667	Giada	Hendricks	Giada.Hendricks@mail.net	Junior
+S	89598739	Harper	Rogers	Harper.Rogers@mail.net	Middle
+S	89667113	Lorelai	Dickson	Lorelai.Dickson@mail.net	Hight School
+S	89684586	Edgar	Burke	Edgar.Burke@mail.net	Primary
+S	89695597	Jane	Todd	Jane.Todd@mail.net	Primary
+S	89799391	Raina	Koch	Raina.Koch@mail.net	Junior
+S	89811344	Jimena	Christensen	Jimena.Christensen@mail.net	Junior
+S	89816684	Erin	Kim	Erin.Kim@mail.net	Middle
+S	89838838	Noah	Brown	Noah.Brown@mail.net	Primary
+S	89882897	Aldo	Beasley	Aldo.Beasley@mail.net	Middle
+S	89914216	Ricky	Marsh	Ricky.Marsh@mail.net	Primary
+F	89923097	Paola	Casey	Paola.Casey@mail.net	(401) 479-7617
+F	90152690	Elliot	Caldwell	Elliot.Caldwell@mail.net	(678) 254-1870
+S	90172925	Tanner	Lane	Tanner.Lane@mail.net	Hight School
+S	90219002	Damon	Gibbs	Damon.Gibbs@mail.net	Junior
+S	90254416	Mia	Moore	Mia.Moore@mail.net	Primary
+S	90302755	Jazmyn	Rollins	Jazmyn.Rollins@mail.net	Hight School
+S	90373363	Braelyn	Alvarado	Braelyn.Alvarado@mail.net	Primary
+S	90383937	Anya	Schwartz	Anya.Schwartz@mail.net	Middle
+S	90447958	Sylas	Mcdowell	Sylas.Mcdowell@mail.net	Middle
+S	90463442	Leonardo	Black	Leonardo.Black@mail.net	Primary
+S	90506163	Dorian	Flynn	Dorian.Flynn@mail.net	Middle
+S	90515616	Isiah	Preston	Isiah.Preston@mail.net	Primary
+S	90575604	Jaqueline	Meadows	Jaqueline.Meadows@mail.net	Primary
+S	90608065	Markus	Herring	Markus.Herring@mail.net	Hight School
+S	90616061	Scarlett	Ross	Scarlett.Ross@mail.net	Hight School
+S	90642897	Mckenzie	Mason	Mckenzie.Mason@mail.net	Junior
+S	90688556	Mateo	Wagner	Mateo.Wagner@mail.net	Primary
+S	90702164	Talia	Ballard	Talia.Ballard@mail.net	Middle
+S	90750581	Molly	Wood	Molly.Wood@mail.net	Hight School
+S	91052071	Jerry	Conner	Jerry.Conner@mail.net	Middle
+S	91065054	Zion	Blackwell	Zion.Blackwell@mail.net	Middle
+F	91067025	Laila	Reyes	Laila.Reyes@mail.net	(231) 873-7922
+S	91079482	Maleah	Salinas	Maleah.Salinas@mail.net	Junior
+S	91119270	Peyton	Morris	Peyton.Morris@mail.net	Middle
+S	91290317	Benton	Macias	Benton.Macias@mail.net	Junior
+S	91332729	Gunnar	Pitts	Gunnar.Pitts@mail.net	Middle
+S	91335050	Weston	Ryan	Weston.Ryan@mail.net	Primary
+S	91494638	Anahi	Gallagher	Anahi.Gallagher@mail.net	Primary
+S	91610596	Krish	Fry	Krish.Fry@mail.net	Hight School
+S	91654097	Cindy	Hobbs	Cindy.Hobbs@mail.net	Hight School
+S	91693687	Victor	Burns	Victor.Burns@mail.net	Junior
+S	91764605	Gabriella	Scott	Gabriella.Scott@mail.net	Middle
+S	91783568	Teagan	Crosby	Teagan.Crosby@mail.net	Junior
+S	91804542	Ronnie	Spears	Ronnie.Spears@mail.net	Middle
+S	91821976	Anders	Levine	Anders.Levine@mail.net	Primary
+S	91846658	Rey	Talley	Rey.Talley@mail.net	Middle
+F	91849473	Makenna	Howell	Makenna.Howell@mail.net	(262) 797-3288
+S	91886689	Ryann	Suarez	Ryann.Suarez@mail.net	Middle
+S	92047834	Shayla	Davenport	Shayla.Davenport@mail.net	Primary
+S	92052259	Kaleb	Gibson	Kaleb.Gibson@mail.net	Primary
+S	92064864	Jadiel	York	Jadiel.York@mail.net	Junior
+S	92067313	Leslie	Day	Leslie.Day@mail.net	Primary
+S	92072979	Yaretzi	Townsend	Yaretzi.Townsend@mail.net	Junior
+S	92118101	Adrian	Cook	Adrian.Cook@mail.net	Pre-Primary
+S	92134544	Addison	Jackson	Addison.Jackson@mail.net	Middle
+S	92143850	Ryland	Frank	Ryland.Frank@mail.net	Hight School
+S	92219760	Nadia	Walters	Nadia.Walters@mail.net	Primary
+S	92269065	Jeffrey	Mendoza	Jeffrey.Mendoza@mail.net	Middle
+S	92301613	Kennedi	Copeland	Kennedi.Copeland@mail.net	Primary
+S	92366544	Chase	Gray	Chase.Gray@mail.net	Junior
+S	92371616	Macey	Solomon	Macey.Solomon@mail.net	Hight School
+S	92409926	Nickolas	Wiggins	Nickolas.Wiggins@mail.net	Primary
+S	92503177	Coen	Lindsay	Coen.Lindsay@mail.net	Junior
+S	92564380	Deanna	Sampson	Deanna.Sampson@mail.net	Junior
+S	92568317	Ezra	Schmidt	Ezra.Schmidt@mail.net	Primary
+S	92590726	Otto	Pate	Otto.Pate@mail.net	Primary
+S	92602536	Eric	Hamilton	Eric.Hamilton@mail.net	Middle
+S	92610577	Kayleigh	Moreno	Kayleigh.Moreno@mail.net	Primary
+S	92712833	Cole	Gonzales	Cole.Gonzales@mail.net	Primary
+S	92786370	America	Mcneil	America.Mcneil@mail.net	Middle
+S	92786738	Kasen	Morrow	Kasen.Morrow@mail.net	Hight School
+S	92787291	Ahmad	Woodard	Ahmad.Woodard@mail.net	Primary
+S	92794368	Braeden	Tran	Braeden.Tran@mail.net	Primary
+F	92796035	Claire	Collins	Claire.Collins@mail.net	(210) 499-4046
+S	92832291	Evie	Glass	Evie.Glass@mail.net	Primary
+S	92845993	Remy	Berger	Remy.Berger@mail.net	Middle
+S	92850668	Ramiro	Macdonald	Ramiro.Macdonald@mail.net	Primary
+S	92860213	Anthony	Anderson	Anthony.Anderson@mail.net	Middle
+S	92885757	Kaylee	Adams	Kaylee.Adams@mail.net	Junior
+S	92908743	Edward	Hunt	Edward.Hunt@mail.net	Primary
+S	92931889	Efrain	Mcpherson	Efrain.Mcpherson@mail.net	Primary
+F	92996234	Abril	Battle	Abril.Battle@mail.net	(541) 745-5394
+F	92997528	Sawyer	Blevins	Sawyer.Blevins@mail.net	(507) 604-9938
+S	93029576	Carmen	Cross	Carmen.Cross@mail.net	Primary
+S	93047831	Ali	Bean	Ali.Bean@mail.net	Middle
+S	93073548	Javon	Duran	Javon.Duran@mail.net	Primary
+S	93073732	Barbara	Chan	Barbara.Chan@mail.net	Primary
+S	93194881	Jacqueline	Lawson	Jacqueline.Lawson@mail.net	Hight School
+S	93223796	Nathanael	Olsen	Nathanael.Olsen@mail.net	Primary
+S	93246689	Araceli	Carver	Araceli.Carver@mail.net	Hight School
+S	93256828	Danny	Tate	Danny.Tate@mail.net	Primary
+S	93262451	Kai	Chaney	Kai.Chaney@mail.net	Primary
+S	93264228	Dixie	Dunlap	Dixie.Dunlap@mail.net	Primary
+S	93326567	Konner	Stout	Konner.Stout@mail.net	Primary
+S	93381323	Isabel	Tucker	Isabel.Tucker@mail.net	Primary
+S	93393739	Braxton	Nichols	Braxton.Nichols@mail.net	Primary
+S	93432593	Milan	Dalton	Milan.Dalton@mail.net	Primary
+S	93433220	Kamryn	Lott	Kamryn.Lott@mail.net	Middle
+S	93464546	Marshall	Valdez	Marshall.Valdez@mail.net	Junior
+S	93477766	Erika	Ware	Erika.Ware@mail.net	Middle
+S	93507817	Christine	William	Christine.William@mail.net	Middle
+S	93547939	Norah	Hopkins	Norah.Hopkins@mail.net	Pre-Primary
+S	93552982	Willa	Buckner	Willa.Buckner@mail.net	Middle
+S	93602706	Tatiana	Pittman	Tatiana.Pittman@mail.net	Primary
+F	93604641	Lailah	Rivers	Lailah.Rivers@mail.net	(504) 640-7098
+S	93644726	Kohen	Knowles	Kohen.Knowles@mail.net	Junior
+S	93650762	Giovanny	Trujillo	Giovanny.Trujillo@mail.net	Middle
+S	93652712	Addisyn	Joseph	Addisyn.Joseph@mail.net	Primary
+S	93693395	Dakota	Rhodes	Dakota.Rhodes@mail.net	Junior
+F	93769999	Yuliana	Noel	Yuliana.Noel@mail.net	(617) 549-4957
+S	93774456	Bowen	Hatfield	Bowen.Hatfield@mail.net	Junior
+S	93852448	Lauryn	Vazquez	Lauryn.Vazquez@mail.net	Junior
+S	93861447	Alyssa	Baker	Alyssa.Baker@mail.net	Junior
+S	93955403	Sasha	Strickland	Sasha.Strickland@mail.net	Middle
+S	93984903	Amir	Fowler	Amir.Fowler@mail.net	Junior
+S	94006289	Henry	Morgan	Henry.Morgan@mail.net	Primary
+S	94101237	Charles	Cooper	Charles.Cooper@mail.net	Primary
+S	94132203	Neil	Farrell	Neil.Farrell@mail.net	Primary
+S	94199221	Raquel	Pacheco	Raquel.Pacheco@mail.net	Hight School
+F	94334327	Laylah	Pace	Laylah.Pace@mail.net	(501) 893-2505
+S	94335119	Evan	Carter	Evan.Carter@mail.net	Primary
+S	94363603	Alanna	Chase	Alanna.Chase@mail.net	Primary
+S	94373358	Travis	Greene	Travis.Greene@mail.net	Middle
+S	94382182	Malaysia	Rasmussen	Malaysia.Rasmussen@mail.net	Middle
+S	94401442	Nataly	Burnett	Nataly.Burnett@mail.net	Primary
+S	94459167	Aaliyah	Campbell	Aaliyah.Campbell@mail.net	Primary
+S	94560404	Leona	Delaney	Leona.Delaney@mail.net	Primary
+S	94572280	Janessa	Tanner	Janessa.Tanner@mail.net	Hight School
+S	94696356	Zachariah	Patrick	Zachariah.Patrick@mail.net	Middle
+S	94706269	Angelica	Cannon	Angelica.Cannon@mail.net	Middle
+F	94756707	Fernando	Wheeler	Fernando.Wheeler@mail.net	(660) 196-3607
+S	94887521	Messiah	Gallegos	Messiah.Gallegos@mail.net	Middle
+S	94904227	Abigail	Miller	Abigail.Miller@mail.net	Primary
+S	94971498	Lee	Winters	Lee.Winters@mail.net	Junior
+S	94976891	Elias	Dixon	Elias.Dixon@mail.net	Middle
+S	94981135	Jerome	Rivas	Jerome.Rivas@mail.net	Hight School
+S	95020230	Jaylin	Whitney	Jaylin.Whitney@mail.net	Primary
+S	95041062	Athena	Curry	Athena.Curry@mail.net	Middle
+S	95060892	Lindsay	Mcclure	Lindsay.Mcclure@mail.net	Middle
+S	95084473	Yahir	Nunez	Yahir.Nunez@mail.net	Junior
+S	95100353	Jocelynn	Harding	Jocelynn.Harding@mail.net	Primary
+S	95122070	Cherish	Middleton	Cherish.Middleton@mail.net	Junior
+S	95153922	London	Cameron	London.Cameron@mail.net	Hight School
+S	95231161	Skyler	Miles	Skyler.Miles@mail.net	Junior
+S	95275115	Alani	Trujillo	Alani.Trujillo@mail.net	Pre-Primary
+S	95295897	Meredith	Navarro	Meredith.Navarro@mail.net	Junior
+S	95365284	Scott	Reese	Scott.Reese@mail.net	Middle
+S	95472660	Gerald	Carey	Gerald.Carey@mail.net	Middle
+S	95490092	Adelynn	Savage	Adelynn.Savage@mail.net	Hight School
+S	95533419	Deborah	Spence	Deborah.Spence@mail.net	Primary
+S	95591372	Eloise	Mccormick	Eloise.Mccormick@mail.net	Primary
+S	95767884	Josue	Williamson	Josue.Williamson@mail.net	Junior
+S	95830484	Quentin	Paul	Quentin.Paul@mail.net	Middle
+S	95870810	Madalynn	Cline	Madalynn.Cline@mail.net	Junior
+S	95913275	Malachi	Gardner	Malachi.Gardner@mail.net	Hight School
+S	95943207	Sloan	Duffy	Sloan.Duffy@mail.net	Primary
+S	96001307	Tony	Mccarthy	Tony.Mccarthy@mail.net	Middle
+S	96101395	Bodhi	Irwin	Bodhi.Irwin@mail.net	Junior
+F	96222183	Braiden	Kramer	Braiden.Kramer@mail.net	(720) 363-9969
+S	96314998	Byron	Richard	Byron.Richard@mail.net	Hight School
+S	96347628	Kayson	Maynard	Kayson.Maynard@mail.net	Primary
+S	96381534	Anne	Wiley	Anne.Wiley@mail.net	Middle
+F	96388110	Sonia	Kline	Sonia.Kline@mail.net	(517) 600-2637
+S	96432957	Tianna	Stark	Tianna.Stark@mail.net	Hight School
+S	96498240	Rowan	Huffman	Rowan.Huffman@mail.net	Junior
+S	96561373	Paul	Riley	Paul.Riley@mail.net	Primary
+S	96599111	Uriel	Copeland	Uriel.Copeland@mail.net	Middle
+S	96625882	Paige	Woods	Paige.Woods@mail.net	Primary
+S	96715250	Macie	Dennis	Macie.Dennis@mail.net	Junior
+S	96857293	Jasper	Castro	Jasper.Castro@mail.net	Middle
+S	96941354	Warren	Wilcox	Warren.Wilcox@mail.net	Middle
+S	96956234	Nina	Bush	Nina.Bush@mail.net	Primary
+F	97088171	Madisyn	Guerrero	Madisyn.Guerrero@mail.net	(334) 100-2741
+S	97193438	Odin	Blackburn	Odin.Blackburn@mail.net	Primary
+S	97218582	Rylie	Delgado	Rylie.Delgado@mail.net	Hight School
+S	97293457	Javion	Ashley	Javion.Ashley@mail.net	Hight School
+S	97314724	Alonso	Kent	Alonso.Kent@mail.net	Primary
+S	97331608	Adalyn	Johnston	Adalyn.Johnston@mail.net	Middle
+S	97366775	Saul	Norman	Saul.Norman@mail.net	Junior
+S	97371041	Marianna	Le	Marianna.Le@mail.net	Junior
+S	97431756	Davion	Short	Davion.Short@mail.net	Primary
+S	97435675	Kyla	Mckinney	Kyla.Mckinney@mail.net	Primary
+S	97449781	Camila	Evans	Camila.Evans@mail.net	Primary
+S	97543044	Kasey	Sweet	Kasey.Sweet@mail.net	Middle
+S	97598531	Felix	Love	Felix.Love@mail.net	Primary
+S	97623465	Rebecca	Hunt	Rebecca.Hunt@mail.net	Primary
+S	97628829	Lauren	Cooper	Lauren.Cooper@mail.net	Hight School
+S	97781749	Casen	Morin	Casen.Morin@mail.net	Middle
+S	97823727	Annika	Richard	Annika.Richard@mail.net	Primary
+S	97917503	Samir	Barron	Samir.Barron@mail.net	Primary
+S	97935863	Braydon	Higgins	Braydon.Higgins@mail.net	Primary
+S	97969182	Zaria	Buck	Zaria.Buck@mail.net	Junior
+S	97990177	Aliya	Maynard	Aliya.Maynard@mail.net	Junior
+S	98109450	Kendal	Mcintyre	Kendal.Mcintyre@mail.net	Hight School
+S	98110245	Maryam	Faulkner	Maryam.Faulkner@mail.net	Primary
+S	98128485	Zaniyah	Dudley	Zaniyah.Dudley@mail.net	Hight School
+S	98196135	Rivka	Foreman	Rivka.Foreman@mail.net	Junior
+S	98272678	Alessandra	Malone	Alessandra.Malone@mail.net	Junior
+F	98290578	Brantley	Ball	Brantley.Ball@mail.net	(702) 291-7150
+S	98300257	Ashton	West	Ashton.West@mail.net	Hight School
+F	98365559	Cecilia	Larson	Cecilia.Larson@mail.net	(276) 232-4461
+S	98467715	Brogan	Horne	Brogan.Horne@mail.net	Junior
+S	98574975	Lance	Huff	Lance.Huff@mail.net	Junior
+S	98601723	Amy	Gordon	Amy.Gordon@mail.net	Pre-Primary
+S	98621655	Fernanda	Schneider	Fernanda.Schneider@mail.net	Primary
+S	98630212	Clark	Trevino	Clark.Trevino@mail.net	Hight School
+S	98731588	Larissa	Cooley	Larissa.Cooley@mail.net	Middle
+S	98767700	Aylin	Wilkins	Aylin.Wilkins@mail.net	Primary
+S	98791721	Dulce	Tyler	Dulce.Tyler@mail.net	Junior
+S	98797518	Gregory	Shelton	Gregory.Shelton@mail.net	Primary
+S	98849738	Alisha	Richmond	Alisha.Richmond@mail.net	Primary
+S	98872763	Jude	Knight	Jude.Knight@mail.net	Middle
+S	98962586	Elisha	Pennington	Elisha.Pennington@mail.net	Primary
+F	98963129	Kenna	Travis	Kenna.Travis@mail.net	(563) 940-4271
+S	99051668	Liv	Carney	Liv.Carney@mail.net	Junior
+S	99071081	Tristian	Mcclure	Tristian.Mcclure@mail.net	Hight School
+S	99113504	Colten	Goodman	Colten.Goodman@mail.net	Primary
+S	99233078	Julieta	Macias	Julieta.Macias@mail.net	Hight School
+S	99243661	Kash	Pruitt	Kash.Pruitt@mail.net	Primary
+S	99255290	Lea	Mcclain	Lea.Mcclain@mail.net	Middle
+S	99259650	Ryder	Cole	Ryder.Cole@mail.net	Hight School
+S	99267490	Brianna	Phillips	Brianna.Phillips@mail.net	Primary
+S	99271432	Ayanna	Atkinson	Ayanna.Atkinson@mail.net	Junior
+F	99282564	Vance	Maddox	Vance.Maddox@mail.net	(770) 537-4321
+S	99299848	Jeramiah	Puckett	Jeramiah.Puckett@mail.net	Junior
+S	99338691	Elisa	Molina	Elisa.Molina@mail.net	Middle
+S	99418714	Alfredo	Mathis	Alfredo.Mathis@mail.net	Middle
+S	99429421	Judith	Rowland	Judith.Rowland@mail.net	Hight School
+S	99438090	Gwyneth	O'neil	Gwyneth.O'neil@mail.net	Hight School
+S	99511331	Leyla	Woodward	Leyla.Woodward@mail.net	Middle
+S	99513574	Alayah	Best	Alayah.Best@mail.net	Junior
+S	99527636	Alaya	Mcpherson	Alaya.Mcpherson@mail.net	Junior
+S	99537809	Parker	Robbins	Parker.Robbins@mail.net	Primary
+S	99550965	Taylor	Hines	Taylor.Hines@mail.net	Middle
+S	99568655	Josie	Holland	Josie.Holland@mail.net	Junior
+S	99639490	Payton	Bryant	Payton.Bryant@mail.net	Junior
+S	99642561	Nelson	Bond	Nelson.Bond@mail.net	Junior
+S	99694788	Leighton	Rutledge	Leighton.Rutledge@mail.net	Junior
+F	99790325	Max	Alexander	Max.Alexander@mail.net	(630) 623-5801
+S	99814293	Sydney	Howard	Sydney.Howard@mail.net	Primary
+S	99822639	Amiya	Sloan	Amiya.Sloan@mail.net	Primary
+S	99837087	Caydence	Sargent	Caydence.Sargent@mail.net	Primary
+F	99901088	Ibrahim	Sparks	Ibrahim.Sparks@mail.net	(715) 405-7962
+S	99915756	Callan	Frye	Callan.Frye@mail.net	Junior
+S	99934278	Aileen	Norton	Aileen.Norton@mail.net	Primary
+S	99972939	Aidyn	Orr	Aidyn.Orr@mail.net	Pre-Primary
