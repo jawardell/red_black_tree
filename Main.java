@@ -72,7 +72,7 @@ class Main {
 				System.out.print("The search was inconslusive.\nAdd phone number to our database? (Y/N)");// ask yes or no
 																											
 				String addNum = input.next();
-				if (addNum.ignoreCase().equals("y")) {
+				if (addNum.equalsIgnoreCase("y")) {
 					// if yes, add phone
 					tree.insert(goodPhoneNumber);
 					System.out.print("The phone number has been added successfully. Thank you for your assistance."
@@ -81,7 +81,7 @@ class Main {
 					// if no, ask to search/add again
 					System.out.println("Would you like to search another number?(Y/N)");
 					String answer = input.next();
-					if (answer.ignoreCase().equals("y")) {
+					if (answer.equalsIgnoreCase("y")) {
 						// leads user to beginning of while loop
 						continue;
 					} else {
