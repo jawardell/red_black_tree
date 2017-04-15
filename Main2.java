@@ -13,10 +13,12 @@ class Main2 {
 			String ForS = scan.next(); //faculty or student
 			long id= scan.nextLong();
 			String firstName = scan.next();
-         String lastName = scan.next();
-         String email = scan.next();
-         String CorP = scan.next(); //classification or phone number
-         scan.nextLine(); //to avoid the problem with different # of arguments, doesnt work though lol
+			 String lastName = scan.next();
+			 String email = scan.next();
+			 String corp = scan.next(); //classification or phone number
+			String fullName = firstName + " " + lastName; //new, delete it not working
+			Person prsn = new Person(id, fullName ,corp ,email); //new, delete if not working
+			 scan.nextLine(); //to avoid the problem with different # of arguments, doesnt work though lol
 			tree.insert(id);
 			names.put(firstName + " " + lastName, id);// kd saves the day w/ hm
 		}
