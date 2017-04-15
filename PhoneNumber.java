@@ -1,4 +1,3 @@
-package whocalled;
 
 public class PhoneNumber {
 
