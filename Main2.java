@@ -39,9 +39,10 @@ class Main2 {
 		 * search P.S. The braces for the while loop have been placed in their
 		 * respective location
 		 */
-      System.out.print("Would you like to search by name or ID? ");
+      System.out.print("Type exit at any time to leave the program\n.Would you like to search by name or ID? ");
       String choice = input.next();
-		while (choice != "exit") {
+	//Exit command works anywhere in command line
+	while (!choice.equalsIgnoreCase("exit")) {
          if(choice.equalsIgnoreCase("ID")){
 			   System.out.print("Enter student ID:");
 			   identify = input.nextLong();
