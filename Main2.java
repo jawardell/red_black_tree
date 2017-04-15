@@ -41,7 +41,8 @@ class Main2 {
 		 */
       System.out.print("Type exit at any time to leave the program\n.Would you like to search by name or ID? ");
       String choice = input.next();
-	//Exit command works anywhere in command line
+	//Exit command works
+	//must fix exit command to work within if statements
 	while (!choice.equalsIgnoreCase("exit")) {
          if(choice.equalsIgnoreCase("ID")){
 			   System.out.print("Enter student ID:");
