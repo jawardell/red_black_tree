@@ -105,7 +105,7 @@ class Main2 {
 				}
 				System.out.println(finalToString);
 
-			} // end of while
-		}
+			}
+		}// end of while
 	}
 }
