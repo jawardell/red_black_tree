@@ -18,7 +18,6 @@ public class PhoneNumber {
 	}
 	
 	public String toString(){
-		String s;
-		return s;
+		reuturn "";
 	}
 }
