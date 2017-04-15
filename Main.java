@@ -38,11 +38,12 @@ class Main {
 
 			boolean isThere = tree.search(goodPhoneNumber);
 
-			if (isThere) {
 
-				switch (countryCodeInt) {
+
+
+    switch (countryCodeInt) {
 				case (1):
-					countryName = "America";
+					countryName = "United States/Canada";
 					break;
 				case (91):
 					countryName = "India";
@@ -56,6 +57,8 @@ class Main {
 				default:
 					countryName = "unlisted";
 				}
+            
+			if (isThere) {
 
 				finalToString += "\n\nSearch Succesful!\nCountry: " + countryName + "\n";
 
@@ -65,11 +68,16 @@ class Main {
 
 				finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
 
+            System.out.println(finalToString);
+        
+            
 			} else {
 				// changed to a print statement because it now serves as a
 				// prompt instead of
 				// a final toString
-				System.out.print("The search was inconslusive.\nAdd phone number to our database? (Y/N)");// ask yes or no
+            
+				//System.out.print("The search was inconslusive.\nAdd phone number to our database? (Y/N)");// ask yes or no
+            System.out.print("The search was inconslusive, the call originated from " + countryName + "\nAdd phone number to our database? (Y/N)");// ask yes or no
 																											
 				String addNum = input.next();
 				if (addNum.equalsIgnoreCase("y")) {
