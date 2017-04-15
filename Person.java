@@ -14,7 +14,7 @@ public class Person {
 	}
    
 	public void setName(String name) {
-		return name;
+		this.name = name;
 	}
 	
 	public void setID(long id) {
