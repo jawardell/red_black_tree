@@ -25,7 +25,9 @@ class Main2 {
 		Scanner input = new Scanner(System.in);
       long identify = -1;
       boolean isThere = false;
+      String correctFirstLastName = "";
       long duration = 0;
+      int count = 0;
       String possibles = "";
 		/*
 		 * The while loop is the concept we should chase. We want to keep the
@@ -49,29 +51,32 @@ class Main2 {
             String key = input.next();
             
             for(Map.Entry<String,Long> match: names.entrySet()){
-               long t1 = System.nanoTime();
                if(match.getKey().contains(key)){
+                  count++;
                   possibles += match.getKey() + "\n";
-                  duration = System.nanoTime() - t1;
                }
             }
-            //System.out.println("Search Complete. There were multiple occurences of the name" +
-            //                   " you searched
+            if(count > 1){
+               System.out.println("Search Complete. There were multiple occurences of the name" +
+                                 " that you searched.\nI narrowed down the database so you can" +
+                                 " decide which student you are looking for.\nHere are all the" +
+                                 " possible matches:\n" + possibles);
+               System.out.println("Enter the first and last name of the correct student: ");
+               correctFirstLastName = input.next();
+               isThere = true;
+            }
          }
 			if (isThere) {
+            finalToString += "\n\nSearch Succesful!\nName: " + correctFirstLastName + "\n";
 
-            System.out.println("it's there! " + identify + "***" + ((double)duration/1000000000));
-				}
+				//String callerName = names.get(goodPhoneNumber);
 
-				/*finalToString += "\n\nSearch Succesful!\nCountry: " + countryName + "\n";
+				finalToString += "ID: " + identify + "\n";
 
-				String callerName = names.get(goodPhoneNumber);
-
-				finalToString += "Caller Name: " + callerName + "\n";
-
-				finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n"; 
-            } */
-            else {
+				//finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
+            System.out.println(finalToString);
+        }
+        else {
 				// changed to a print statement because it now serves as a
 				// prompt instead of
 				// a final toString
