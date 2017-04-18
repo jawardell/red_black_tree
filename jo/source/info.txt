@@ -1,1 +1,7 @@
+systems are organized into packages
+both run properly
+might have trouble with package statements
+note:
+Main2.java can only exit at the beginning of a new search. 
 
+XD  :P  ;)
