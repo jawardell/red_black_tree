@@ -2,9 +2,6 @@ package school;
 import java.util.*;
 import java.io.*;
 import java.io.FileNotFoundException;
-/**
- * Created by jawardell on 4/18/17.
- */
 public class Main2 {
 	public static void main(String[] args) throws FileNotFoundException {
 		File file = new File("SchoolDB.txt");
