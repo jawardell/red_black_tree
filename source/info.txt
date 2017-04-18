@@ -1,1 +1,0 @@
-the program can only be exited at the beginning of a new search
