@@ -49,19 +49,12 @@ class Main {
 			}
 
 			if (isThere) {
-
 				finalToString += "\n\nSearch Successful!\nCountry: " + countryName + "\n";
-
 				String callerName = names.get(goodPhoneNumber);
-
 				finalToString += "Caller Name: " + callerName + "\n";
-
 				finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
-
 				System.out.println(finalToString);
-
 				System.out.print("To begin new search, type \"begin\". Type \"exit\" to quit.\n");
-
 			} else {
 
 				System.out.print("The search was inconclusive, the call originated from " + countryName
