@@ -89,7 +89,7 @@ public class Main2 {
 			if(choice.equalsIgnoreCase("ID")) {
 				System.out.print("Enter ID:\n");
 				searchById = input.nextLong();
-				found = tree.search(searchById);
+				found = tree.search(searchById);    //this tiny line searches thru 2000+ ids @ lightning speed
 
 				if(found) {
 					Person person = ids.get(searchById);
