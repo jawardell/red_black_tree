@@ -19,23 +19,6 @@ public class Person {
 			this.role = "Faculty";
 		}
 	}
-   
-	public void setName(String name) {
-		this.name = name;
-	}
-	
-	public void setID(long id) {
-	   this.id = id;
-	}
-	
-	public void setCorp(String corp) {
-		this.corp = corp;
-	}
-	
-	public void setEmail(String email) {
-		this.email = email;
-	}
-	
 	public String getName() {
 		return name;
 	}
