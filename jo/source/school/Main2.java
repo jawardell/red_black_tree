@@ -1,126 +1,107 @@
 package school;
-
 import java.util.*;
 import java.io.*;
-
-class Main2 {
-	public static void main(String[] args) throws Exception {
+import java.io.FileNotFoundException;
+/**
+ * Created by jawardell on 4/18/17.
+ */
+public class Main2 {
+	public static void main(String[] args) throws FileNotFoundException {
 		File file = new File("SchoolDB.txt");
-		Scanner scan = new Scanner(file);
-		TreeMap<String, Person> namesTreeMap = new TreeMap<>();
-		TreeMap<Long, Person> idsTreeMap = new TreeMap<>();
-		HashMap<String, Long> names = new HashMap<>();
+		TreeMap<String, Person> names = new TreeMap<>();
+		TreeMap<Long, Person> ids = new TreeMap<>();
 		RBTree tree = new RBTree(0);
-		boolean isThere = false;
-		String finalToString = "";
-		Person GREATPERSON = null;
-		while (scan.hasNext()) {
-			String ForS = scan.next(); //faculty or student
-			long id= scan.nextLong();
-			String firstName = scan.next();
-			String lastName = scan.next();
-			String email = scan.next();
-			String corp = scan.next(); //classification or phone number
-			String fullName = firstName + " " + lastName; //new, delete it not working
-			Person prsn = new Person(ForS, id, fullName ,corp ,email); //new, delete if not working
-			namesTreeMap.put(fullName, prsn);
-			idsTreeMap.put(id, prsn);
-			scan.nextLine(); //to avoid the problem with different # of arguments, doesnt work though lol
-			tree.insert(id);
-			names.put(firstName + " " + lastName, id);// kd saves the day w/ hm
+		Scanner scanner = new Scanner(file), input = new Scanner(System.in);
+		String searchByName = "", possible, choice = "";
+		boolean found = false;
+		long searchById = 0;
+		int count = 0;
+
+
+		while(scanner.hasNext()) {
+			String role = scanner.next();
+			long id = scanner.nextLong();
+			String firstName = scanner.next();
+			String lastName = scanner.next();
+			String email = scanner.next();
+			String corp = scanner.next();
+			Person person = new Person(role, id, firstName + " " + lastName, corp, email);
+			names.put(person.getName(), person);
+			ids.put(person.getID(), person);
+			tree.insert(person.getID());
 		}
-		scan.close();
-      
-		Scanner input = new Scanner(System.in);
-      long identify = -1;
+		scanner.close();
 
-      String correctFirstLastName = "";
-      long duration = 0;
-      int count = 0;
-      String possibles = "";
-		/*
-		 * The while loop is the concept we should chase. We want to keep the
-		 * command line going until a condition is met which means we need a
-		 * loop. The while loop will bring the user back to the top if they
-		 * specify in the bottom if-statement, that they want to do another
-		 * search P.S. The braces for the while loop have been placed in their
-		 * respective location
-		 */
-      System.out.print("Type exit at any time to leave the program\n.Would you like to search by name or ID? ");
-      String choice = input.next();
-	//Exit command works
-	//must fix exit command to work within if statements
-	while (!choice.equalsIgnoreCase("exit")) {
-         if(choice.equalsIgnoreCase("ID")){
-			   System.out.print("Enter student ID:");
-			   identify = input.nextLong();
 
-			   isThere = tree.search(identify);
-         }
-         if(choice.equalsIgnoreCase("Name")){
-            System.out.println("Enter first or last name: ");
-            String key = input.next();
-            
-            for(Map.Entry<String,Long> match: names.entrySet()){
-               if(match.getKey().contains(key)){
-                  count++;
-                  possibles += match.getKey() + "\n";
-               }
-            }
-            if(count > 1){
-               System.out.println("Search Complete. There were multiple occurences of the name" +
-                                 " that you searched.\nI narrowed down the database so you can" +
-                                 " decide which student you are looking for.\nHere are all the" +
-                                 " possible matches:\n" + possibles);
-               System.out.println("Enter the first and last name of the correct student: ");
-               correctFirstLastName = input.next();
-               //isThere = namesTreeMap.containsKey(correctFirstLastName);
-               //if(namesTreeMap.containsKey(correctFirstLastName)) {
-				  GREATPERSON = namesTreeMap.get(correctFirstLastName);
-               //}
-
-            }
-         }
-			if (true) {
-            		finalToString += "\n\nSearch Succesful!\nName: " + GREATPERSON.getName() + "\n";
-
-				//String callerName = names.get(goodPhoneNumber);
-
-				finalToString += "ID: " + GREATPERSON.getID() + "\n";
-
-				//finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
-            System.out.println(finalToString);
-        }
-        else {
-				// changed to a print statement because it now serves as a
-				// prompt instead of
-				// a final toString
-				System.out.print("The search was inconslusive.The student you searched for doesn't exist" +
-                              " in our database;");// ask yes or no
-																											
-				String addNum = input.next();
-				if (addNum.equals("y")) {
-					// if yes, add phone
-					tree.insert(identify);
-					System.out.print("The phone number has been added successfully. Thank you for your assistance."
-							+ " Have a great day!");
-				} else {
-					// if no, ask to search/add again
-					System.out.println("Would you like to search another number?(Y/N)");
-					String answer = input.next();
-					if (answer.equals("y")) {
-						// leads user to beginning of while loop
-						continue;
-					} else {
-						finalToString += "GoodBye! \t\t Type 'exit' to end program";
-						break;// hops out of outer-most if-statement
-						// Note: while loop is still running
-					}
-
+		while(!choice.equals("exit")) {
+			possible = "";
+			String key = "";
+			System.out.print("\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nNew Search\n\n");
+			System.out.print("\n\nType \"exit\" to quit. Search by name or ID:\n");
+			choice = input.next();
+			if(choice.equalsIgnoreCase("Name")) {
+				System.out.print("Enter \"1\" for first and last name format.");
+				System.out.print("\nEnter \"2\" for single name format.\n");
+				int casey = input.nextInt();
+				switch(casey) {
+					case 1 :
+						System.out.print("Enter first and last name:\n");
+						key = input.next() + " " + input.next();
+						break;
+					case 2:
+						System.out.print("Enter single name:\n");
+						key = input.next();
+						break;
 				}
-				System.out.println(finalToString);
+
+				for(String name1 : names.keySet()) {
+					if(name1.contains(key)) {
+						count++;
+						possible += names.get(name1).getName() + "\n";
+					}
+				}
+
+
+				if(count > 1) { //if multiple occurrences found
+					System.out.print("There were multiple occurrences:\n");
+					System.out.print(possible);
+					System.out.print("\nType the first and last name of one you want:\n");
+					searchByName = input.next();
+					searchByName += " " + input.next();
+					found = true;
+				} else if (count == 1) {
+					searchByName = possible.substring(0, possible.length()-1);
+					found = true;
+				} else {
+					System.out.print("There are 0 occurrences");
+				}
+
+				if(found) {
+					Person person = names.get(searchByName);
+					System.out.print(person.toString());
+				}
 
 			}
-		}// end of while
+
+
+
+
+			if(choice.equalsIgnoreCase("ID")) {
+				System.out.print("Enter ID:\n");
+				searchById = input.nextLong();
+				found = tree.search(searchById);
+
+				if(found) {
+					Person person = ids.get(searchById);
+					System.out.print("\nSearch Successful!\n" + person.toString());
+				} else {
+					System.out.print("\nSearch Failed.");
+				}
+			}
+
+
+		}
+
+
 	}
 }
