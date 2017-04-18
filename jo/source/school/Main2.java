@@ -5,7 +5,7 @@ import java.io.*;
 
 class Main2 {
 	public static void main(String[] args) throws Exception {
-		File file = new File("/home/jawardell/Desktop/red_black_tree/src/school/SchoolDB.txt");
+		File file = new File("SchoolDB.txt");
 		Scanner scan = new Scanner(file);
 		TreeMap<String, Person> namesTreeMap = new TreeMap<>();
 		TreeMap<Long, Person> idsTreeMap = new TreeMap<>();
