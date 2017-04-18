@@ -10,21 +10,19 @@ class Main {
 		Scanner scan = new Scanner(file);
 		HashMap<Long, String> names = new HashMap<>();
 		RBTree tree = new RBTree(0);
-		String finalToString = "";
+		String finalToString = "", countryCodeStr = "";
 		while (scan.hasNext()) {
 			String country = scan.next();
 			long phoneNum = scan.nextLong();
 			String name = scan.next();
 			tree.insert(phoneNum);
-			names.put(phoneNum, name);// kd saves the day w/ hm
+			names.put(phoneNum, name);
 		}
 		scan.close();
 		Scanner input = new Scanner(System.in);
-		System.out.print("To search type \"begin\". To quit, type \"exit\". \n");
+		System.out.print("\n\n\"exit\" ends the program.\nenter country code: ");
 		while (!input.next().equals("exit")) {
-
-			System.out.print("\n\nenter country code: ");
-			String countryCodeStr = input.next();
+			countryCodeStr = input.next();
 			System.out.print("\nenter rest of phone number: ");
 			String restOfNumStr = input.next();
 
