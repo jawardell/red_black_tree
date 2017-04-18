@@ -59,7 +59,7 @@ public class Main2 {
 				}
 
 
-				if(count > 1) { //if multiple occurrences found
+				if(count > 1) {
 					System.out.print("There were multiple occurrences:\n");
 					System.out.print(possible);
 					System.out.print("\nType the first and last name of one you want:\n");
