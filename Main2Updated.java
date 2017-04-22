@@ -29,13 +29,13 @@ public class Main2Updated {
 		}
 		scanner.close();
       
-      System.out.println("\n**************************************************************"
-      			+ "**        Welcome to Sierra University People Search        **"
-	      		+ "**                                                          **"
-      			+ "**    For security reasons,Our database is limited to use   **"
-      			+ "**               by students and faculty                    **"
-      			+ "**                                                          **"
-      			+ "**************************************************************\n\n");
+      System.out.println("**************************************************************"
+      			+ "\n**        Welcome to Sierra University People Search        **"
+	      		+ "\n**                                                          **"
+      			+ "\n**    For security reasons,Our database is limited to use   **"
+      			+ "\n**               by students and faculty                    **"
+      			+ "\n**                                                          **"
+      			+ "\n**************************************************************\n\n");
       System.out.println("If you see any problems with our database, please call us at 908-674-1124\n\n");
       
       
