@@ -30,7 +30,7 @@ public class Main2Updated {
 		scanner.close();
       
       System.out.println("\n**************************************************************"
-      			+ "**        Welcome to Sierra University People Search        **" +
+      			+ "**        Welcome to Sierra University People Search        **"
 	      		+ "**                                                          **"
       			+ "**    For security reasons,Our database is limited to use   **"
       			+ "**               by students and faculty                    **"
