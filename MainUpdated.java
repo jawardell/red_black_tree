@@ -1,6 +1,6 @@
-//package whocalled;
 import java.util.*;
 import java.io.*;
+
 class MainUpdated {
 	public static void main(String[] args) throws Exception {
 		String countryName = "";
@@ -9,7 +9,7 @@ class MainUpdated {
 		HashMap<Long, String> names = new HashMap<>();
 		RBTree tree = new RBTree(0);
 		String finalToString = "", countryCodeStr = "";
-      boolean exit = true;
+		boolean exit = true;
 		while (scan.hasNext()) {
 			String country = scan.next();
 			long phoneNum = scan.nextLong();
@@ -19,16 +19,16 @@ class MainUpdated {
 		}
 		scan.close();
 		Scanner input = new Scanner(System.in);
-      System.out.println("\n**************************************************************"
-      			+ "\n**        Welcome to WHOCALLED phone lookup service         **" 
-	      		+ "\n**                                                          **"
-      			+ "\n**   Have you received a call from a strange number lately? **"
-      			+ "\n**               We're here to help                         **"
-      			+ "\n**                                                          **"
-      			+ "\n**************************************************************\n\n");
-      
+		System.out.println("\n**************************************************************"
+				+ "\n**        Welcome to WHOCALLED phone lookup service         **"
+				+ "\n**                                                          **"
+				+ "\n**   Have you received a call from a strange number lately? **"
+				+ "\n**               We're here to help                         **"
+				+ "\n**                                                          **"
+				+ "\n**************************************************************\n\n");
+
 		while (exit) {
-         System.out.println("enter country code: ");
+			System.out.println("enter country code: ");
 			countryCodeStr = input.next();
 			System.out.print("\nenter rest of phone number: ");
 			String restOfNumStr = input.next();
@@ -39,20 +39,20 @@ class MainUpdated {
 			boolean isThere = tree.search(goodPhoneNumber);
 
 			switch (countryCodeInt) {
-				case (1):
-					countryName = "United States/Canada";
-					break;
-				case (91):
-					countryName = "India";
-					break;
-				case (52):
-					countryName = "Mexico";
-					break;
-				case (61):
-					countryName = "Australia";
-					break;
-				default:
-					countryName = "unlisted";
+			case (1):
+				countryName = "United States/Canada";
+				break;
+			case (91):
+				countryName = "India";
+				break;
+			case (52):
+				countryName = "Mexico";
+				break;
+			case (61):
+				countryName = "Australia";
+				break;
+			default:
+				countryName = "unlisted";
 			}
 
 			if (isThere) {
@@ -81,9 +81,8 @@ class MainUpdated {
 
 				}
 				System.out.println(finalToString);
-            
-            
-			} 
+
+			}
 		}
 	}
 }
