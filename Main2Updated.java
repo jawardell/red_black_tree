@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.io.FileNotFoundException;
-public class Main2Updated {
+public class Main2Updated {//
 	public static void main(String[] args) throws FileNotFoundException {
 		File file = new File("SchoolDB.txt");
 		TreeMap<String, Person> names = new TreeMap<>();
