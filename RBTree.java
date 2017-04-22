@@ -39,10 +39,36 @@ class RBTree
     {
         header.right = nullNode;
     }
-    /* Function to insert item */
+    /* Function to insert PERSON */
     public void insert(Person person )
     {
         item = person.getID();
+        current = parent = grand = header;
+        nullNode.element = item;
+        while (current.element != item)
+        {
+            great = grand;
+            grand = parent;
+            parent = current;
+            current = item < current.element ? current.left : current.right;
+            // Check if two red children and fix if so
+            if (current.left.color == RED && current.right.color == RED)
+                handleReorient( item );
+        }
+        // Insertion fails if already present
+        if (current != nullNode)
+            return;
+        current = new RedBlackNode(item, nullNode, nullNode);
+        // Attach to parent
+        if (item < parent.element)
+            parent.left = current;
+        else
+            parent.right = current;
+        handleReorient( item );
+    }
+    /* Function to insert PHONE NUMBER */
+    public void insert(long item )
+    {
         current = parent = grand = header;
         nullNode.element = item;
         while (current.element != item)
