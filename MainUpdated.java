@@ -19,7 +19,13 @@ class MainUpdated {
 		}
 		scan.close();
 		Scanner input = new Scanner(System.in);
-		System.out.print("\n\n\"exit\" ends the program.\n");
+      System.out.println("\n**************************************************************"
+      			+ "\n**        Welcome to WHOCALLED phone lookup service         **" 
+	      		+ "\n**                                                          **"
+      			+ "\n** Have you received a called from a strange number lately? **"
+      			+ "\n**               We're here to help                         **"
+      			+ "\n**                                                          **"
+      			+ "\n**************************************************************\n\n");
       
 		while (exit) {
          System.out.println("enter country code: ");
