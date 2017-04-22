@@ -1,34 +1,22 @@
-
-
 public class Person {
 	long id;
 	String name;
 	String corp;
 	String email;
+	String role;
 	
-	public Person(long id, String name, String corp, String email) {
+	public Person(String role, long id, String name, String corp, String email) {
 		this.id = id;
 		this.name = name; 
 		this.corp = corp;
 		this.email = email;
+		this.role = role;
+		if(this.role.equalsIgnoreCase("s")) {
+			this.role = "Student";
+		} else {
+			this.role = "Faculty";
+		}
 	}
-   
-	public void setName(String name) {
-		this.name = name;
-	}
-	
-	public void setID(long id) {
-	   this.id = id;
-	}
-	
-	public void setCorp(String corp) {
-		this.corp = corp;
-	}
-	
-	public void setEmail(String email) {
-		this.email = email;
-	}
-	
 	public String getName() {
 		return name;
 	}
@@ -46,7 +34,7 @@ public class Person {
 	}
 	
 	public String toString() {
-		return "\nPerson\nName: " + name + " ID: " + id + " Corp: " + corp + " Email: " + email;
+		return "\n" + role + "\nName: " + name + "\nID: " + id + "\nCorp: " + corp + "\nEmail: " + email;
 	}
 }
 
