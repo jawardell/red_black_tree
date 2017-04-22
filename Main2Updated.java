@@ -43,7 +43,7 @@ public class Main2Updated {
 			possible = "";
 			String key = "";
 			//System.out.print("\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nNew Search\n\n");
-			System.out.print("Search by name or ID:\n");
+			System.out.print("Do you want to search by name or ID:\n");
 			choice = input.next();
 			if(choice.equalsIgnoreCase("Name")) {
 				System.out.print("Enter \"1\" for first and last name format.");
