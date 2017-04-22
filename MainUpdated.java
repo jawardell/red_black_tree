@@ -22,7 +22,7 @@ class MainUpdated {
       System.out.println("\n**************************************************************"
       			+ "\n**        Welcome to WHOCALLED phone lookup service         **" 
 	      		+ "\n**                                                          **"
-      			+ "\n** Have you received a called from a strange number lately? **"
+      			+ "\n**   Have you received a call from a strange number lately? **"
       			+ "\n**               We're here to help                         **"
       			+ "\n**                                                          **"
       			+ "\n**************************************************************\n\n");
