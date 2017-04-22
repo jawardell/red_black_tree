@@ -24,8 +24,8 @@ public class NumGen {
       
       
       //GET NAMES
-      String[] names = new String[110];//make array for names
-      for(int i = 0; i < 110; i++) {//read in names from names.txt
+      String[] names = new String[140];//make array for names
+      for(int i = 0; i < 140; i++) {//read in names from names.txt
          names[i] = scanner.next();
       }
       
@@ -108,7 +108,7 @@ public class NumGen {
       for(Long i : list) {
          //Where are these indexes used for? -KD
          //they work with an array of 110 names which get printed beside the numbers - Joanne
-         int index = (int)(Math.random()*110);//if there is an exception, change this to 109
+         int index = (int)(Math.random()*140);//if there is an exception, change this to 109
          //From what I understand, casey selects a random case and assigns the country -KD
          //yes. -Joanne
          int casey = (int)(Math.random()*9);
