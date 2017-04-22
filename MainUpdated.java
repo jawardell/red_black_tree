@@ -61,7 +61,7 @@ class MainUpdated {
 				finalToString += "Caller Name: " + callerName + "\n";
 				finalToString += "Phone Number: " + (countryCodeStr + restOfNumStr) + "\n";
 				System.out.println(finalToString);
-				System.out.println("Search again?\n");
+				System.out.println("Search again?(Y/N)\n");
 				String answer = input.next();
 				if (answer.equalsIgnoreCase("y")) {
 					exit = true;
