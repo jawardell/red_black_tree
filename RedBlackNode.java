@@ -7,9 +7,6 @@ class RedBlackNode
     RedBlackNode left, right;
     long element;
     int color;
-    Student s;
-    Faculty f;
-    PhoneNumber p;
 
     /* Constructor */
     public RedBlackNode(long theElement)
@@ -23,51 +20,6 @@ class RedBlackNode
         left = lt;
         right = rt;
         element = theElement;
-        color = 1;
-    }
-    
-    /* Constructor for Student*/
-    public RedBlackNode(Student s)
-    {
-        this( s, null, null );
-    }
-    
-    /* Constructor */
-    public RedBlackNode(Student s, RedBlackNode lt, RedBlackNode rt)
-    {
-        left = lt;
-        right = rt;
-        this.s = s;
-        color = 1;
-    }
-    
-     /* Constructor for Faculty*/
-    public RedBlackNode(Faculty f)
-    {
-        this( f, null, null );
-    }
-    
-    /* Constructor */
-    public RedBlackNode(Faculty f, RedBlackNode lt, RedBlackNode rt)
-    {
-        left = lt;
-        right = rt;
-        this.f = f;
-        color = 1;
-    }
-
-     /* Constructor for Phone Number */
-    public RedBlackNode(PhoneNumber p)
-    {
-        this( p, null, null );
-    }
-    
-    /* Constructor */
-    public RedBlackNode(PhoneNumber p, RedBlackNode lt, RedBlackNode rt)
-    {
-        left = lt;
-        right = rt;
-        this.p = p;
         color = 1;
     }
     
