@@ -76,8 +76,9 @@ public class Main2Updated {//
 					System.out.print("There were multiple occurrences:\n");
 					System.out.print(possible);
 					System.out.print("\nType the first and last name of one you want:\n");
-					searchByName = input.next();
-					searchByName += " " + input.next();
+					String searchByFirstName = input.next();
+               				String searchByLastName = input.next();
+					searchByName = searchByFirstName.substring(0,1).toUpperCase() + searchByFirstName.substring(1) + " " + searchByLastName.substring(0,1).toUpperCase() + searchByLastName .substring(1);
 					found = true;
 				} else if (count == 1) {
 					searchByName = possible.substring(0, possible.length()-1);
