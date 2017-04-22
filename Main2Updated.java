@@ -42,6 +42,7 @@ public class Main2Updated {
 		while(exit) {
 			possible = "";
 			String key = "";
+         count = 0;
 			//System.out.print("\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nNew Search\n\n");
 			System.out.print("Do you want to search by name or ID:\n");
 			choice = input.next();
@@ -52,11 +53,14 @@ public class Main2Updated {
 				switch(casey) {
 					case 1 :
 						System.out.print("Enter first and last name:\n");
-						key = input.next() + " " + input.next();
+                  String firstname = input.next();
+                  String lastname = input.next();
+						key = firstname.substring(0,1).toUpperCase() + firstname.substring(1) + " " + lastname.substring(0,1).toUpperCase() + lastname.substring(1);
 						break;
 					case 2:
 						System.out.print("Enter single name:\n");
 						key = input.next();
+                  key = key.substring(0,1).toUpperCase() + key.substring(1);
 						break;
 				}
 
@@ -80,6 +84,7 @@ public class Main2Updated {
 					found = true;
 				} else {
 					System.out.print("There are 0 occurrences");
+               found = false;
 				}
 
 				if(found) {
@@ -114,6 +119,6 @@ public class Main2Updated {
             exit = false;
 		}
 
-
 	}
 }
+
