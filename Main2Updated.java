@@ -29,19 +29,14 @@ public class Main2Updated {
 		}
 		scanner.close();
       
-      System.out.println();
-      System.out.println("**************************************************************");
-      System.out.println("**        Welcome to Sierra University People Search        **");
-      System.out.println("**                                                          **");
-      System.out.println("**    For security reasons,Our database is limited to use   **" );
-      System.out.println("**               by students and faculty                    **");
-      System.out.println("**                                                          **");
-      System.out.println("**************************************************************");
-      System.out.println();
-      System.out.println();
-      System.out.println("If you see any problems with our database, please call us at 908-674-1124");
-      System.out.println();
-      System.out.println();
+      System.out.println("\n**************************************************************"
+      			+ "**        Welcome to Sierra University People Search        **" +
+	      		+ "**                                                          **"
+      			+ "**    For security reasons,Our database is limited to use   **"
+      			+ "**               by students and faculty                    **"
+      			+ "**                                                          **"
+      			+ "**************************************************************\n\n");
+      System.out.println("If you see any problems with our database, please call us at 908-674-1124\n\n");
       
       
 		while(exit) {
@@ -112,7 +107,7 @@ public class Main2Updated {
          System.out.println("\nWould you like to search again? [Y,N]");
          Scanner scan2 = new Scanner(System.in);
          String answer = scan2.next();
-         if (answer.equals("Y")){
+         if (answer.equalsIgnoreCase("Y")){
          
          }
          else
