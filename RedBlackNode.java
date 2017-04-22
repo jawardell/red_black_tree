@@ -3,14 +3,15 @@
 
 /* Class Node */
 class RedBlackNode {
-
+   RedBlackNode left, right;
+	long element;
+	int color;
+   
 	public RedBlackNode(long theElement) {
 		this(theElement, null, null);
 	}
 
-	RedBlackNode left, right;
-	long element;
-	int color;
+	
 
 	/* Constructor */
 

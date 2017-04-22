@@ -10,25 +10,31 @@ class RBTree
     private RedBlackNode great;
     private RedBlackNode header;
     private static RedBlackNode nullNode;
-    /* static initializer for nullNode */
+    
     static
     {
         nullNode = new RedBlackNode(0);
         nullNode.left = nullNode;
         nullNode.right = nullNode;
     }
-    /* Black - 1  RED - 0 */
-    static final int BLACK = 1;
-    static final int RED   = 0;
 
-    /* Constructor */
     public RBTree(long negInf)
     {
         header = new RedBlackNode(negInf);
         header.left = nullNode;
         header.right = nullNode;
     }
-    /* Function to check if tree is empty */
+    
+    /* static initializer for nullNode */
+    /* Constructor */
+    
+
+    
+    /* Black - 1  RED - 0 */
+    static final int BLACK = 1;
+    static final int RED   = 0;
+
+        /* Function to check if tree is empty */
     public boolean isEmpty()
     {
         return header.right == nullNode;
