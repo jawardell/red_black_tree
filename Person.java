@@ -34,7 +34,10 @@ public class Person {
 	}
 	
 	public String toString() {
-		return "\n" + role + "\nName: " + name + "\nID: " + id + "\nCorp: " + corp + "\nEmail: " + email;
+		if(role.equals("Faculty")) {
+			       return "\n" + role + "\nName: " + name + "\nID: " + id + "\nPhone Number: " + corp + "\nEmail: " + email;
+		}
+		return "\n" + role + "\nName: " + name + "\nID: " + id + "\nClassification: " + corp + "\nEmail: " + email;
 	}
 }
 
