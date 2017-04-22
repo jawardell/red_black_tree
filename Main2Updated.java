@@ -25,7 +25,7 @@ public class Main2Updated {//
 			Person person = new Person(role, id, firstName + " " + lastName, corp, email);
 			names.put(person.getName(), person);
 			ids.put(person.getID(), person);
-			tree.insert(person.getID());
+			tree.insert(person);
 		}
 		scanner.close();
       
