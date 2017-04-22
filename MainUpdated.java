@@ -56,6 +56,15 @@ class MainUpdated {
 				case (501):
 					countryName = "Belize";
 					break;
+				case (55):
+					countryName = "Brazil";
+              				 break;
+   				case (44):
+					countryName = "England";
+					break;
+   				case (81):
+					countryName = "Japan";
+					break;
 				case (975):
 					countryName = "Bhutan";
 					break;
