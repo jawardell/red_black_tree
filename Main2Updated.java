@@ -31,7 +31,7 @@ public class Main2Updated {
 			scanner.close();
 
 			System.out.println("**************************************************************"
-					+ "\n**        Welcome to Sierra University People Search        **"
+					+ "\n**        Welcome to Big Balla University People Search        **"
 					+ "\n**                                                          **"
 					+ "\n**    For security reasons,Our database is limited to use   **"
 					+ "\n**               by students and faculty                    **"
