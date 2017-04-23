@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.io.FileNotFoundException;
 
-public class Main2Updated {//
+public class Main2Updated {
 	public static void main(String[] args) {
 		try {
 			File file = new File("SchoolDB.txt");
