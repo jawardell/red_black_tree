@@ -30,6 +30,7 @@ class MainUpdated {
 					+ "\n**************************************************************\n\n");
 
 			while (exit) {
+				finalToString = "";
 				System.out.println("enter country code: ");
 				countryCodeStr = input.next();
 				System.out.print("\nenter rest of phone number: ");
