@@ -4,7 +4,7 @@ We implemented a who called system and managed a hypothetical school database. R
 
 1. A flat-file database of school members was organized and accessed using a Red Black Tree and a Tree Map. 
 
-2. A flat-file database of phone number listings was stored and searched over using a red black tree. 
+2. A flat-file database of phone number listings was stored and searched over using a Red Black tree. 
 
 
 
