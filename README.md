@@ -2,7 +2,7 @@
 
 We implemented a who called system and managed a school database. Red Black trees and other data structures were used in these two object oriented systems:
 
-1. A flat-file database of school members was organized and accessed using a Red Black Tree and a Hash Map. 
+1. A flat-file database of school members was organized and accessed using a Red Black Tree and a Tree Map. 
 
 2. A flat-file of phone number listings was stored and searched over using a red black tree. 
 
