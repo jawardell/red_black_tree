@@ -1,4 +1,3 @@
-package school;
 import java.util.*;
 import java.io.*;
 import java.io.FileNotFoundException;

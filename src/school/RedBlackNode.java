@@ -1,4 +1,4 @@
-package school;//http://www.sanfoundry.com/java-program-implement-red-black-tree/
+//http://www.sanfoundry.com/java-program-implement-red-black-tree/
 //tooken from codebytes
 
 /* Class Node */

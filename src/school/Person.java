@@ -1,5 +1,3 @@
-package school;
-
 public class Person {
 	long id;
 	String name;

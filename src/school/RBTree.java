@@ -1,4 +1,4 @@
-package school;//http://www.codebytes.in/2014/10/red-black-tree-java-implementation.html
+//http://www.codebytes.in/2014/10/red-black-tree-java-implementation.html
 //not our implementation
 
 /* Class RBTree */

@@ -1,4 +1,4 @@
-package whocalled;
+
 import java.util.*;
 import java.io.*;
 class Main {
