@@ -1,6 +1,6 @@
 # Applications of  Red Black Trees
 
-We implemented a who called system and managed a school database. Red Black trees and other data structures were used in these two object oriented systems:
+We implemented a who called system and managed a hypothetical school database. Red Black trees and other data structures were used in these two object oriented systems:
 
 1. A flat-file database of school members was organized and accessed using a Red Black Tree and a Tree Map. 
 
